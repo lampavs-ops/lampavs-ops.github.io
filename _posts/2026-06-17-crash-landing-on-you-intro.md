@@ -28,8 +28,8 @@ until she can safely return home.
 What follows is a love story set against one of the world's most dramatic
 geopolitical divides.
 
-{% include embed/youtube.html id="1ovgxN2VWNc" %}
-*Official Trailer — Netflix Korea*
+{% include youtube.html id="eXMjTXL2Vks" %}
+*Official Trailer #1 — Netflix (English subtitles)*
 
 ## Why It Works for First-Time Viewers
 
@@ -69,8 +69,8 @@ and perfectly timed.
 - **Pacing:** Slow build in early episodes — stick with it
 - **Where to watch:** Netflix worldwide
 
-{% include embed/youtube.html id="3STJ-SFBpVM" %}
-*Official highlight clip*
+{% include youtube.html id="K58Z1RORRaI" %}
+*Official Trailer #2 — Netflix (English subtitles)*
 
 ## Final Verdict
 
