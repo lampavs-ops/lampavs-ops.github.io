@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+{% include lang.html %}
+
+{% assign visible_posts = site.posts | where_exp: 'post', 'post.hidden != true' %}
+{% assign featured_posts = visible_posts | where: 'featured', true %}
+
+<section class="ku-home ku-featured-page">
+  <header class="ku-home-header">
+    <p class="ku-home-kicker">{{ site.tagline }}</p>
+    <h1>Editor's Pick</h1>
+  </header>
+
+  {% if featured_posts.size > 0 %}
+    <div class="ku-post-grid" aria-label="Editor's Pick posts">
+      {% for post in featured_posts %}
+        {% include ku-post-card.html post=post %}
+      {% endfor %}
+    </div>
+  {% else %}
+    <p class="ku-coming-soon">Coming soon</p>
+  {% endif %}
+</section>
