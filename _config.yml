@@ -16,16 +16,17 @@ timezone: Asia/Seoul
 
 title: K-Unpacked # the main title
 
-tagline: "Korean culture, unpacked." # it will display as the subtitle
+tagline: Korean culture, unpacked. # it will display as the subtitle
 
-description: >- # used by seo meta and the atom feed
-  Korean culture, unpacked.
+description: Deep dives into K-Pop, K-Drama, and K-Movie for fans who want more.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://lampavs-ops.github.io"
 
-author: "(lampavs)"
+author:
+  name: K-Unpacked
+  email:
 
 github:
   username: lampavs-ops # change to your GitHub username
@@ -36,12 +37,10 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: "(lampavs)"
+  name: K-Unpacked
   email: # change to your email address
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
-  links:
-    # The first element serves as the copyright owner's link
-    - https://github.com/lampavs-ops # change to your GitHub homepage
+  links: []
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -90,7 +89,7 @@ pageviews:
 #     light — Use the light color scheme
 #     dark — Use the dark color scheme
 #
-theme_mode: # [light | dark]
+theme_mode: dark # [light | dark]
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
