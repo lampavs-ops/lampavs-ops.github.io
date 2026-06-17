@@ -7,6 +7,7 @@ description: "Which K-Pop groups have the most fans in 2026? We picked the top 1
 image:
   path: https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=1200&q=80
   alt: "K-Pop concert with colorful lights"
+featured: true
 ---
 
 > 📊 **Where did the numbers come from?** Spotify · Billboard · Hanteo Chart · 2025 Korean Wave Report.
