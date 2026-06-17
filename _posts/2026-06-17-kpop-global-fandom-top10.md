@@ -66,6 +66,9 @@ Here are the **2026 results**.
 
 ## 🏆 Boy Group #1 — BTS · Fan Name: ARMY
 
+[![BTS - Dynamite Official MV](https://img.youtube.com/vi/gdZLi9oWNZg/maxresdefault.jpg)](https://www.youtube.com/watch?v=gdZLi9oWNZg)
+*▶ Click to watch: BTS 'Dynamite' Official MV*
+
 BTS started in 2013. They changed K-Pop forever.
 
 ARMY is not just a fan group. It is a **world movement**. ARMY members live in 195 countries. They stream music. They go to concerts. They even do charity work together.
@@ -98,6 +101,9 @@ Some members are serving in the Korean military right now. But ARMY never stops 
 
 ## 🥈 Boy Group #2 — Stray Kids · Fan Name: STAY
 
+[![Stray Kids - MIROH Official MV](https://img.youtube.com/vi/Dab4EENTW5I/maxresdefault.jpg)](https://www.youtube.com/watch?v=Dab4EENTW5I)
+*▶ Click to watch: Stray Kids 'MIROH' M/V*
+
 Stray Kids — fans call them **SKZ** — debuted in 2018. What makes them special? They write and produce most of their own music. A small group inside the group called **3RACHA** does a lot of that work.
 
 Their sound is big, loud, and bold. Songs like *Miroh* and *Thunderous* feel like a storm. STAY loves that.
@@ -127,6 +133,9 @@ Their sound is big, loud, and bold. Songs like *Miroh* and *Thunderous* feel lik
 
 ## 🥉 Boy Group #3 — SEVENTEEN · Fan Name: CARAT
 
+[![SEVENTEEN - Left & Right Official MV](https://img.youtube.com/vi/HdZdxocqzq4/maxresdefault.jpg)](https://www.youtube.com/watch?v=HdZdxocqzq4)
+*▶ Click to watch: SEVENTEEN 'Left & Right' Official MV*
+
 SEVENTEEN has 13 members. Yes — **thirteen!** They split into three teams: a **Hip-Hop Unit**, a **Vocal Unit**, and a **Performance Unit**. The members write songs, make dances, and even direct their own music videos.
 
 CARAT means "to love with strength." It comes from the brightness of a diamond. CARАTs shine for SEVENTEEN.
@@ -144,6 +153,9 @@ CARAT means "to love with strength." It comes from the brightness of a diamond. 
 
 ## #4 Boy Group — TXT · Fan Name: MOA
 
+[![TXT - 0X1=LOVESONG Official MV](https://img.youtube.com/vi/d5bbqKYu51w/maxresdefault.jpg)](https://www.youtube.com/watch?v=d5bbqKYu51w)
+*▶ Click to watch: TXT '0X1=LOVESONG' Official MV*
+
 TXT stands for **Tomorrow X Together**. They came out in 2019 under HYBE — the same company as BTS. But TXT has its own sound. They mix pop, rock, and alternative music together.
 
 Their albums tell a story about growing up. MOA means "to gather." Fans who love deep storytelling really connect with TXT.
@@ -160,6 +172,9 @@ Their albums tell a story about growing up. MOA means "to gather." Fans who love
 ---
 
 ## #5 Boy Group — ENHYPEN · Fan Name: ENGENE
+
+[![ENHYPEN - Given-Taken Official MV](https://img.youtube.com/vi/nQ6wLuYvGd4/maxresdefault.jpg)](https://www.youtube.com/watch?v=nQ6wLuYvGd4)
+*▶ Click to watch: ENHYPEN 'Given-Taken' Official MV*
 
 ENHYPEN came from a TV show called *I-Land* in 2020. Seven boys competed hard and made it through. Now they are one of the top 4th-gen groups.
 
