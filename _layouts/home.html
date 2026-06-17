@@ -1,0 +1,70 @@
+---
+layout: default
+---
+
+{% include lang.html %}
+
+{% assign recent_posts = site.posts | where_exp: 'post', 'post.hidden != true' %}
+
+<section class="ku-home">
+  <header class="ku-home-header">
+    <p class="ku-home-kicker">{{ site.tagline }}</p>
+    <h1>Latest Stories</h1>
+  </header>
+
+  {% if recent_posts.size > 0 %}
+    <div class="ku-post-grid" aria-label="Recent posts">
+      {% for post in recent_posts limit: 3 %}
+        {% assign thumbnail = '/assets/img/default-thumbnail.svg' %}
+
+        {% if post.image %}
+          {% assign thumbnail = post.image.path | default: post.image %}
+
+          {% if post.media_subpath %}
+            {% unless thumbnail contains '://' %}
+              {% assign thumbnail = post.media_subpath | append: '/' | append: thumbnail | replace: '///', '/' | replace: '//', '/' %}
+            {% endunless %}
+          {% endif %}
+        {% endif %}
+
+        {% unless thumbnail contains '://' %}
+          {% assign thumbnail = thumbnail | relative_url %}
+        {% endunless %}
+
+        {% assign summary = post.description | default: post.excerpt | strip_html | normalize_whitespace | truncate: 160 %}
+
+        <article class="ku-post-card">
+          <a class="ku-post-thumb" href="{{ post.url | relative_url }}" aria-label="{{ post.title | escape }}">
+            <img src="{{ thumbnail }}" alt="{{ post.title | escape }} thumbnail" loading="lazy">
+          </a>
+
+          <div class="ku-post-card-body">
+            <div class="ku-post-meta">
+              <time datetime="{{ post.date | date_to_xmlschema }}">
+                {{ post.date | date: '%b %-d, %Y' }}
+              </time>
+            </div>
+
+            <h2>
+              <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+            </h2>
+
+            <p>{{ summary }}</p>
+
+            {% if post.categories.size > 0 %}
+              <div class="ku-post-categories" aria-label="Post categories">
+                {% for category in post.categories %}
+                  <a href="{{ '/categories/' | append: category | slugify | append: '/' | relative_url }}">
+                    {{ category }}
+                  </a>
+                {% endfor %}
+              </div>
+            {% endif %}
+          </div>
+        </article>
+      {% endfor %}
+    </div>
+  {% else %}
+    <p class="ku-coming-soon">Coming soon</p>
+  {% endif %}
+</section>
