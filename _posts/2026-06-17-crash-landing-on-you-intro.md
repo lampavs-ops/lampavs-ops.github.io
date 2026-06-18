@@ -86,6 +86,5 @@ If you haven't watched it yet, stop reading and start episode one.
 
 **Rating: 9.5 / 10**
 
----
 *Ready to go deeper? Once you've finished the series:*
-*👉 Crash Landing on You: Ending Explained & Hidden Symbolism (coming soon)*
+*👉 [Crash Landing on You: Ending Explained & Hidden Symbolism](/posts/crash-landing-on-you-deep-dive)*
