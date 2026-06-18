@@ -28,8 +28,10 @@ until she can safely return home.
 What follows is a love story set against one of the world's most dramatic
 geopolitical divides.
 
-{% include youtube.html id="eXMjTXL2Vks" %}
-*Official Trailer #1 — Netflix (English subtitles)*
+{% include youtube.html id="6-imtz9v3-g" %}
+*Official Teaser — tvN*
+*If the video is unavailable in your region, 
+[**▶ Watch the Official Trailer on YouTube**](https://www.youtube.com/results?search_query=Crash+Landing+on+You+Official+Trailer+Netflix)
 
 ## Why It Works for First-Time Viewers
 
@@ -69,8 +71,10 @@ and perfectly timed.
 - **Pacing:** Slow build in early episodes — stick with it
 - **Where to watch:** Netflix worldwide
 
-{% include youtube.html id="K58Z1RORRaI" %}
-*Official Trailer #2 — Netflix (English subtitles)*
+{% include youtube.html id="tzb3k9qXqWw" %}
+*Script Reading Behind the Scenes — tvN Official*
+*If the video is unavailable in your region, 
+[**▶ Watch Highlights on YouTube**](https://www.youtube.com/results?search_query=Crash+Landing+on+You+Best+Moments+Highlights)
 
 ## Final Verdict
 
