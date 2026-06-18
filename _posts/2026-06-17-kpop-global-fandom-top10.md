@@ -102,7 +102,7 @@ Some members are serving in the Korean military right now. But ARMY never stops 
 
 ## 🥈 Boy Group #2 — Stray Kids · Fan Name: STAY
 
-[![Stray Kids - MIROH Official MV](https://img.youtube.com/vi/Dab4EENTW5I/maxresdefault.jpg)](https://www.youtube.com/watch?v=Dab4EENTW5I)
+[![Stray Kids - MIROH Official MV](https://img.youtube.com/vi/Dab4EENTW5I/maxresdefault.jpg)](https://youtu.be/Dab4EENTW5I?si=IPi6rOEfmnC0aQv8)
 *▶ Click to watch: Stray Kids 'MIROH' M/V*
 
 Stray Kids — fans call them **SKZ** — debuted in 2018. What makes them special? They write and produce most of their own music. A small group inside the group called **3RACHA** does a lot of that work.
@@ -192,69 +192,6 @@ Members **Jay** (from the US) and **Jake** (from Australia) help connect with En
 | **Company** | BELIFT LAB (HYBE Labels) |
 | **Big Records** | Million-seller album · Members from 3 different countries |
 
----
-
-## 🌸 Girl Group #1 — BLACKPINK · Fan Name: BLINK
-
-BLACKPINK is the **biggest K-Pop girl group on the planet**. With 31.9M Spotify listeners, they are not just #1 in K-Pop. They compete with the biggest pop stars in the whole world.
-
-BLINK is one of the most active fan groups online. And each member — Lisa, Jennie, Rosé, and Jisoo — also has a big solo career.
-
-| | |
-|--|--|
-| **Debut** | August 8, 2016 |
-| **Members (4)** | Jisoo, Jennie, Rosé, Lisa |
-| **Spotify 2025** | 31.9M listeners per month |
-| **Top Songs** | Pink Venom · Shut Down · How You Like That · DDU-DU DDU-DU · Kill This Love |
-| **Company** | YG Entertainment |
-| **Big Records** | Most-followed girl group on YouTube · Coachella headliners |
-
-**How has Spotify grown over time?**
-
-| Year | Monthly Listeners |
-|------|------------------|
-| 2021 | 14.8M |
-| 2022 | 23.1M |
-| 2023 | 24.8M |
-| 2024 | 27.5M |
-| 2025 | 31.9M |
-
-> 🚀 BLACKPINK keeps growing every year. BLINK never stops.
-
----
-
-## 🥈 Girl Group #2 — TWICE · Fan Name: ONCE
-
-TWICE started slow compared to BLACKPINK. But look at what happened in 2024 and 2025! They jumped from 11.4M to **26.5M** listeners. That is a huge leap.
-
-TWICE has been going since 2015. They have 9 members from Korea, Japan, and Taiwan. ONCE is one of the most loyal fan groups in all of K-Pop.
-
-| | |
-|--|--|
-| **Debut** | October 20, 2015 |
-| **Members (9)** | **Jihyo**, Nayeon, Jeongyeon, Momo, Sana, Mina, Dahyun, Chaeyoung, Tzuyu |
-| **Spotify 2025** | 26.5M listeners per month |
-| **Top Songs** | Cheer Up · TT · FANCY · Feel Special · Talk That Talk · SET ME FREE |
-| **Company** | JYP Entertainment |
-| **Big Records** | First K-Pop girl group to sell 1 million albums in Japan |
-
----
-
-## 🥉 Girl Group #3 — NewJeans · Fan Name: Bunnies
-
-NewJeans debuted in 2022. They got huge very fast. Their music sounds fresh — a mix of Y2K pop, R&B, and dance music. Songs like *Hype Boy* and *OMG* were everywhere.
-
-They had 18M listeners in 2023. The number dropped a little after some problems in the music industry in 2024. But 13.5M is still very strong.
-
-| | |
-|--|--|
-| **Debut** | July 22, 2022 |
-| **Members (5)** | Minji, Hanni, Danielle, Haerin, Hyein |
-| **Spotify 2025** | 13.5M listeners per month |
-| **Top Songs** | Hype Boy · OMG · Super Shy · ETA · Bubble Gum |
-| **Company** | ADOR (HYBE) |
-
----
 
 ## 📊 Who Is Growing the Fastest?
 
