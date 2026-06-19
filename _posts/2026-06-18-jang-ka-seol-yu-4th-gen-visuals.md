@@ -5,8 +5,8 @@ categories: [K-Pop]
 tags: [k-pop, jang-wonyoung, karina, sullyoon, yuna, ive, aespa, nmixx, itzy, 4th-gen, visual, kpop-slang, small-talk]
 description: "장카설유 — Jang, Ka, Seol, Yu. Four names every Korean K-pop fan knows by heart. Meet the four visual queens of 4th gen K-pop in 2026."
 image:
-  path: https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=1200&q=80
-  alt: "K-Pop concert stage with lights"
+  path: /assets/img/posts/jang-ka-seol-yu-cover.jpg
+  alt: "장카설유 — Jang Wonyoung, Karina, Sullyoon, Yuna"
 featured: true
 ---
 
@@ -37,8 +37,8 @@ Let's meet them one by one. 👇
 
 ## 🌸 장 (Jang) — Jang Wonyoung · IVE
 
-![Jang Wonyoung IVE kpop](https://images.unsplash.com/photo-1513151233558-d860c5398176?w=800&q=80)
-*Image: Unsplash — visual concept placeholder*
+![Jang Wonyoung IVE](/assets/img/posts/jang-wonyoung-profile.jpg)
+*Jang Wonyoung — IVE (Starship Entertainment)*
 
 <a href="https://www.youtube.com/watch?v=Y4nopO-TPQM" target="_blank" rel="noopener">
   <img src="https://img.youtube.com/vi/Y4nopO-TPQM/maxresdefault.jpg" alt="IVE - ELEVEN Official MV" style="width:100%;max-width:560px;border-radius:8px;" onerror="this.src='https://img.youtube.com/vi/Y4nopO-TPQM/hqdefault.jpg'">
@@ -93,6 +93,9 @@ She also has the rare ability to make brands succeed just by being associated wi
 
 ## 🖤 카 (Ka) — Karina · aespa
 
+![Karina aespa](/assets/img/posts/karina-aespa-profile.jpg)
+*Karina — aespa (SM Entertainment)*
+
 <a href="https://www.youtube.com/watch?v=4TWR90KJl84" target="_blank" rel="noopener">
   <img src="https://img.youtube.com/vi/4TWR90KJl84/maxresdefault.jpg" alt="aespa - Black Mamba Official MV" style="width:100%;max-width:560px;border-radius:8px;" onerror="this.src='https://img.youtube.com/vi/4TWR90KJl84/hqdefault.jpg'">
 </a>
@@ -143,6 +146,9 @@ She was first recruited by SM Entertainment after a casting manager found her on
 ---
 
 ## 🩵 설 (Seol) — Sullyoon · NMIXX
+
+![Sullyoon NMIXX](/assets/img/posts/sullyoon-nmixx-profile.jpg)
+*Sullyoon — NMIXX (JYP Entertainment)*
 
 <a href="https://www.youtube.com/watch?v=hE3_FMzKkJE" target="_blank" rel="noopener">
   <img src="https://img.youtube.com/vi/hE3_FMzKkJE/maxresdefault.jpg" alt="NMIXX - DICE Official MV" style="width:100%;max-width:560px;border-radius:8px;" onerror="this.src='https://img.youtube.com/vi/hE3_FMzKkJE/hqdefault.jpg'">
@@ -197,6 +203,9 @@ She was classmates with NewJeans' Minji at Hanlim Arts High School, where they w
 ---
 
 ## 💙 유 (Yu) — Yuna · ITZY
+
+![Yuna ITZY](/assets/img/posts/yuna-itzy-profile.jpg)
+*Yuna — ITZY (JYP Entertainment)*
 
 <a href="https://www.youtube.com/watch?v=NqEFMy5UNfY" target="_blank" rel="noopener">
   <img src="https://img.youtube.com/vi/NqEFMy5UNfY/maxresdefault.jpg" alt="ITZY - DALLA DALLA Official MV" style="width:100%;max-width:560px;border-radius:8px;" onerror="this.src='https://img.youtube.com/vi/NqEFMy5UNfY/hqdefault.jpg'">
