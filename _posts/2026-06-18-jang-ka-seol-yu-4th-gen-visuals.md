@@ -40,13 +40,7 @@ Let's meet them one by one. 👇
 ![Jang Wonyoung IVE](/assets/img/posts/jang-wonyoung-profile.jpg)
 *Jang Wonyoung — IVE (Starship Entertainment)*
 
-<a href="https://www.youtube.com/watch?v=Y4nopO-TPQM" target="_blank" rel="noopener">
-  <img src="https://img.youtube.com/vi/Y4nopO-TPQM/maxresdefault.jpg" alt="IVE - ELEVEN Official MV" style="width:100%;max-width:560px;border-radius:8px;" onerror="this.src='https://img.youtube.com/vi/Y4nopO-TPQM/hqdefault.jpg'">
-</a>
-
-*▶ Click the image to watch: IVE 'ELEVEN' Official MV*
-
-> 🔍 Can't see the video? → [**Search 'IVE ELEVEN MV' on YouTube**](https://www.youtube.com/results?search_query=IVE+ELEVEN+Official+MV)
+> 🎬 [**▶ Watch 'IVE ELEVEN' Official MV on YouTube**](https://www.youtube.com/results?search_query=IVE+ELEVEN+Official+MV)
 
 ### Who is she?
 
@@ -96,13 +90,7 @@ She also has the rare ability to make brands succeed just by being associated wi
 ![Karina aespa](/assets/img/posts/karina-aespa-profile.jpg)
 *Karina — aespa (SM Entertainment)*
 
-<a href="https://www.youtube.com/watch?v=4TWR90KJl84" target="_blank" rel="noopener">
-  <img src="https://img.youtube.com/vi/4TWR90KJl84/maxresdefault.jpg" alt="aespa - Black Mamba Official MV" style="width:100%;max-width:560px;border-radius:8px;" onerror="this.src='https://img.youtube.com/vi/4TWR90KJl84/hqdefault.jpg'">
-</a>
-
-*▶ Click the image to watch: aespa 'Black Mamba' Official MV*
-
-> 🔍 Can't see the video? → [**Search 'aespa Black Mamba MV' on YouTube**](https://www.youtube.com/results?search_query=aespa+Black+Mamba+Official+MV)
+> 🎬 [**▶ Watch 'aespa Black Mamba' Official MV on YouTube**](https://www.youtube.com/results?search_query=aespa+Black+Mamba+Official+MV)
 
 ### Who is she?
 
@@ -150,13 +138,7 @@ She was first recruited by SM Entertainment after a casting manager found her on
 ![Sullyoon NMIXX](/assets/img/posts/sullyoon-nmixx-profile.jpg)
 *Sullyoon — NMIXX (JYP Entertainment)*
 
-<a href="https://www.youtube.com/watch?v=hE3_FMzKkJE" target="_blank" rel="noopener">
-  <img src="https://img.youtube.com/vi/hE3_FMzKkJE/maxresdefault.jpg" alt="NMIXX - DICE Official MV" style="width:100%;max-width:560px;border-radius:8px;" onerror="this.src='https://img.youtube.com/vi/hE3_FMzKkJE/hqdefault.jpg'">
-</a>
-
-*▶ Click the image to watch: NMIXX 'DICE' Official MV*
-
-> 🔍 Can't see the video? → [**Search 'NMIXX DICE MV' on YouTube**](https://www.youtube.com/results?search_query=NMIXX+DICE+Official+MV)
+> 🎬 [**▶ Watch 'NMIXX DICE' Official MV on YouTube**](https://www.youtube.com/results?search_query=NMIXX+DICE+Official+MV)
 
 ### Who is she?
 
@@ -207,13 +189,7 @@ She was classmates with NewJeans' Minji at Hanlim Arts High School, where they w
 ![Yuna ITZY](/assets/img/posts/yuna-itzy-profile.jpg)
 *Yuna — ITZY (JYP Entertainment)*
 
-<a href="https://www.youtube.com/watch?v=NqEFMy5UNfY" target="_blank" rel="noopener">
-  <img src="https://img.youtube.com/vi/NqEFMy5UNfY/maxresdefault.jpg" alt="ITZY - DALLA DALLA Official MV" style="width:100%;max-width:560px;border-radius:8px;" onerror="this.src='https://img.youtube.com/vi/NqEFMy5UNfY/hqdefault.jpg'">
-</a>
-
-*▶ Click the image to watch: ITZY 'DALLA DALLA' Official MV*
-
-> 🔍 Can't see the video? → [**Search 'ITZY DALLA DALLA MV' on YouTube**](https://www.youtube.com/results?search_query=ITZY+DALLA+DALLA+Official+MV)
+> 🎬 [**▶ Watch 'ITZY DALLA DALLA' Official MV on YouTube**](https://www.youtube.com/results?search_query=ITZY+DALLA+DALLA+Official+MV)
 
 ### Who is she?
 
