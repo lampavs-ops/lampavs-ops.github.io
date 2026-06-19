@@ -5,7 +5,7 @@ categories: [K-Pop]
 tags: [k-pop, bts, blackpink, fandom, spotify, girl-group, boy-group, kpop-ranking]
 description: "Which K-Pop groups have the most fans in 2026? We picked the top 10 boy groups and girl groups using Spotify, album sales, and world tour data."
 image:
-  path: https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=1200&q=80
+  path: /assets/img/posts/kpop-fandom-top10-cover.jpg
   alt: "K-Pop concert with colorful lights"
 featured: true
 ---
@@ -67,13 +67,10 @@ Here are the **2026 results**.
 
 ## 🏆 Boy Group #1 — BTS · Fan Name: ARMY
 
-<a href="https://www.youtube.com/watch?v=gdZLi9oWNZg" target="_blank" rel="noopener">
-  <img src="https://img.youtube.com/vi/gdZLi9oWNZg/maxresdefault.jpg" alt="BTS - Dynamite Official MV" style="width:100%;max-width:560px;border-radius:8px;" onerror="this.src='https://img.youtube.com/vi/gdZLi9oWNZg/hqdefault.jpg'">
-</a>
+![BTS group photo](/assets/img/posts/fandom-bts-group.jpg)
+*BTS — HYBE Entertainment*
 
-*▶ Click the image to watch: BTS 'Dynamite' Official MV*
-
-> 🔍 Can't see the video? → [**Search 'BTS Dynamite MV' on YouTube**](https://www.youtube.com/results?search_query=BTS+Dynamite+Official+MV)
+> 🎬 [**▶ Watch 'BTS Dynamite' Official MV on YouTube**](https://www.youtube.com/results?search_query=BTS+Dynamite+Official+MV)
 
 BTS started in 2013. They changed K-Pop forever.
 
@@ -107,13 +104,10 @@ Some members are serving in the Korean military right now. But ARMY never stops 
 
 ## 🥈 Boy Group #2 — Stray Kids · Fan Name: STAY
 
-<a href="https://youtu.be/Dab4EENTW5I" target="_blank" rel="noopener">
-  <img src="https://img.youtube.com/vi/Dab4EENTW5I/maxresdefault.jpg" alt="Stray Kids - MIROH Official MV" style="width:100%;max-width:560px;border-radius:8px;" onerror="this.src='https://img.youtube.com/vi/Dab4EENTW5I/hqdefault.jpg'">
-</a>
+![Stray Kids group photo](/assets/img/posts/fandom-straykids-group.jpg)
+*Stray Kids — JYP Entertainment*
 
-*▶ Click the image to watch: Stray Kids 'MIROH' M/V*
-
-> 🔍 Can't see the video? → [**Search 'Stray Kids MIROH MV' on YouTube**](https://www.youtube.com/results?search_query=Stray+Kids+MIROH+Official+MV)
+> 🎬 [**▶ Watch 'Stray Kids MIROH' Official MV on YouTube**](https://www.youtube.com/results?search_query=Stray+Kids+MIROH+Official+MV)
 
 Stray Kids — fans call them **SKZ** — debuted in 2018. What makes them special? They write and produce most of their own music. A small group inside the group called **3RACHA** does a lot of that work.
 
@@ -144,13 +138,10 @@ Their sound is big, loud, and bold. Songs like *Miroh* and *Thunderous* feel lik
 
 ## 🥉 Boy Group #3 — SEVENTEEN · Fan Name: CARAT
 
-<a href="https://www.youtube.com/watch?v=HdZdxocqzq4" target="_blank" rel="noopener">
-  <img src="https://img.youtube.com/vi/HdZdxocqzq4/maxresdefault.jpg" alt="SEVENTEEN - Left & Right Official MV" style="width:100%;max-width:560px;border-radius:8px;" onerror="this.src='https://img.youtube.com/vi/HdZdxocqzq4/hqdefault.jpg'">
-</a>
+![SEVENTEEN group photo](/assets/img/posts/fandom-seventeen-group.jpg)
+*SEVENTEEN — Pledis Entertainment (HYBE)*
 
-*▶ Click the image to watch: SEVENTEEN 'Left & Right' Official MV*
-
-> 🔍 Can't see the video? → [**Search 'SEVENTEEN Left & Right MV' on YouTube**](https://www.youtube.com/results?search_query=SEVENTEEN+Left+%26+Right+Official+MV)
+> 🎬 [**▶ Watch 'SEVENTEEN Left & Right' Official MV on YouTube**](https://www.youtube.com/results?search_query=SEVENTEEN+Left+Right+Official+MV)
 
 SEVENTEEN has 13 members. Yes — **thirteen!** They split into three teams: a **Hip-Hop Unit**, a **Vocal Unit**, and a **Performance Unit**. The members write songs, make dances, and even direct their own music videos.
 
@@ -169,13 +160,10 @@ CARAT means "to love with strength." It comes from the brightness of a diamond. 
 
 ## #4 Boy Group — TXT · Fan Name: MOA
 
-<a href="https://www.youtube.com/watch?v=d5bbqKYu51w" target="_blank" rel="noopener">
-  <img src="https://img.youtube.com/vi/d5bbqKYu51w/maxresdefault.jpg" alt="TXT - 0X1=LOVESONG Official MV" style="width:100%;max-width:560px;border-radius:8px;" onerror="this.src='https://img.youtube.com/vi/d5bbqKYu51w/hqdefault.jpg'">
-</a>
+![TXT group photo](/assets/img/posts/fandom-txt-group.jpg)
+*TXT (Tomorrow X Together) — Big Hit Music (HYBE)*
 
-*▶ Click the image to watch: TXT '0X1=LOVESONG' Official MV*
-
-> 🔍 Can't see the video? → [**Search 'TXT 0X1=LOVESONG MV' on YouTube**](https://www.youtube.com/results?search_query=TXT+0X1%3DLOVESONG+Official+MV)
+> 🎬 [**▶ Watch 'TXT 0X1=LOVESONG' Official MV on YouTube**](https://www.youtube.com/results?search_query=TXT+0X1+LOVESONG+Official+MV)
 
 TXT stands for **Tomorrow X Together**. They came out in 2019 under HYBE — the same company as BTS. But TXT has its own sound. They mix pop, rock, and alternative music together.
 
@@ -194,13 +182,10 @@ Their albums tell a story about growing up. MOA means "to gather." Fans who love
 
 ## #5 Boy Group — ENHYPEN · Fan Name: ENGENE
 
-<a href="https://www.youtube.com/watch?v=nQ6wLuYvGd4" target="_blank" rel="noopener">
-  <img src="https://img.youtube.com/vi/nQ6wLuYvGd4/maxresdefault.jpg" alt="ENHYPEN - Given-Taken Official MV" style="width:100%;max-width:560px;border-radius:8px;" onerror="this.src='https://img.youtube.com/vi/nQ6wLuYvGd4/hqdefault.jpg'">
-</a>
+![ENHYPEN group photo](/assets/img/posts/fandom-enhypen-group.jpg)
+*ENHYPEN — BELIFT LAB (HYBE)*
 
-*▶ Click the image to watch: ENHYPEN 'Given-Taken' Official MV*
-
-> 🔍 Can't see the video? → [**Search 'ENHYPEN Given-Taken MV' on YouTube**](https://www.youtube.com/results?search_query=ENHYPEN+Given-Taken+Official+MV)
+> 🎬 [**▶ Watch 'ENHYPEN Given-Taken' Official MV on YouTube**](https://www.youtube.com/results?search_query=ENHYPEN+Given-Taken+Official+MV)
 
 ENHYPEN came from a TV show called *I-Land* in 2020. Seven boys competed hard and made it through. Now they are one of the top 4th-gen groups.
 
@@ -217,6 +202,7 @@ Members **Jay** (from the US) and **Jake** (from Australia) help connect with En
 | **Company** | BELIFT LAB (HYBE Labels) |
 | **Big Records** | Million-seller album · Members from 3 different countries |
 
+---
 
 ## 📊 Who Is Growing the Fastest?
 
