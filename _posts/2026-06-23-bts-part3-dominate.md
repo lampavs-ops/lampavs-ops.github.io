@@ -2,7 +2,7 @@
 title: "BTS Part 3 — The Empire That Never Sleeps: Domination"
 date: 2026-06-23
 categories: [K-Pop]
-tags: [k-pop, bts, army, billboard, dynamite, butter, jungkook, world-cup, arirang, grammy, dominate, 2026]
+tags: [k-pop, bts, army, billboard, dynamite, butter, jungkook, world-cup, arirang, grammy, dominate, "2026"]
 description: "Billboard Hot 100 records, Grammy nominations, a World Cup opening ceremony, military service — and a 2026 comeback that broke everything all over again. This is BTS at full power."
 image: /assets/img/posts/bts-part3-title.jpg
 featured: false
