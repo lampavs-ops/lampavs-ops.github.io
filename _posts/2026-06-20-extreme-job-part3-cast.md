@@ -22,9 +22,6 @@ But who are these people? Where did they come from — and what have they done s
 
 ## 🎬 Director — Lee Byeong-heon (이병헌 감독)
 
-![Director Lee Byeong-heon](/assets/img/posts/director-lee-byeong-heon.jpg)
-*Director Lee Byeong-heon — Korea's undisputed king of comedy*
-
 > 🎬 [**▶ Watch Director Lee Byeong-heon interview on YouTube**](https://www.youtube.com/results?search_query=이병헌+감독+인터뷰+극한직업)
 
 ### Who Is He?
@@ -81,8 +78,7 @@ His other signature: **no forced sentiment**. Korean comedies often pivot to tea
 
 ## 👨‍✈️ Ryu Seung-ryong (류승룡) — Captain Go
 
-![Ryu Seung-ryong](/assets/img/posts/actor-ryu-seung-ryong.jpg)
-*Ryu Seung-ryong — four-time 10-million-ticket actor*
+> 📸 **Official SNS:** [Instagram @ryuseungryong](https://www.instagram.com/ryuseungryong)
 
 > 🎬 [**▶ Watch Ryu Seung-ryong's best scenes on YouTube**](https://www.youtube.com/results?search_query=류승룡+명장면+극한직업)
 
@@ -121,8 +117,7 @@ He lost **12kg** for the role of Captain Go — a detail almost nobody noticed, 
 
 ## 👩 Lee Ha-nee (이하늬) — Detective Jang
 
-![Lee Ha-nee](/assets/img/posts/actor-lee-ha-nee.jpg)
-*Lee Ha-nee — Miss Korea, Seoul National University, certified pilot, action star*
+> 📸 **Official SNS:** [Instagram @leehanee1206](https://www.instagram.com/leehanee1206)
 
 > 🎬 [**▶ Watch Lee Ha-nee's action scenes on YouTube**](https://www.youtube.com/results?search_query=이하늬+극한직업+액션)
 
@@ -162,8 +157,7 @@ Director Lee Byeong-heon cast her specifically to destroy audience expectations.
 
 ## 🍗 Jin Sun-kyu (진선규) — Detective Ma (마 형사)
 
-![Jin Sun-kyu](/assets/img/posts/actor-jin-sun-kyu.jpg)
-*Jin Sun-kyu — the scene-stealer who became a star at 40*
+> 📸 **Official SNS:** [Instagram @jinsunkyu_official](https://www.instagram.com/jinsunkyu_official)
 
 > 🎬 [**▶ Watch Jin Sun-kyu's best moments on YouTube**](https://www.youtube.com/results?search_query=진선규+명장면)
 
@@ -202,8 +196,7 @@ His character — the scruffy, gentle Detective Ma with secret culinary genius �
 
 ## 😅 Lee Dong-hwi (이동휘) — Young-ho (영호)
 
-![Lee Dong-hwi](/assets/img/posts/actor-lee-dong-hwi.jpg)
-*Lee Dong-hwi — Reply 1988 fan favorite and natural comedian*
+> 📸 **Official SNS:** [Instagram @ldh_lovely](https://www.instagram.com/ldh_lovely)
 
 > 🎬 [**▶ Watch Lee Dong-hwi's best moments on YouTube**](https://www.youtube.com/results?search_query=이동휘+극한직업+웃긴장면)
 
@@ -239,8 +232,7 @@ In *Extreme Job*, he plays Young-ho — the squad member who is loud, enthusiast
 
 ## 🐣 Gong Myung (공명) — Jae-hoon (재훈)
 
-![Gong Myung](/assets/img/posts/actor-gong-myung.jpg)
-*Gong Myung — the youngest of the squad, and NCT Doyoung's older brother*
+> 📸 **Official SNS:** [Instagram @gongmyung_](https://www.instagram.com/gongmyung_)
 
 > 🎬 [**▶ Watch Gong Myung's scenes on YouTube**](https://www.youtube.com/results?search_query=공명+극한직업)
 
@@ -309,6 +301,7 @@ The ensemble works because no one tries to dominate. Director Lee Byeong-heon bu
 
 - [**Part 1 — Spoiler-Free Introduction →**]({{ site.baseurl }}/posts/extreme-job-part1-intro/)
 - [**Part 2 — Deep Dive & Spoilers →**]({{ site.baseurl }}/posts/extreme-job-part2-deep-dive/)
+- [Parasite — Director & Cast →]({{ site.baseurl }}/posts/parasite-part3-director-cast/)
 - [See all K-Movie posts →]({{ site.baseurl }}/categories/k-movie/)
 
 ---

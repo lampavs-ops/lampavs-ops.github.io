@@ -80,8 +80,7 @@ Korean and international fans respected the honesty.
 
 ### Lee Jung-jae (이정재) — Seong Gi-hun (Player 456)
 
-![Lee Jung-jae](/assets/img/posts/actor-lee-jung-jae.jpg)
-*Lee Jung-jae — first Asian actor to win an Emmy for Lead Actor*
+> 📸 **Official SNS:** [Instagram @leejungjae](https://www.instagram.com/leejungjae)
 
 > 🎬 [**▶ Watch Lee Jung-jae's Emmy acceptance speech on YouTube**](https://www.youtube.com/results?search_query=Lee+Jung+jae+Emmy+Award+acceptance+speech+Squid+Game)
 
@@ -119,8 +118,7 @@ In 2022, Lee Jung-jae became the **first Asian actor to win Outstanding Lead Act
 
 ### Park Hae-soo (박해수) — Cho Sang-woo (Player 218)
 
-![Park Hae-soo](/assets/img/posts/actor-park-hae-soo.jpg)
-*Park Hae-soo — the theater actor who went global*
+> 📸 **Official SNS:** [Instagram @phs1116](https://www.instagram.com/phs1116)
 
 ### Who Is He?
 
@@ -151,6 +149,8 @@ Sang-woo is not a simple villain. He is a man who crosses moral lines one by one
 ---
 
 ### Jung Ho-yeon (정호연) — Kang Sae-byeok (Player 067)
+
+> 📸 **Official SNS:** [Instagram @hoooooyeony](https://www.instagram.com/hoooooyeony)
 
 ### Who Is She?
 
@@ -194,9 +194,7 @@ Most Korean audiences knew his name. But before Squid Game, most could not pictu
 
 In the show, he plays Oh Il-nam — the gentle old man in a green tracksuit who becomes Gi-hun's unlikely friend. Warm. Childlike. And hiding the biggest secret in the entire series.
 
-In 2022, Oh Yeong-su won the **Golden Globe for Best Supporting Actor in a TV Series** — the first Korean actor ever to do so.
-
-He was 77 years old.
+In 2022, Oh Yeong-su won the **Golden Globe for Best Supporting Actor in a TV Series** — the first Korean actor ever to do so. He was 77 years old.
 
 ### 📋 Profile
 
@@ -210,6 +208,8 @@ He was 77 years old.
 ---
 
 ### Heo Sung-tae (허성태) — Jang Deok-su (Player 101)
+
+> 📸 **Official SNS:** [Instagram @heosungtae_official](https://www.instagram.com/heosungtae_official)
 
 ### Who Is He?
 
@@ -240,6 +240,8 @@ A Pakistani migrant worker in Korea, he is honest, trusting, and kind in a way t
 Anupam Tripathi is Indian, not Pakistani — and he learned Korean for the role. His Korean in the show is deliberately imperfect, reflecting the reality of many migrant workers in Korea who are still learning the language.
 
 His character represents the millions of foreign workers in Korea who are often invisible to the systems around them.
+
+### 📋 Profile
 
 | | |
 |--|--|
