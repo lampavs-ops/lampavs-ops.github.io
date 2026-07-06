@@ -1,6 +1,6 @@
 ---
 title: "Queen of Tears: Writer Park Ji-eun, Directors & Cast Who Made Korea Cry"
-date: 2026-06-23 11:00:00 +0900
+date: 2026-06-28 09:00:00 +0900
 categories: [K-Drama]
 tags: [k-drama, queen-of-tears, park-ji-eun, kim-soo-hyun, kim-ji-won, park-sung-hoon, kwak-dong-yeon, "2024"]
 description: "The writer who set tvN's all-time rating record twice. Plus Kim Soo-hyun, Kim Ji-won, Kwak Dong-yeon, and Park Sung-hoon — the full team behind Queen of Tears."

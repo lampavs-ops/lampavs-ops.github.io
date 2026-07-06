@@ -1,6 +1,6 @@
 ---
 title: "Queen of Tears (눈물의 여왕): The K-Drama That Made the Whole World Cry — Spoiler-Free"
-date: 2026-06-23 09:00:00 +0900
+date: 2026-06-27 09:00:00 +0900
 categories: [K-Drama]
 tags: [k-drama, queen-of-tears, kim-soo-hyun, kim-ji-won, tvn, netflix, romance, spoiler-free, "2024"]
 description: "24.85% peak rating. The most-watched Korean drama on Netflix ever. Here is everything you need to know about Queen of Tears — no spoilers."

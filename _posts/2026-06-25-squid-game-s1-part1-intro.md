@@ -1,6 +1,6 @@
 ---
 title: "Squid Game Season 1: The Show That Broke Netflix — Spoiler-Free Guide"
-date: 2026-06-22 09:00:00 +0900
+date: 2026-06-25 09:00:00 +0900
 categories: [K-Drama]
 tags: [k-drama, squid-game, netflix, hwang-dong-hyuk, lee-jung-jae, survival-thriller, spoiler-free, "2021"]
 description: "Number 1 in 94 countries at the same time. The most-watched show in Netflix history. Here is everything you need to know before watching Squid Game Season 1."

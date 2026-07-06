@@ -1,11 +1,11 @@
 ---
 title: "K-Pop's Biggest Girl Group Fandoms in 2026 — TOP 5 List"
-date: 2026-06-18 09:00:00 +0900
+date: 2026-06-16 09:00:00 +0900
 categories: [K-Pop]
 tags: [k-pop, blackpink, twice, newjeans, le-sserafim, g-i-dle, fandom, spotify, girl-group, kpop-ranking]
 description: "BLACKPINK, TWICE, NewJeans and more — who has the biggest girl group fandom in 2026? We ranked the top 5 using Spotify, album sales, and world tour data."
 image:
-  path: /assets/img/posts/kpop-girlgroup-top5-cover.jpg
+  path: https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=1200&q=80
   alt: "K-Pop girl group concert with pink lights"
 featured: false
 ---
@@ -43,10 +43,13 @@ Here are the **2026 results**.
 
 ## 🏆 Girl Group #1 — BLACKPINK · Fan Name: BLINK
 
-![BLACKPINK fandom atmosphere](/assets/img/posts/fandom-blackpink-group.jpg)
-*The biggest K-Pop girl group on the planet — four members, one massive global fandom.*
+<a href="https://www.youtube.com/watch?v=IHNzOHi8sJs" target="_blank" rel="noopener">
+  <img src="https://img.youtube.com/vi/IHNzOHi8sJs/maxresdefault.jpg" alt="BLACKPINK - Pink Venom Official MV" style="width:100%;max-width:560px;border-radius:8px;" onerror="this.src='https://img.youtube.com/vi/IHNzOHi8sJs/hqdefault.jpg'">
+</a>
 
-> 🎬 [**▶ Watch 'BLACKPINK Pink Venom' on YouTube**](https://www.youtube.com/results?search_query=BLACKPINK+Pink+Venom+Official+MV)
+*▶ Click the image to watch: BLACKPINK 'Pink Venom' Official MV*
+
+> 🔍 Can't see the video? → [**Search 'BLACKPINK Pink Venom MV' on YouTube**](https://www.youtube.com/results?search_query=BLACKPINK+Pink+Venom+Official+MV)
 
 BLACKPINK debuted in 2016. They are the biggest girl group on the planet right now.
 
@@ -60,7 +63,7 @@ Four members. Four completely different styles. Jisoo, Jennie, Rosé, and Lisa e
 | | |
 |--|--|
 | **Debut** | August 8, 2016 |
-| **Members (4)** | Jisoo, Jennie, Rosé, Lisa |
+| **Members (4)** | **Jisoo**, Jennie, Rosé, Lisa |
 | **Spotify 2025** | 31.9M listeners per month |
 | **Top Songs** | Pink Venom · How You Like That · DDU-DU DDU-DU · Lovesick Girls · Kill This Love |
 | **Company** | YG Entertainment |
@@ -82,10 +85,13 @@ Four members. Four completely different styles. Jisoo, Jennie, Rosé, and Lisa e
 
 ## 🥈 Girl Group #2 — TWICE · Fan Name: ONCE
 
-![TWICE fandom atmosphere](/assets/img/posts/fandom-twice-group.jpg)
-*Nine members. Three countries. The biggest comeback story in K-Pop.*
+<a href="https://www.youtube.com/watch?v=c8HkOP37UYM" target="_blank" rel="noopener">
+  <img src="https://img.youtube.com/vi/c8HkOP37UYM/maxresdefault.jpg" alt="TWICE - CHEER UP Official MV" style="width:100%;max-width:560px;border-radius:8px;" onerror="this.src='https://img.youtube.com/vi/c8HkOP37UYM/hqdefault.jpg'">
+</a>
 
-> 🎬 [**▶ Watch 'TWICE CHEER UP' on YouTube**](https://www.youtube.com/results?search_query=TWICE+CHEER+UP+Official+MV)
+*▶ Click the image to watch: TWICE 'CHEER UP' Official MV*
+
+> 🔍 Can't see the video? → [**Search 'TWICE CHEER UP MV' on YouTube**](https://www.youtube.com/results?search_query=TWICE+CHEER+UP+Official+MV)
 
 TWICE debuted in 2015. For a while, people thought they were only popular in Asia. Then something amazing happened.
 
@@ -98,7 +104,7 @@ TWICE has 9 members from three countries: South Korea, Japan, and Taiwan. That g
 | | |
 |--|--|
 | **Debut** | October 20, 2015 |
-| **Members (9)** | Nayeon, Jeongyeon, Momo, Sana, Jihyo, Mina, Dahyun, Chaeyoung, Tzuyu |
+| **Members (9)** | **Nayeon**, Jeongyeon, Momo, Sana, Jihyo, Mina, Dahyun, Chaeyoung, Tzuyu |
 | **Spotify 2025** | 26.5M listeners per month |
 | **Top Songs** | CHEER UP · TT · Feel Special · The Feels · Alcohol-Free |
 | **Company** | JYP Entertainment |
@@ -120,10 +126,13 @@ TWICE has 9 members from three countries: South Korea, Japan, and Taiwan. That g
 
 ## 🥉 Girl Group #3 — NewJeans · Fan Name: Bunnies
 
-![NewJeans fandom atmosphere](/assets/img/posts/fandom-newjeans-group.jpg)
-*Fresh sound, viral songs, and one of the fastest rises in K-Pop history.*
+<a href="https://www.youtube.com/watch?v=j6SLN-pTCo0" target="_blank" rel="noopener">
+  <img src="https://img.youtube.com/vi/j6SLN-pTCo0/maxresdefault.jpg" alt="NewJeans - Hype Boy Official MV" style="width:100%;max-width:560px;border-radius:8px;" onerror="this.src='https://img.youtube.com/vi/j6SLN-pTCo0/hqdefault.jpg'">
+</a>
 
-> 🎬 [**▶ Watch 'NewJeans Hype Boy' on YouTube**](https://www.youtube.com/results?search_query=NewJeans+Hype+Boy+Official+MV)
+*▶ Click the image to watch: NewJeans 'Hype Boy' Official MV*
+
+> 🔍 Can't see the video? → [**Search 'NewJeans Hype Boy MV' on YouTube**](https://www.youtube.com/results?search_query=NewJeans+Hype+Boy+Official+MV)
 
 NewJeans debuted in 2022. They became famous faster than almost any group in K-Pop history.
 
@@ -136,7 +145,7 @@ Songs like *Hype Boy* and *OMG* went viral on TikTok within days of release. Bun
 | | |
 |--|--|
 | **Debut** | July 22, 2022 |
-| **Members (5)** | Minji, Hanni, Danielle, Haerin, Hyein |
+| **Members (5)** | **Minji**, Hanni, Danielle, Haerin, Hyein |
 | **Spotify 2025** | 13.5M listeners per month |
 | **Top Songs** | Hype Boy · OMG · Ditto · Super Shy · ETA |
 | **Company** | ADOR (HYBE Labels) |
@@ -157,10 +166,13 @@ Songs like *Hype Boy* and *OMG* went viral on TikTok within days of release. Bun
 
 ## #4 Girl Group — LE SSERAFIM · Fan Name: FEARNOT
 
-![LE SSERAFIM fandom atmosphere](/assets/img/posts/fandom-lesserafim-group.jpg)
-*Fearless by name, fearless by nature — the most confident girl group in the 4th generation.*
+<a href="https://www.youtube.com/watch?v=4vbDFu0PUew" target="_blank" rel="noopener">
+  <img src="https://img.youtube.com/vi/4vbDFu0PUew/maxresdefault.jpg" alt="LE SSERAFIM - FEARLESS Official MV" style="width:100%;max-width:560px;border-radius:8px;" onerror="this.src='https://img.youtube.com/vi/4vbDFu0PUew/hqdefault.jpg'">
+</a>
 
-> 🎬 [**▶ Watch 'LE SSERAFIM FEARLESS' on YouTube**](https://www.youtube.com/results?search_query=LE+SSERAFIM+FEARLESS+Official+MV)
+*▶ Click the image to watch: LE SSERAFIM 'FEARLESS' Official MV*
+
+> 🔍 Can't see the video? → [**Search 'LE SSERAFIM FEARLESS MV' on YouTube**](https://www.youtube.com/results?search_query=LE+SSERAFIM+FEARLESS+Official+MV)
 
 LE SSERAFIM debuted in 2022 under HYBE. Their name is an anagram of "I'M FEARLESS." That tells you everything about their vibe.
 
@@ -171,7 +183,7 @@ Member **Kazuha** is a classically trained ballet dancer from Japan. **Sakura** 
 | | |
 |--|--|
 | **Debut** | May 2, 2022 |
-| **Members (5)** | Chaewon, Sakura, Yunjin, Kazuha, Eunchae |
+| **Members (5)** | **Chaewon**, Sakura, Yunjin, Kazuha, Eunchae |
 | **Spotify 2025** | 13.1M listeners per month |
 | **Top Songs** | FEARLESS · ANTIFRAGILE · EASY · Smart · Crazy |
 | **Company** | Source Music (HYBE Labels) |
@@ -192,10 +204,13 @@ Member **Kazuha** is a classically trained ballet dancer from Japan. **Sakura** 
 
 ## #5 Girl Group — (G)I-DLE · Fan Name: NEVERLAND
 
-![G I-DLE fandom atmosphere](/assets/img/posts/fandom-gidle-group.jpg)
-*Self-produced, genre-defying, and unlike anything else in K-Pop.*
+<a href="https://www.youtube.com/watch?v=t7qHBMpCgpY" target="_blank" rel="noopener">
+  <img src="https://img.youtube.com/vi/t7qHBMpCgpY/maxresdefault.jpg" alt="(G)I-DLE - Queencard Official MV" style="width:100%;max-width:560px;border-radius:8px;" onerror="this.src='https://img.youtube.com/vi/t7qHBMpCgpY/hqdefault.jpg'">
+</a>
 
-> 🎬 [**▶ Watch '(G)I-DLE Queencard' on YouTube**](https://www.youtube.com/results?search_query=%28G%29I-DLE+Queencard+Official+MV)
+*▶ Click the image to watch: (G)I-DLE 'Queencard' Official MV*
+
+> 🔍 Can't see the video? → [**Search '(G)I-DLE Queencard MV' on YouTube**](https://www.youtube.com/results?search_query=%28G%29I-DLE+Queencard+Official+MV)
 
 (G)I-DLE debuted in 2018. They are one of the most unique groups in K-Pop.
 
@@ -206,7 +221,7 @@ Their sound changes every era. Dark and intense with *TOMBOY*. Fun and confident
 | | |
 |--|--|
 | **Debut** | May 2, 2018 |
-| **Members (5)** | Miyeon, Minnie, Soyeon, Yuqi, Shuhua |
+| **Members (5)** | **Miyeon**, Minnie, Soyeon, Yuqi, Shuhua |
 | **Spotify 2025** | 11.8M listeners per month |
 | **Top Songs** | Queencard · TOMBOY · HWAA · Nxde · Super Lady |
 | **Company** | Cube Entertainment |
@@ -266,9 +281,8 @@ K-Pop girl groups build some of the most loyal communities in music. Here is why
 
 ## 🔗 Read More
 
-- 👉 [**K-Pop Global Fandom TOP 10 — Boy & Girl Group Rankings →**]({{ site.baseurl }}/posts/kpop-global-fandom-top10/)
-- 👉 [**K-Pop Boy Group Fandom TOP 5 →**]({{ site.baseurl }}/posts/kpop-boy-group-fandom-top5/)
-- 👉 [See all K-Pop posts →]({{ site.baseurl }}/categories/k-pop/)
+- [K-Pop Boy Groups — TOP 10 Fandoms in 2026 →]({{ site.baseurl }}/posts/kpop-global-fandom-top10/)
+- [See all K-Pop posts →]({{ site.baseurl }}/categories/k-pop/)
 
 ---
 

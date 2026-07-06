@@ -1,6 +1,6 @@
 ---
 title: "Queen of Tears Deep Dive: Ending Explained & Every Scene That Made You Cry ⚠️ Spoilers"
-date: 2026-06-23 10:00:00 +0900
+date: 2026-06-27 14:00:00 +0900
 categories: [K-Drama]
 tags: [k-drama, queen-of-tears, deep-dive, spoiler, ending-explained, kim-soo-hyun, kim-ji-won, "2024"]
 description: "Full spoiler breakdown of Queen of Tears — the brain tumor twist, the sunflower field, the four biggest crying scenes, the ending, and how Korean and global fans reacted differently."
