@@ -141,17 +141,90 @@ This scene is where My Mister finally says what it has been trying to say all al
 
 What one person can do for another does not have to be great. A wreath with the name of a fish store on it — in that moment, it becomes one of the most beautiful things in the world.
 
-### The Last Scene — "Are You Doing Well?"
+### The Last Scene — "I'll Buy You Dinner, Mister."
 
-Years later. Dong-hun is now running a small construction company. Ji-an sees him from a distance.
+Years have passed.
 
-She says something. He cannot hear her.
+It is spring. Sunlight fills a small city café. Dong-hun and Ji-an run into each other — by chance, the way people do when life has simply moved on.
 
-*"Are you doing well, mister?"*
+Ji-an looks different. Her face is brighter. Her clothes are lighter. She is laughing with colleagues her own age across the room. The person standing in front of Dong-hun is not the Ji-an who used to walk fast with her head down, trying to take up as little space as possible.
 
-That is how the drama ends. They do not meet again. They have each returned to their own lives. But the wounds have healed. The door that was closed — is open now.
+Dong-hun's face does something it rarely did in this drama. It softens. He smiles — genuinely, warmly — like someone seeing proof that a hard thing worked out.
 
-If this drama had ended with them falling in love, this feeling would not exist. This quiet, open ending is exactly what completes the story of two people who were closed.
+They talk easily. Work. Nothing heavy. Then her colleagues call her name from across the café.
+
+She shakes his hand. She smiles.
+
+And then she says — in the most ordinary Korean way:
+
+*"I'll buy you dinner sometime, mister. I want to treat you to something good. I'll call you!"*
+
+She turns and walks away.
+
+Dong-hun watches her go. The expression on his face is not the face of someone who lost something. It is the quiet, proud smile of a real adult who watched something small and broken grow into something whole.
+
+The background music comes in softly: *"Close your eyes — and you can see yourself. Not tired. Just resting for a moment."*
+
+Then, in voiceover — just between the two of them, heard only in the heart:
+
+**Dong-hun:** *"Ji-an. Have you arrived at peace?"*
+
+**Ji-an:** *"Yes… yes."*
+
+The long story ends there. Two people. One quiet question. One quiet answer.
+
+---
+
+### Why This Ending Is Perfect — And What Foreign Viewers Almost Certainly Missed
+
+**The reversed sentence.**
+
+Ji-an's last line — *"I'll buy you dinner"* — sounds completely ordinary. In Korea, it is one of the most common things a person says when saying goodbye. Everyone says it. Half the time, nobody calls.
+
+But this drama made us earn that ordinariness.
+
+The very first real moment between Dong-hun and Ji-an was a cold, dark winter night. Ji-an said: *"Buy me dinner."* It was not an invitation. It was a demand. The words of someone who expected to be refused. A test to see if this person was like all the others.
+
+The same idea returns at the very end. But everything about it has flipped.
+
+| | First Meeting | Final Scene |
+|--|--------------|-------------|
+| **Season** | Dark winter | Warm spring |
+| **Direction** | Ji-an asks Dong-hun | Ji-an offers Dong-hun |
+| **Tone** | Demand, cold | Gift, warm |
+| **Words** | *"Buy me dinner."* | *"I'll buy you dinner."* |
+| **Feeling** | Anxiety | Peace |
+
+The relationship that began in anxiety ends in peace. That single reversal holds the entire arc of the drama — without a single word of explanation.
+
+---
+
+### The Hidden Meaning in Ji-an's Name
+
+This is something most international viewers miss completely. And it is the last quiet gift the drama hides.
+
+Korean names are almost always written in Chinese characters — **hanja (한자)** — and each character carries a meaning. The show never explains Ji-an's name. It does not need to.
+
+**지안 (至安)**
+
+| Character | Sound | Meaning |
+|-----------|-------|---------|
+| 至 | 지 (ji) | To arrive · To reach |
+| 安 | 안 (an) | Peace · Comfort · Rest |
+
+**Ji-an: The one who arrives at peace.**
+
+Dong-hun's very last line is: *"Ji-an — have you arrived at peace?"*
+
+In Korean, he is literally asking: *have you become your own name?*
+
+The moment this lands, the whole drama rearranges itself in your mind.
+
+This was not simply a story about a man helping a troubled young woman. This was the story of a child named *Peace* — who spent her entire life not knowing what her own name meant — finally, slowly, living it.
+
+The answer was written into her name before the first frame rolled.
+
+The drama was called that all along.
 
 ---
 
