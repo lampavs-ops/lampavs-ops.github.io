@@ -137,6 +137,9 @@ Many people say that if they had to define love, they would point to these lines
 
 ## The Ending Scene — "Found You."
 
+![Goblin ending scene — Québec](/assets/img/posts/goblin-ending.jpg)
+*The hill in Québec. Dandelion seeds. And a girl who came back.*
+
 This is the scene I go back and watch sometimes, even now.
 
 There is something about this kind of moment — two people who were separated, who could not forget each other, meeting again by chance after years. Like the film *Comrades: Almost a Love Story*. The world changed around them. But the feeling did not.
