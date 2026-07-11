@@ -1,6 +1,6 @@
 ---
 title: "Squid Game S1: Director Hwang Dong-hyuk & the Cast Who Changed TV History"
-date: 2026-06-22 11:00:00 +0900
+date: 2026-06-26 09:00:00 +0900
 categories: [K-Drama]
 tags: [k-drama, squid-game, hwang-dong-hyuk, lee-jung-jae, park-hae-soo, jung-ho-yeon, oh-yeong-su, heo-sung-tae, "2021"]
 description: "A script rejected for 10 years. A director who lost four teeth from stress. Meet Hwang Dong-hyuk, Lee Jung-jae, Jung Ho-yeon, and the full cast of Squid Game Season 1."

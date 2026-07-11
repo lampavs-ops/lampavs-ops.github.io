@@ -1,6 +1,6 @@
 ---
 title: "Crash Landing on You: Ending Explained & Hidden Symbolism"
-date: 2026-06-17
+date: 2026-06-18
 categories: [K-Drama]
 tags: [crash-landing-on-you, hyun-bin, son-ye-jin, deep-dive, ending-explained, symbolism, masterpiece]
 description: "Already watched Crash Landing on You? Let's unpack the ending, the hidden symbolism, and the details you almost certainly missed on your first watch."
