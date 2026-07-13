@@ -1,6 +1,6 @@
 ---
 title: "Extreme Job: Deep Dive — Every Iconic Scene Explained ⚠️ Spoilers"
-date: 2026-06-20 10:00:00 +0900
+date: 2026-07-01
 categories: [K-Movie]
 tags: [k-movie, extreme-job, korean-comedy, deep-dive, spoiler, ryu-seung-ryong, jin-sun-kyu, galbi-chicken]
 description: "Full spoiler breakdown of Extreme Job (극한직업) — why it's so funny, the ending explained, globally loved scenes vs. Korean favorites, and what the movie is really about."

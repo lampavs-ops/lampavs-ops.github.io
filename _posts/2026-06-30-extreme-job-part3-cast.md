@@ -1,6 +1,6 @@
 ---
 title: "Extreme Job — Director & Cast: The People Behind Korea's Funniest Movie"
-date: 2026-06-20 11:00:00 +0900
+date: 2026-06-30
 categories: [K-Movie]
 tags: [k-movie, extreme-job, lee-byeong-heon-director, ryu-seung-ryong, lee-ha-nee, jin-sun-kyu, lee-dong-hwi, gong-myung, korean-actor]
 description: "Meet the director and five leads of Extreme Job (극한직업) — their careers, surprising backgrounds, and what they've done since the movie that broke Korean box office records."

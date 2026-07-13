@@ -1,6 +1,6 @@
 ---
 title: "Extreme Job: The Funniest Korean Movie Ever Made? (Spoiler-Free)"
-date: 2026-06-20 09:00:00 +0900
+date: 2026-07-01
 categories: [K-Movie]
 tags: [k-movie, extreme-job, korean-comedy, ryu-seung-ryong, lee-ha-nee, jin-sun-kyu, lee-dong-hwi, gong-myung, spoiler-free]
 description: "A failing drug squad. A fried chicken shop. One accidental hit recipe. Extreme Job (극한직업) is the #2 highest-grossing Korean film of all time — and it's a comedy. Here's why."

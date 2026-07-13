@@ -1,6 +1,6 @@
 ---
 title: "Parasite (기생충): The Korean Movie That Changed Everything — Spoiler-Free"
-date: 2026-06-21 09:00:00 +0900
+date: 2026-06-20
 categories: [K-Movie]
 tags: [k-movie, parasite, bong-joon-ho, song-kang-ho, oscar, cannes, korean-film, spoiler-free]
 description: "Cannes Palme d'Or. Four Oscars. The first non-English film to win Best Picture. Here's everything you need to know before watching Parasite — no spoilers."
