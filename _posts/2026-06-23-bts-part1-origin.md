@@ -8,11 +8,11 @@ image: /assets/img/posts/bts-part1-title.jpg
 featured: false
 ---
 
-In 2010, a small music label in Seoul called Big Hit Entertainment had a problem.
+In 2010, a small music label in Seoul called Big Hit Entertainment was planning its next move.
 
-They had no money. No famous artists. No real plan for the future.
+Compared to the industry giants — SM, YG, and JYP — Big Hit was tiny, with far less capital and no idol-group track record of its own. But it wasn't starting from nothing: founder Bang Si-hyuk was already an established producer and songwriter, and the label had worked with acts including 8Eight and the duo Homme.
 
-What they did have was a founder — Bang Si-hyuk, nicknamed "Hitman Bang" — with one idea: build a hip-hop group that was raw, real, and said things other K-pop groups wouldn't dare say.
+What Bang wanted next was different: a hip-hop group that was raw, real, and said things other K-pop groups wouldn't dare say.
 
 He started making calls. What came back would change music forever.
 
@@ -27,11 +27,11 @@ He started making calls. What came back would change music forever.
 
 Before BTS, Big Hit Entertainment was not a big deal.
 
-In 2010, K-pop was ruled by three giants: SM, YG, and JYP Entertainment. Everyone called them "the Big Three." Big Hit was nowhere near that list — just a small company with modest success and almost nothing else.
+In 2010, K-pop was ruled by three giants: SM, YG, and JYP Entertainment. Everyone called them "the Big Three." Big Hit was nowhere near that list in scale or resources — though Bang Si-hyuk himself was a known quantity, having produced 8Eight and the duo Homme before turning his full attention to a new project.
 
-Bang Si-hyuk had a different vision. He didn't want another shiny, perfectly-polished idol group. He wanted a hip-hop crew. Young men who wrote their own lyrics, made their own beats, and talked about real things: school pressure, family expectations, the feeling of being young and lost and angry about it.
+Bang initially considered forming a hip-hop crew centered on a rapper he'd just signed — RM. Over time, as he thought through what kind of group could actually sustain a career, the plan evolved into a full K-pop idol group model, while preserving something unusual: letting the members write their own lyrics about real things — school pressure, family expectations, the feeling of being young and lost and angry about it.
 
-To do that, he needed to find the right seven people — from very different places, with very different stories.
+To do that, he needed to find the right people — from very different places, with very different stories.
 
 ---
 
@@ -44,9 +44,9 @@ To do that, he needed to find the right seven people — from very different pla
 
 RM fell in love with rap in sixth grade — specifically after hearing Epik High's song "Fly." He started rapping under the name "Runch Randa" and worked his way into one of Korea's top underground rap crews, *Daenamhyup*, alongside rappers who would later become well-known names in Korean hip-hop.
 
-At a separate hip-hop audition, RM impressed a rapper named Sleepy, who connected him directly to Bang Si-hyuk. RM auditioned for Big Hit — and became the very first BTS member. He was 15 years old. He moved into the dorm on August 14, 2010.
+At a separate hip-hop audition, RM impressed a rapper named Sleepy, who connected him directly to Bang Si-hyuk. RM auditioned for Big Hit — and became the very first BTS trainee. He was 15 years old.
 
-> 💡 **Fun fact:** RM taught himself English almost entirely through the American sitcom *Friends* — watching episodes over and over. Today he speaks fluent English and handles all the group's major international interviews.
+> 💡 **Fun fact:** RM has repeatedly credited the American sitcom *Friends* as one of the most important tools in developing his spoken English — though he also received formal English education growing up. Today he speaks fluent English and handles many of the group's major international interviews.
 
 ---
 
@@ -56,21 +56,19 @@ Back in Daegu, Min Yoongi was already known in underground hip-hop circles under
 
 He saw a flyer for Big Hit's rap competition, "Hit It." He entered. He didn't win — he placed second. But that was enough. Big Hit signed him as a producer-trainee.
 
-The catch? Suga says Bang Si-hyuk convinced him to join by promising he wouldn't have to dance. Little did he know BTS would become one of the most choreography-intensive groups in K-pop.
+The catch? Suga has joked in interviews over the years that he was told the group wouldn't involve much dancing. Little did he know BTS would become one of the most choreography-intensive groups in K-pop.
 
-> 💡 **Suga jokes about this to this day:** "He tricked me. He said I wouldn't have to dance."
+> 💡 **Suga still jokes about this today** — that he was, in his words, tricked into thinking he wouldn't have to dance.
 
 ---
 
 ### J-Hope (Jung Hoseok) — The Dancer Who Became a Rapper, 2010
 
-J-Hope was already famous back home in Gwangju — not as a singer, but as a street dancer. He was part of a crew called "Neuron," and their reputation spread across South Korea.
+J-Hope had already earned a strong reputation in Gwangju's street dance scene — not as a singer, but as a dancer. He was part of a crew called "Neuron," known regionally and eventually nationally through dance competitions.
 
-He first auditioned for JYP Entertainment, one of the Big Three. He made it through several rounds — then got cut. He auditioned for Big Hit next. They saw something in his rhythm and sense of timing that went beyond dance, and signed him as a rapper-trainee.
+He first auditioned for JYP Entertainment, one of the Big Three, and had also tried out for Big Hit. The company saw something in his rhythm and sense of timing that went beyond dance, and brought him in as a trainee — where he gradually developed into one of the group's rappers as the group's hip-hop direction took shape.
 
-He moved to the dorm on Christmas Eve, 2010.
-
-> 💡 **Interesting detail:** J-Hope was actually the *first* member to sign a formal contract with Big Hit — before RM. But RM moved into the dorm first. Both facts are technically true.
+> 💡 **Interesting detail:** Various fan timelines describe J-Hope as one of the earliest members to formally join Big Hit's trainee roster in 2010, alongside RM and Suga.
 
 ---
 
@@ -80,11 +78,11 @@ Jin was an acting student — not a singer, not a dancer. He had no plans to be 
 
 He was street-cast twice. First by SM Entertainment (one of the Big Three) in middle school. He thought it was a scam and ignored it. Years later, a Big Hit representative spotted him stepping off a bus near his university and convinced him to audition.
 
-He passed — on the strength of his looks and his raw potential, with no prior performance experience. Big Hit bet on him, and Jin spent years working harder than almost anyone in the group to catch up technically.
+He passed — largely on the strength of his looks and raw potential, with no prior performance experience. Big Hit bet on him, and Jin spent years catching up technically alongside members who already had music or dance backgrounds.
 
 | | |
 |:---|:---|
-| **Joined dorm** | July 29, 2012 |
+| **Joined Big Hit** | 2011–2012 |
 | **Audition type** | Street cast |
 | **Prior experience** | Acting student. Zero singing or dance training. |
 
@@ -94,11 +92,11 @@ He passed — on the strength of his looks and his raw potential, with no prior 
 
 V's story is the most unexpected of all. He didn't even go to the audition for himself.
 
-He accompanied a friend who wanted to audition for Big Hit. While waiting, a casting director spotted V and encouraged him to try out too. He did. He was the *only* person from Daegu to pass auditions that day.
+He accompanied a friend who wanted to audition for Big Hit. While waiting, a casting staff member spotted V and encouraged him to try out too. He did — and he later said he was the only one selected from the Daegu audition that day.
 
-V had been playing saxophone since age 3 and had genuine musical instinct — but nobody outside his town knew it yet.
+V had first dreamed of becoming a singer in elementary school, and with his father's encouragement, began taking saxophone lessons in middle school — training for several years before becoming a trainee. Nobody outside his town knew about his musical instincts yet.
 
-> 💡 **His identity was kept secret from the public until just before debut** — Big Hit wanted to save him as a surprise. Even the ARMY fan café didn't know he existed until a few weeks before BTS launched.
+> 💡 **His identity was kept out of most pre-debut promotion until just before the group's launch** — Big Hit wanted to save him as a surprise. He was revealed publicly only days before BTS's June 2013 debut.
 
 ---
 
@@ -106,17 +104,17 @@ V had been playing saxophone since age 3 and had genuine musical instinct — bu
 
 Jungkook auditioned for the singing competition *Superstar K* when he was in middle school — and didn't make it past the early rounds. But the talent scouts watching saw something the judges missed.
 
-**Seven different entertainment companies** reached out to him after that audition, including JYP and FNC. He was 13 years old, choosing between Korea's biggest labels.
+**Several entertainment companies** reportedly reached out to him after that audition, including JYP and FNC. He was 13 years old, weighing offers from some of Korea's biggest labels.
 
-He chose Big Hit — a tiny, unknown company — because he had watched RM rap and wanted to train alongside him.
+He chose Big Hit — a tiny, unknown company — largely because of RM, who had impressed him enough to make him want to train alongside him.
 
-> 💡 **Jungkook is the youngest (maknae) of the group.** He joined the dorm on June 4, 2011, at age 13. He grew up inside Big Hit — BTS is essentially the only adult world he has ever known.
+> 💡 **Jungkook is the youngest (maknae) of the group.** He joined Big Hit around age 13. He grew up largely within the company — a formative environment that shaped much of his adolescence.
 
 ---
 
 ### Jimin (Park Jimin) — Recommended by His Teacher, 2012
 
-Jimin was a contemporary dance student at Busan School of Arts. He never planned to be a K-pop idol — he was training to be a dancer.
+Jimin was a contemporary dance student at Busan School of Arts. He was primarily focused on becoming a professional dancer before his teacher encouraged him to consider an entertainment-company audition.
 
 His dance teacher was so impressed by his talent that she personally recommended him to audition for Big Hit. He flew to Seoul, passed, and moved in. He became the **last member to join**, giving him the shortest trainee period of anyone in the group — less than a year before debut.
 
@@ -124,14 +122,14 @@ His dance teacher was so impressed by his talent that she personally recommended
 
 ## 📋 Member Roster at a Glance
 
-| Member | Real Name | Hometown | Joined | How |
+| Member | Real Name | Background | Joined Big Hit | How |
 |:---:|:---|:---:|:---:|:---|
-| RM | Kim Namjoon | Ilsan | 2010 | Underground rap connection |
+| RM | Kim Namjoon | Seoul (Ilsan) | 2010 | Underground rap connection |
 | Suga | Min Yoongi | Daegu | 2010 | "Hit It" rap competition |
 | J-Hope | Jung Hoseok | Gwangju | 2010 | Dance audition |
-| Jin | Kim Seokjin | Gwacheon | 2011 | Street cast |
-| V | Kim Taehyung | Daegu | 2011 | Accompanied a friend to audition |
-| Jungkook | Jeon Jungkook | Busan | 2011 | Chose Big Hit over 6 bigger companies |
+| Jin | Kim Seokjin | Anyang/Gwacheon | 2011–2012 | Street cast |
+| V | Kim Taehyung | Daegu (raised in Geochang) | 2011 | Accompanied a friend to audition |
+| Jungkook | Jeon Jungkook | Busan | 2011 | Chose Big Hit over other offers |
 | Jimin | Park Jimin | Busan | 2012 | Teacher recommendation |
 
 ---
@@ -145,9 +143,9 @@ Literal translation: *Bulletproof Boy Scouts*.
 The idea: a group that deflects the bullets of criticism, social pressure, and expectation. Young men who refuse to be knocked down by what society tells them they should be.
 
 **Layer 2 — The English meaning: "Beyond the Scene"**
-Added later as the group grew internationally. It reframes BTS not as a shield against criticism, but as a group that sees beyond the surface — beyond what's visible, beyond what's expected.
+Added in 2017 as part of a brand refresh. Officially, it represents young people who move beyond their present reality and open the door to the future — growth and forward motion, rather than a shield against criticism.
 
-The seven-member structure was also deliberate. Seven in Korean culture carries symbolic weight — completeness, good fortune, and balance. The group has three rappers (RM, Suga, J-Hope) and four vocalists (Jin, Jimin, V, Jungkook), creating a musical architecture where every performance has both lyrical depth and melodic range.
+The group settled on seven members through the trainee and audition process rather than a symbolic plan — RM, Suga, and J-Hope handle most of the rapping, while Jin, Jimin, V, and Jungkook anchor the vocals, creating a musical architecture where every performance has both lyrical depth and melodic range.
 
 ---
 
@@ -166,23 +164,21 @@ The BTS members trained for anywhere from under a year (Jimin) to nearly three y
 - Back to the dorm, often past midnight
 - Repeat
 
-Big Hit was small. The practice rooms were cramped. The budget was tight. There were no fancy facilities, no celebrity chef, no private tutors. Just a group of teenagers sharing a dorm and working toward something they weren't sure would ever happen.
+Big Hit was small. The practice rooms were cramped. The budget was tight. Members have described sharing small rooms, long practice hours, and years of uncertainty about whether the group would ever debut.
 
-Several members have spoken about how close they came to quitting. Jungkook, still in middle school, was homesick constantly. Suga struggled with the pressure of being far from home with no certainty of success. RM has admitted that there were moments he almost walked away entirely.
-
-What kept them going? Each other — and a founder who believed in them when almost no one else did.
+Several members have spoken about how difficult those years were. Jungkook, still in middle school, dealt with homesickness. Members have described the pressure of training with no guarantee of success. What kept them going? Each other — and a founder and production team, including producer Pdogg and others, who worked to make the group happen.
 
 ---
 
-## 🎬 The Debut: June 13, 2013
+## 🎬 The Debut: June 12–13, 2013
 
-On June 13, 2013, BTS released their debut single album ***2 Cool 4 Skool*** and performed "No More Dream" for the first time.
+On June 12, 2013, BTS released their debut single album ***2 Cool 4 Skool*** and held a debut showcase performing "No More Dream" for the first time. The following day, June 13, they made their official music-show debut on Mnet's *M Countdown*.
 
-The song was deliberately confrontational. It asked Korean teenagers a simple, loaded question: *"What is your dream?"* — and then criticized a society that tells young people to study, get good grades, and forget about wanting anything different.
+The song was deliberately confrontational. It asked Korean teenagers a simple, loaded question — *what is your dream?* — and then criticized a society that tells young people to study, get good grades, and forget about wanting anything different.
 
-It was not an immediate hit. The album peaked at #5 on the Gaon Chart. It sold about 105,000 copies — respectable for a debut, but nothing close to the numbers Big Three groups routinely posted.
+It was not an immediate hit. The album debuted at #19 on the weekly Gaon Album Chart, climbing to a peak of #5 about six weeks later. It sold roughly 24,441 copies over the course of 2013 — respectable for a debut from a small label, but nothing close to the numbers Big Three groups routinely posted.
 
-At the end of 2013, BTS won several "New Artist" awards at Korean music ceremonies. It was a start. A small, quiet, uncertain start.
+At the end of 2013, BTS won New Artist of the Year at the Melon Music Awards; further rookie awards followed at other ceremonies into early 2014. It was a start. A small, quiet, uncertain start.
 
 Nobody in the industry called them the future of K-pop.
 
@@ -194,13 +190,14 @@ But ARMY was already beginning to form.
 
 | | |
 |:---|:---|
-| **Debut Date** | June 13, 2013 |
+| **Album Release** | June 12, 2013 |
+| **Music-Show Debut** | June 13, 2013 (M Countdown) |
 | **Debut Single** | *2 Cool 4 Skool* |
 | **Lead Single** | "No More Dream" |
 | **Label** | Big Hit Entertainment |
 | **Members** | 7 (RM, Jin, Suga, J-Hope, Jimin, V, Jungkook) |
-| **Debut Chart** | Gaon Album Chart #5 |
-| **First Album Sale** | ~105,000 copies |
+| **Gaon Chart** | Debuted #19, peaked at #5 |
+| **2013 Album Sales** | ~24,441 copies |
 | **First Award** | New Artist of the Year — 2013 Melon Music Awards |
 
 [**▶ Watch BTS 'No More Dream' MV on YouTube**](https://www.youtube.com/results?search_query=BTS+No+More+Dream+Official+MV)
@@ -209,11 +206,9 @@ But ARMY was already beginning to form.
 
 ## 💭 Why This Origin Story Matters
 
-Most big K-pop groups are built from the top down. A powerful agency decides what kind of group they want, holds auditions, and assembles a lineup from thousands of applicants. The result is polished, professional, and engineered for success.
+BTS still came together through the standard K-pop trainee system — auditions, training, a company shaping the final lineup. What made it different was the range of experience its members brought in: underground rap connections, street dance competitions, acting backgrounds, and formal dance training, alongside street casts and teacher recommendations. None of them were destined for this. None of them were the obvious choice.
 
-BTS came together differently. Seven boys found their way to the same small company through underground rap connections, street casts, dance competitions, accidental auditions, and teacher recommendations. None of them were destined for this. None of them were the obvious choice.
-
-That's part of why the bond between members became so strong — and why ARMY, from the very beginning, felt like they were watching something real.
+Big Hit's decision to let members write their own lyrics and communicate directly with fans — rather than keeping them at arm's length — helped set the bond between members and ARMY apart from many contemporaries.
 
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: "Squid Game S1: Director Hwang Dong-hyuk & the Cast Who Changed TV History"
-date: 2026-06-26 09:00:00 +0900
+date: 2026-06-26
 categories: [K-Drama]
-tags: [k-drama, squid-game, hwang-dong-hyuk, lee-jung-jae, park-hae-soo, jung-ho-yeon, oh-yeong-su, heo-sung-tae, "2021"]
-description: "A script rejected for 10 years. A director who lost four teeth from stress. Meet Hwang Dong-hyuk, Lee Jung-jae, Jung Ho-yeon, and the full cast of Squid Game Season 1."
+tags: [k-drama, squid-game, hwang-dong-hyuk, lee-jung-jae, park-hae-soo, jung-ho-yeon, oh-yeong-su, heo-sung-tae]
+description: "A script rejected for 10 years. A director who lost up to nine teeth from stress. Meet Hwang Dong-hyuk, Lee Jung-jae, Jung Ho-yeon, and the key cast of Squid Game Season 1."
 image:
   path: /assets/img/posts/squid-s1-part3-cover.jpg
   alt: "Squid Game Season 1 Director and Cast"
@@ -38,7 +38,7 @@ Then Netflix said yes. In 2021, that script became the most-watched piece of tel
 
 Hwang Dong-hyuk wrote and directed every episode himself. No co-writers. No creative partners.
 
-The stress was so extreme that he lost **four teeth** during production. He talked about this openly in interviews after the show's release.
+The stress was so extreme that he initially reported losing **six teeth** during production — and later corrected himself in a 2024 BBC interview, saying it was actually **"eight or nine."** He talked about this openly, and it became one of the most-cited behind-the-scenes details about the show.
 
 ### Netflix Paid Him a Flat Fee
 
@@ -55,7 +55,7 @@ Korean and international fans respected the honesty.
 | | |
 |--|--|
 | **Full Name** | 황동혁 (Hwang Dong-hyuk) |
-| **Born** | September 17, 1971 |
+| **Born** | May 26, 1971 |
 | **Education** | Seoul National University → USC School of Cinematic Arts (MFA) |
 | **Script written** | 2009 |
 | **Netflix release** | 2021 — 12 years later |
@@ -99,7 +99,7 @@ In 2022, Lee Jung-jae became the **first Asian actor to win Outstanding Lead Act
 | | |
 |--|--|
 | **Full Name** | 이정재 (Lee Jung-jae) |
-| **Born** | March 15, 1972 |
+| **Born** | December 15, 1972 |
 | **Debut** | 1993 |
 | **Emmy** | Outstanding Lead Actor — Drama Series (first Asian to win) |
 
@@ -142,7 +142,6 @@ Sang-woo is not a simple villain. He is a man who crosses moral lines one by one
 | Title | Year | Notes |
 |-------|------|-------|
 | **Prison Playbook** *(슬기로운 감빵생활)* | 2017 | tvN hit drama |
-| **Forest of Secrets** *(비밀의 숲)* | 2017 | Acclaimed legal thriller |
 | **Squid Game S1** | 2021 | Global breakthrough |
 | **Money Heist: Korea** *(종이의 집)* | 2022 | Netflix Korean remake — lead role |
 
@@ -158,11 +157,11 @@ Jung Ho-yeon was not an actress before Squid Game.
 
 She was a **fashion model**. Zero acting credits. Never appeared in a drama.
 
-Director Hwang Dong-hyuk found her on Instagram. He felt her face was exactly right for Sae-byeok — a North Korean defector trying to survive in a world that does not want her. He cast her without an audition.
+Director Hwang Dong-hyuk found her through a **casting audition process**. Jung, who was in New York for Fashion Week at the time, filmed a self-tape audition and sent it in. Director Hwang said her tape "came out of the blue" and that he immediately knew the role was hers. She then flew to Korea for an in-person audition to confirm. As Hwang put it: "After an in-person audition, I knew my instincts were right." He cast her immediately.
 
-The result? After Squid Game aired, her Instagram followers went from **400,000 to 22 million** in two weeks. She became a Louis Vuitton global ambassador. She won SAG Award for Outstanding Performance by a Female Actor in a Drama Series.
+The result? After Squid Game aired, her Instagram followers went from **roughly 400,000 to more than 20 million** in the weeks that followed. She became a Louis Vuitton global ambassador. She won the SAG Award for Outstanding Performance by a Female Actor in a Drama Series.
 
-One show. Zero acting experience. Global star.
+One show. Acting debut. Global star.
 
 ### 📋 Profile
 
@@ -178,9 +177,9 @@ One show. Zero acting experience. Global star.
 | Title | Year | Notes |
 |-------|------|-------|
 | **Squid Game S1** | 2021 | Acting debut — SAG Award |
-| **The Fall of the House of Usher** | 2023 | Netflix US series |
+| **Disclaimer** | 2024 | Apple TV+ series — with Cate Blanchett |
 
-> 💡 **Fun fact:** Jung Ho-yeon was cast based on her Instagram presence alone — no audition, no acting reel. Director Hwang said: "Her eyes told me everything I needed to know about Sae-byeok."
+> 💡 **Fun fact:** Jung Ho-yeon filmed her audition self-tape while in New York for Fashion Week and sent it in. Director Hwang said her tape "came out of the blue" and that he immediately knew she was right for the role. She then flew to Korea for an in-person audition — and was cast on the spot.
 
 ---
 
@@ -225,7 +224,6 @@ He has continued building a strong career in Korean crime dramas and films since
 |-------|------|-------|
 | **Squid Game S1** | 2021 | Global villain role |
 | **Narco-Saints** *(수리남)* | 2022 | Netflix Korea drama |
-| **The Roundup: Punishment** *(범죄도시 4)* | 2024 | Major Korean film franchise |
 
 ---
 
@@ -237,18 +235,21 @@ Ali is the heart of the show.
 
 A Pakistani migrant worker in Korea, he is honest, trusting, and kind in a way that makes every bad thing that happens to him feel unbearable.
 
-Anupam Tripathi is Indian, not Pakistani — and he learned Korean for the role. His Korean in the show is deliberately imperfect, reflecting the reality of many migrant workers in Korea who are still learning the language.
+Anupam Tripathi is Indian, not Pakistani — born in New Delhi. He is not an actor who learned Korean for a role. He moved to South Korea in 2010 on an Arts Major Asian scholarship to study at the **Korea National University of Arts**, where he later completed both his bachelor's and master's degrees in acting. By the time he appeared in Squid Game, he had already lived in Korea for over a decade and built a career in Korean theater, commercials, and small screen roles.
 
-His character represents the millions of foreign workers in Korea who are often invisible to the systems around them.
+His Korean in the show is deliberately imperfect in places, reflecting the reality of a foreign worker who speaks the language well but not natively. That specificity makes Ali feel real.
+
+His character reflects the vulnerability faced by migrant workers in South Korea — and his performance resonated because he understood that world from having lived in it for years.
 
 ### 📋 Profile
 
 | | |
 |--|--|
 | **Full Name** | Anupam Tripathi |
-| **Born** | March 18, 1988 |
-| **From** | Patna, India |
-| **Languages** | Hindi, English, Korean (learned for role) |
+| **Born** | November 2, 1988 |
+| **From** | New Delhi, India |
+| **Education** | Korea National University of Arts (BA + MA, Acting) |
+| **Languages** | Hindi, English, Korean (fluent — learned in Korea from 2010) |
 
 ---
 

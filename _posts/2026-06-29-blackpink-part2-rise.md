@@ -8,9 +8,9 @@ image: /assets/img/posts/blackpink-part2-title.jpg
 featured: false
 ---
 
-In April 2019, BLACKPINK walked onto the Coachella stage.
+In April 2019, BLACKPINK walked onto a stage at Coachella.
 
-No Korean girl group had ever performed at the festival. No Asian act had ever headlined it. Jennie, Lisa, Jisoo, and Rosé weren't just the first K-pop girl group at Coachella — they were a main act on opening night, playing to a crowd that stretched as far as anyone could see.
+No Korean girl group had ever performed at the festival before. Jennie, Lisa, Jisoo, and Rosé became the first K-pop girl group in Coachella history — playing a high-profile Friday night set on the Sahara Stage, several tiers below that year's headliners (Childish Gambino, Tame Impala, and Ariana Grande). It wasn't the main stage and they weren't headlining — that would come four years later, in 2023, when BLACKPINK returned as the festival's first-ever Korean headliner. But in 2019, simply being there, as the first K-pop girl group in the festival's history, was already historic.
 
 It had taken them three years to get there. But the story of *how* they got there starts in 2016, with two songs that nobody expected to hit the way they did.
 
@@ -27,7 +27,7 @@ It had taken them three years to get there. But the story of *how* they got ther
 
 Most K-pop groups need time to build momentum. BLACKPINK didn't get the memo.
 
-**"Whistle"** topped the Gaon Digital Chart within days of release. **"Boombayah"** hit #1 on the Billboard World Digital Song Sales chart on the same day — making BLACKPINK the fastest act ever to achieve that and the first girl group to hold the simultaneous top two spots.
+**"Whistle"** debuted at #1 on the Gaon Digital Chart. **"Boombayah"** debuted at #1 on the Billboard World Digital Song Sales chart, with "Whistle" entering at #2 — making BLACKPINK the fastest act ever to top that chart and the first K-pop girl group to occupy the top two positions on it simultaneously.
 
 Thirteen days after debut, they won their first music show trophy. The fastest debut-to-win record for a Korean girl group at the time.
 
@@ -62,19 +62,19 @@ The record wasn't just a chart position. It was a signal: BLACKPINK had found an
 
 ### 📍 Milestone: Dua Lipa Collaboration (October 2018)
 
-"Kiss and Make Up" — a collaboration with Dua Lipa — was released as a bonus track and became a commercial success worldwide. It was one of the first major collaborations between a K-pop group and a Western mainstream pop artist, and it opened doors on both sides.
+"Kiss and Make Up" — a collaboration with Dua Lipa — was released as a bonus track and became a commercial success worldwide. It was a high-profile pairing with a major Western pop star that helped introduce BLACKPINK to a broader international audience.
 
 ### 📍 Milestone: First Billion-View Music Video (2019)
 
-"Ddu-Du Ddu-Du" became the **first K-pop music video to reach 1 billion YouTube views** — hitting the milestone in just over a year. Before BLACKPINK, the only Korean act to reach that mark was PSY with "Gangnam Style" in 2012.
+"Ddu-Du Ddu-Du" became the **first music video by a K-pop group to reach 1 billion YouTube views**, hitting the milestone in November 2019. (PSY's "Gangnam Style" had already passed a billion views years earlier as a solo act — BLACKPINK's record was specifically for K-pop groups.)
 
-BLACKPINK's YouTube subscriber count — already the largest of any music act — was growing at a pace that defied industry logic.
+BLACKPINK's YouTube subscriber count was growing at a pace that defied industry logic, though at this point they had not yet become the most-subscribed music act overall — that milestone came later, in 2021.
 
-### Jennie's Solo Debut (December 2018)
+### Jennie's Solo Debut (November 2018)
 
-Before the group had even released their first full album, Jennie became the first BLACKPINK member to release solo music with **"Solo"** — which topped the Billboard World Digital Song Sales chart and the Gaon Music Chart simultaneously.
+Before the group had even released their first full album, Jennie became the first BLACKPINK member to release solo music with **"Solo"** on November 12, 2018 — which topped the Billboard World Digital Song Sales chart and the Gaon Music Chart simultaneously.
 
-It established a template: BLACKPINK as a group was powerful. Each member was also a viable solo force. This dual structure would define the next phase of their career.
+In retrospect, Jennie's solo debut foreshadowed a structure that would define the group's later years: BLACKPINK as a group remained powerful, while each member also built out an individual career.
 
 ---
 
@@ -82,13 +82,11 @@ It established a template: BLACKPINK as a group was powerful. Each member was al
 
 ### 📍 Milestone: First K-Pop Girl Group at Coachella (April 12, 2019)
 
-April 12, 2019. The Coachella Valley Music and Arts Festival. Main stage. Opening night.
+April 12, 2019. The Coachella Valley Music and Arts Festival. The **Sahara Stage**, Friday night.
 
-BLACKPINK became the **first K-pop girl group to perform at Coachella** — and not just as a side act. They were one of the headliners on the most-watched night of the most famous music festival in the world.
+BLACKPINK became the **first K-pop girl group to perform at Coachella**. That year's headliners were Childish Gambino, Tame Impala, and Ariana Grande — BLACKPINK played several tiers below them on the bill, but the slot itself was still historic: no Korean girl group, and no K-pop group of any kind at that scale, had stood on a Coachella stage before.
 
-The performance was flawless. Their stage presence was undeniable. Millions watched the live stream. Celebrities posted. The music press covered it wall to wall.
-
-In American pop music terms, Coachella is validation at the highest level. BLACKPINK didn't just show up — they owned it.
+The set was livestreamed on YouTube and covered extensively by international music press, who were watching to see how a Coachella crowd — many of them unfamiliar with K-pop — would respond. Four years later, in 2023, BLACKPINK would return to Coachella as its first-ever Korean headliner, closing on the festival's main stage. But 2019 was the foothold.
 
 ### 📍 Milestone: "Kill This Love" — Breaking Their Own Record (April 2019)
 
@@ -102,7 +100,7 @@ BLACKPINK was now breaking their own records faster than anyone else could catch
 
 "Ddu-Du Ddu-Du" was certified **gold by the Recording Industry Association of America (RIAA)** — making BLACKPINK the **first female K-pop group to receive RIAA certification** in the United States.
 
-Gold certification requires 500,000 units. Getting there as a Korean-language track, without mainstream US radio play, was remarkable.
+Gold certification requires 500,000 units. The certification was achieved largely through digital sales and on-demand streaming, despite comparatively limited US radio exposure for a Korean-language track.
 
 ---
 
@@ -112,14 +110,14 @@ Gold certification requires 500,000 units. Getting there as a Korean-language tr
 
 On June 26, 2020, BLACKPINK released **"How You Like That."**
 
-The music video broke **three Guinness World Records** in its first 24 hours:
+The music video's first-24-hour numbers (86.4 million views) earned a set of Guinness World Records, including:
 - Most viewed YouTube video in 24 hours
 - Most viewed music video on YouTube in 24 hours
-- Most viewed YouTube music video in 24 hours by a K-pop group
+- Most viewed music video on YouTube in 24 hours by a K-pop group
 
-The peak concurrent viewers during the premiere reached **1.66 million** — an extraordinary number for any live stream, let alone a music video debut.
+The livestreamed premiere itself, with 1.66 million peak concurrent viewers, separately set records for most concurrent viewers for a YouTube video premiere and for a music video premiere specifically.
 
-The records it broke had previously been held by BTS. BLACKPINK broke them.
+These records had previously been held by BTS, and were later broken again by BTS's "Dynamite" and "Butter" — but for a stretch in mid-2020, they belonged to BLACKPINK.
 
 ### 📍 Milestone: "Ice Cream" with Selena Gomez — Hot 100 Top 13 (August 2020)
 
@@ -129,9 +127,9 @@ The pre-release collaboration with Selena Gomez debuted at **#13 on the Billboar
 
 After four years of singles and EPs, BLACKPINK finally released their **first full studio album** — simply titled ***The Album***.
 
-It sold **over 1 million copies** in its first month — making BLACKPINK **the first million-selling K-pop girl group** in history. It debuted at #2 on the Billboard 200 — the highest ever for a female Korean act and the highest for any girl group since 2008.
+It sold **over 1.2 million copies** worldwide by late October 2020 — making BLACKPINK **the first million-selling K-pop girl group** in history at that point. It debuted at #2 on the Billboard 200 — the highest ever for a female Korean act at the time and the highest for any girl group since 2008.
 
-*The Album* also debuted at #1 on the Gaon Album Chart and broke the record for best-selling album by a Korean female act of all time.
+*The Album* also debuted at #1 on the Gaon Album Chart and was, at the time, the best-selling album by a Korean female act ever — a record later surpassed by BLACKPINK's own *Born Pink*.
 
 | | |
 |:---|:---|
@@ -143,31 +141,39 @@ It sold **over 1 million copies** in its first month — making BLACKPINK **the 
 
 ---
 
-## Phase 5: YouTube History and the 100 Million Milestone (2021)
+## Phase 5: Becoming YouTube's Most-Subscribed Music Act (2021–2026)
 
-### 📍 Milestone: First Artist to Reach 75 Million YouTube Subscribers (2021)
+### 📍 Milestone: Surpassing Justin Bieber (September 2021)
 
-BLACKPINK's YouTube channel became the **most subscribed music act on the platform** — surpassing Justin Bieber and becoming the first artist of any kind to reach 75 million subscribers. They would later become the first to reach **100 million subscribers** — a number no other music artist had reached before them.
+In September 2021, BLACKPINK's YouTube channel surpassed Justin Bieber to become the **most-subscribed music act on the platform**.
 
-Their dominance on YouTube was unlike anything in K-pop or pop music generally. It was built not just on music videos, but on a global BLINK fanbase that streamed, shared, and watched with extraordinary consistency.
+### 📍 Milestone: 75 Million Subscribers (June 2022)
+
+BLACKPINK became the first music act to reach 75 million subscribers.
+
+### 📍 Milestone: 100 Million Subscribers (February 2026)
+
+BLACKPINK became the first **Official Artist Channel** on YouTube to reach 100 million subscribers — a number no other music act's channel had reached before.
+
+Their dominance on YouTube was built not just on music videos, but on a global BLINK fanbase that streamed, shared, and watched with extraordinary consistency.
 
 ---
 
 ## What Made the Rise Happen So Fast?
 
-Three years from debut to Coachella. Four years to the best-selling album by a Korean girl group in history. How?
+Three years from debut to their first Coachella appearance. How?
 
 **① The "Girl Crush" concept traveled instantly.**
-BLACKPINK's identity — confident, powerful, visually striking — translated across cultures without needing explanation. You didn't need to understand Korean to understand what BLACKPINK represented. The vibe communicated everything.
+BLACKPINK's identity — confident, powerful, visually striking — translated across cultures without needing much explanation. The visual and musical vibe communicated a lot on its own, even to audiences with no context for K-pop.
 
-**② The multicultural lineup was strategic and effective.**
-A member from Thailand (Lisa) connected Southeast Asian fans in a way no Korean group had managed before. A member fluent in English (Jennie, Rosé) gave BLACKPINK credibility in Western markets. Jisoo's warmth and humor gave them a personality beyond the fierce image. Each member opened a different door.
+**② The multilingual, internationally experienced lineup proved advantageous.**
+Lisa's Thai background gave BLACKPINK an especially visible connection with fans in Thailand and other parts of Southeast Asia — building on ties that other K-pop acts, including 2PM's Nichkhun and 2NE1's Sandara Park, had already begun forging in the region. Jennie and Rosé's fluency in English gave BLACKPINK an easier foothold in Western media and interviews. Each member brought something different to how the group was received internationally.
 
 **③ YouTube was their territory.**
-BLACKPINK arrived at a moment when YouTube was becoming the global music platform. They invested in high-production music videos and built a fanbase that treated YouTube streaming as a form of direct support. BLINK's streaming organization made every music video release feel like an event.
+BLACKPINK arrived at a moment when YouTube was becoming the dominant global music platform. High-production music videos and a large, highly engaged BLINK fanbase helped generate intense attention around each release.
 
-**④ YG's patience paid off — sort of.**
-The six years of training meant BLACKPINK debuted fully formed. The choreography was tight from day one. The vocal quality was there. The concept was clear. What YG didn't give them — enough music — became the fan community's defining frustration. But what they released, they released with full force.
+**④ YG's long training period gave them a fully-formed debut.**
+Training periods ranged from about four years (Rosé) to nearly six (Jennie). By debut, the choreography was tight and the group's identity was clear. What YG didn't give them — enough new music, fast enough — became a recurring point of fan frustration. But what they did release consistently performed at a high level.
 
 ---
 

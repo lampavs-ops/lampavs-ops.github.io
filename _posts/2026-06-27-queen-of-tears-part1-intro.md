@@ -1,9 +1,9 @@
 ---
 title: "Queen of Tears (눈물의 여왕): The K-Drama That Made the Whole World Cry — Spoiler-Free"
-date: 2026-06-27 09:00:00 +0900
+date: 2026-06-27
 categories: [K-Drama]
-tags: [k-drama, queen-of-tears, kim-soo-hyun, kim-ji-won, tvn, netflix, romance, spoiler-free, "2024"]
-description: "24.85% peak rating. The most-watched Korean drama on Netflix ever. Here is everything you need to know about Queen of Tears — no spoilers."
+tags: [k-drama, queen-of-tears, kim-soo-hyun, kim-ji-won, tvn, netflix, romance, spoiler-free]
+description: "24.850% final episode rating. The most-watched Korean drama of all time on Netflix. Here is everything you need to know about Queen of Tears — no spoilers."
 image:
   path: /assets/img/posts/qot-part1-cover.jpg
   alt: "Queen of Tears 2024 tvN Netflix"
@@ -21,11 +21,12 @@ featured: true
 | Record | Number |
 |--------|--------|
 | Air dates | March 9 – April 28, 2024 |
-| Channel | tvN / Netflix |
+| Channel | tvN · Netflix (international) · TVING (Korea) |
 | Episodes | 16 |
-| Final episode rating | **24.85%** — all-time tvN record |
-| Netflix hours watched | **682,600,000 hours** |
-| Netflix ranking | Most-watched Korean drama ever |
+| Final episode rating | **24.850%** — all-time tvN record (nationwide average) |
+| Netflix hours watched | **682,600,000 hours** (total cumulative) |
+| Netflix views | **29 million views** |
+| Netflix ranking | Most-watched Korean drama of all time on Netflix |
 | Writer | Park Ji-eun (same writer as Crash Landing on You) |
 | Directors | Kim Hee-won (Vincenzo) · Jang Young-woo |
 
@@ -111,12 +112,12 @@ Can two people who forgot how to love each other find their way back?
 |--|--|
 | **Title** | 눈물의 여왕 (Queen of Tears) |
 | **Air dates** | March 9 – April 28, 2024 |
-| **Channel** | tvN · Netflix (international) |
-| **Episodes** | 16 (about 70 minutes each) |
+| **Channel** | tvN · TVING (Korea streaming) · Netflix (international) |
+| **Episodes** | 16 (running roughly 75–95 minutes each) |
 | **Genre** | Romance · Melodrama · Thriller |
 | **Writer** | Park Ji-eun |
 | **Directors** | Kim Hee-won · Jang Young-woo |
-| **Production** | Studio Dragon |
+| **Production** | Studio Dragon · Culture Depot · Showrunners |
 
 ---
 
@@ -124,10 +125,12 @@ Can two people who forgot how to love each other find their way back?
 
 | Category | Record |
 |----------|--------|
-| tvN peak rating | 24.85% — all-time #1 (beat Crash Landing on You) |
-| Netflix Korean drama | Most watched ever — 682.6 million hours |
-| 2024 Baeksang Arts Awards | Best TV Drama · Best Actress (Kim Ji-won) |
-| 2024 Asia Artist Awards | Drama of the Year |
+| tvN peak rating | **24.850%** final episode — all-time tvN drama record |
+| Netflix | Most-watched Korean drama of all time — 682.6M hours, 29M views |
+| 2024 Baeksang Arts Awards | Kim Soo-hyun nominated for Best Actor · won Popularity Award |
+| 2024 Seoul International Drama Awards | Outstanding Korean Drama |
+| 2024 Asian Academy Creative Awards | Best Direction — Kim Hee-won & Jang Young-woo |
+| 2024 Asia Artist Awards | Kim Soo-hyun — Actor of the Year (Daesang) |
 
 ---
 

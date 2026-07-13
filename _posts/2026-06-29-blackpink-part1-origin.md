@@ -14,7 +14,7 @@ What they ended up with was something nobody planned: four girls from four compl
 
 One night early in their training, all four of them stayed up until dawn — in their pajamas, Rosé playing guitar, Jisoo harmonizing, all of them singing together for no reason except that it felt right.
 
-"It was us four," Rosé later said. "I don't even know why, but it was us four."
+Rosé later recalled that the connection among the four of them felt immediate and natural from that first night — long before anyone had decided what BLACKPINK would become.
 
 That night in the kitchen might be the real beginning of BLACKPINK.
 
@@ -29,7 +29,7 @@ That night in the kitchen might be the real beginning of BLACKPINK.
 
 YG Entertainment is one of Korea's "Big Three" labels. In K-pop, this matters enormously. SM Entertainment and JYP Entertainment were producing major girl groups throughout the 2000s and early 2010s. YG had BIGBANG and 2NE1 — but after 2NE1 debuted in 2009, there was no new YG girl group for **seven years**.
 
-The wait wasn't laziness. YG founder Yang Hyun-suk was famously particular. He announced a new girl group in 2011 — originally planned to have seven members — and then kept delaying. Members came and went. The lineup changed multiple times. Years passed.
+The wait wasn't laziness. YG began assembling its trainee pool around 2010 and publicly announced plans for a new girl group in 2011. The project was repeatedly delayed as the company continued evaluating and changing its trainee lineup — reports over the years described potential lineups ranging from five to nine members before the company settled on four.
 
 During that time, four trainees stayed. Prepared. And waited.
 
@@ -42,41 +42,39 @@ During that time, four trainees stayed. Prepared. And waited.
 
 ### Jennie (Kim Jennie) — The First to Arrive, 2010
 
-Jennie grew up between Seoul, New Zealand, and briefly Florida. As a student at ACG Parnell College in Auckland, she was filmed for a documentary about K-pop-loving overseas Korean students — making her the first future BLACKPINK member to appear on television, long before debut.
+Jennie was born in Seoul and moved to Auckland, New Zealand around age 8, where she spent roughly five years studying at ACG Parnell College. While there, she appeared as a Korean student in a 2006 MBC documentary about English-language education — making her the first future BLACKPINK member to appear on television, long before debut.
 
-At 14, she convinced her parents to let her return to Seoul to pursue music instead of a law school path in the US. She auditioned for YG performing Rihanna's "Take a Bow" and became the **first trainee** in what would eventually become BLACKPINK.
+At 14, her mother had considered sending her to the US for further schooling, but Jennie chose instead to return to Seoul to pursue music. She auditioned for YG and became the **first trainee** in what would eventually become BLACKPINK.
 
 She spent **nearly six years** as a trainee — the longest of any member — waiting for a debut that kept getting delayed. She has said she genuinely feared she would never debut at all.
 
-> 💡 **Jennie didn't rap until she became a YG trainee.** When executives discovered she was fluent in English, they began training her specifically as a rapper. Today she's one of the most iconic rappers in K-pop.
+> 💡 **Because Jennie was fluent in English,** she was frequently assigned English-language rap parts during training, and gradually developed into one of the group's primary rappers. Today she's one of the most iconic rappers in K-pop.
 
 ---
 
-### Lisa (Lalisa Manoban) — One of 4,000, 2010
+### Lisa (Lalisa Manobal) — Selected From Thousands, 2010
 
 Lisa was born and raised in Bangkok, Thailand, where she had been dancing since childhood. She was part of a dance crew, and performing was the only thing she ever wanted to do.
 
-In 2010, YG Entertainment held open auditions in Thailand. **More than 4,000 people** showed up. Lisa was the **only applicant** to pass that day.
+In 2010, YG Entertainment held open auditions in Thailand. Thousands of hopefuls showed up. Lisa was the **only applicant** to pass that day.
 
-She moved to Seoul in 2011, becoming YG's **first-ever foreign trainee**. She spoke almost no Korean. She was 14 years old, thousands of kilometers from home, in a country whose language she didn't know.
+She moved to Seoul in 2011, becoming YG's **first-ever non-ethnically-Korean trainee**. She spoke almost no Korean. She was 14 years old, thousands of kilometers from home, in a country whose language she didn't know.
 
-She learned Korean through classes, through daily life with her fellow trainees, and through sheer determination. Five years later, she debuted as one of the fastest-spitting rappers in K-pop.
+She learned Korean through classes, through daily life with her fellow trainees, and through sheer determination. Five years later, she debuted as one of the group's primary rappers, known for a rapid, rhythmically precise delivery.
 
 > 💡 **Lisa is the only non-Korean member of BLACKPINK.** Her Thai identity has remained central to her artistry — most visibly in her solo work, where her Bangkok roots are a source of deep pride.
 
 ---
 
-### Jisoo (Kim Jisoo) — The One Who Was Born for This, 2011
+### Jisoo (Kim Jisoo) — Already at Home in the Spotlight, 2011
 
-Jisoo grew up in Gunpo, a city about 20 miles south of YG's Seoul headquarters. Her family loved music and singing — she grew up performing at family gatherings, and eventually joined her school's drama club.
+Jisoo grew up in Gunpo, a city about 20 miles south of YG's Seoul headquarters. She attended the School of Performing Arts Seoul, where she joined the drama club and began attending auditions.
 
-Her first audition was for YG Entertainment. She had never auditioned anywhere before. She didn't fully understand what YG was when she walked in.
-
-She passed. She became a trainee in July 2011, training for **five years** before debut.
+She joined YG Entertainment as a trainee in August 2011, training for **five years** before debut.
 
 During those trainee years, Jisoo appeared in TV commercials, music videos (including Epik High and HI SUHYUN), and even had a cameo in the popular K-drama *The Producers*. She was one of the most visible YG trainees — even as she hadn't debuted yet.
 
-> 💡 **A plot twist:** While training at YG, Jisoo was approached by an SM Entertainment casting agent at a YG concert who wanted to recruit her. She turned them down. She was already where she was supposed to be.
+> 💡 **A plot twist:** While training at YG, Jisoo was approached at a YG concert by someone from a rival label who asked if she'd consider becoming an idol. She said no — she was already a YG trainee.
 
 ---
 
@@ -86,7 +84,7 @@ Rosé was born in Auckland, New Zealand and raised in Melbourne, Australia. She 
 
 Her father heard about a YG audition being held in Australia and signed her up. She competed against **more than 700 applicants** — and placed **first**.
 
-At 15, she packed her guitar and flew to Seoul. She would train for **four years and two months** before debut.
+At 15, she packed her guitar and flew to Seoul. She would train for **about four years** before debut.
 
 The night she arrived at the YG dormitory, she met her three future bandmates for the first time. Lisa noticed the guitar. She asked Rosé to play something. The four of them stayed up covering songs until morning.
 
@@ -96,12 +94,12 @@ The night she arrived at the YG dormitory, she met her three future bandmates fo
 
 ## 📋 Member Roster at a Glance
 
-| Member | Real Name | From | Joined YG | Training Period |
+| Member | Real Name | Background | Joined YG | Training Period |
 |:---:|:---|:---:|:---:|:---:|
-| Jennie | Kim Jennie | Seoul / New Zealand | 2010 | ~6 years |
-| Lisa | Lalisa Manoban | Bangkok, Thailand | 2010/2011 | ~5 years |
+| Jennie | Kim Jennie | South Korea–born · raised partly in New Zealand | 2010 | ~6 years |
+| Lisa | Lalisa Manobal | Bangkok, Thailand | 2010/2011 | ~5 years |
 | Jisoo | Kim Jisoo | Gunpo, South Korea | 2011 | ~5 years |
-| Rosé | Park Chaeyoung | Auckland / Melbourne | 2012 | ~4 years |
+| Rosé | Park Chaeyoung | New Zealand–born · raised in Melbourne, Australia | 2012 | ~4 years |
 
 ---
 
@@ -109,16 +107,11 @@ The night she arrived at the YG dormitory, she met her three future bandmates fo
 
 The name was revealed on June 29, 2016 — along with the confirmation that the group would have four members, not seven.
 
-YG's explanation: **"Pretty isn't everything."**
+YG's explanation: **"Pretty isn't everything."** The label said the name was designed to challenge the idea that "pink" represents only prettiness — emphasizing that the members had talent and substance behind the visual appeal.
 
-- **PINK** represents beauty, femininity, and the visual appeal of a girl group.
-- **BLACK** represents talent, strength, and the substance behind the image.
+Other names reportedly considered along the way included Pink Punk, Baby Monster, and Magnum, according to Jisoo's own later recollections. They went with BLACKPINK — and it fit.
 
-Together, the name says: *we are not just pretty. We are more than that.*
-
-Other names that were considered included Pink Punk, Baby Monster, and Magnum. They went with BLACKPINK — and it fit.
-
-The four-member structure was deliberate. Unlike the large-ensemble groups becoming popular at the time, BLACKPINK would be lean and focused: two rappers (Jennie, Lisa), two vocalists (Jisoo, Rosé), with each member distinct and irreplaceable.
+The four-member structure was deliberate. Unlike the large-ensemble groups becoming popular at the time, BLACKPINK would be lean and focused. Jennie and Lisa became the group's primary rappers, while Rosé and Jisoo anchored the vocals — though in practice, all four members' roles overlap, and each is distinct and irreplaceable.
 
 ---
 
@@ -126,7 +119,7 @@ The four-member structure was deliberate. Unlike the large-ensemble groups becom
 
 K-pop trainee life is notoriously demanding. At YG, trainees went through a rigorous monthly evaluation system where they performed solo and in teams for judges — developing choreography, styling, and their own creative choices. There was no guaranteed debut. There was no guaranteed anything.
 
-For BLACKPINK's members, the wait was especially long. The debut kept getting pushed back. Members who had trained alongside them were cut. The original seven-member plan became five, then four.
+For BLACKPINK's members, the wait was especially long. The debut kept getting pushed back. Numerous trainees cycled through different proposed lineups before YG finalized the four members who became BLACKPINK.
 
 Jennie has said she genuinely didn't believe she would ever debut. Rosé has described crying alone in bathrooms when things got hard. Lisa, away from her family and culture in a country she had to learn from scratch, pushed through isolation and homesickness with a smile that became her signature.
 
@@ -142,7 +135,7 @@ On August 8, 2016, BLACKPINK released their debut single album ***Square One***,
 
 Both songs moved immediately.
 
-"Whistle" topped the Gaon Digital Chart within days. "Boombayah" hit #1 on the Billboard World Digital Song Sales chart — making BLACKPINK the **fastest act ever** to achieve that and the **first girl group** to hold the top two positions simultaneously.
+"Whistle" debuted at #1 on South Korea's Gaon Digital Chart. "Boombayah" hit #1 on the Billboard World Digital Song Sales chart — making BLACKPINK the **fastest act ever** to achieve that and the **first K-pop girl group** to occupy the top two positions on that chart simultaneously.
 
 Thirteen days after debut, BLACKPINK won their first music show award. At the time, it was the **fastest debut-to-win record** for a Korean girl group.
 
@@ -166,9 +159,7 @@ The industry paid attention.
 
 ## 💭 Why This Origin Story Matters
 
-Most K-pop girl groups are built from the same country, often the same city. They share a language, a culture, a common reference point.
-
-BLACKPINK was built differently. One member from Thailand who couldn't speak Korean. One from Australia who grew up playing guitar in a suburban home. One who had been overseas in New Zealand and came back with fluent English and a different perspective. One who was the only Korean-born member and turned down a rival label's offer to stay loyal to the company she chose.
+BLACKPINK's four members bring an unusually international mix of life experience for a major K-pop girl group debuting in 2016. One member from Thailand who couldn't speak Korean when she arrived. One born in New Zealand and raised in suburban Australia. One who was born in Korea but spent years of her childhood in New Zealand, returning with fluent English and a different perspective. One who grew up entirely in Korea and once turned down interest from a rival label because she was already committed to YG.
 
 Four very different people — four different backgrounds, four different skill sets, four different ways of moving through the world — who found each other in a practice room in Seoul and became something none of them could have been alone.
 

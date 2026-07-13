@@ -8,9 +8,9 @@ image: /assets/img/posts/blackpink-part3-title.jpg
 featured: false
 ---
 
-In October 2022, BLACKPINK released ***Born Pink***.
+In September 2022, BLACKPINK released ***Born Pink***.
 
-It debuted at **#1 on the Billboard 200** — the first K-pop girl group ever to reach the top of the most important album chart in the United States.
+It debuted at **#1 on the Billboard 200** — the first K-pop girl group ever to reach the top of the leading US albums chart.
 
 Then they went on tour. 66 shows. 22 countries. 1.8 million people. $330 million in gross revenue — the highest-grossing tour by any female group or Asian artist in history.
 
@@ -31,23 +31,23 @@ This is what BLACKPINK at full power looks like.
 
 ### "Pink Venom" — Billboard Global 200 #1 (August 2022)
 
-The pre-release single **"Pink Venom"** debuted at **#1 on the Billboard Global 200** — a chart measuring streams and sales across every market worldwide. The accompanying music video set new 24-hour YouTube records.
+The pre-release single **"Pink Venom"** debuted at **#1 on the Billboard Global 200** — a chart measuring streams and sales across more than 200 countries and territories worldwide. The music video also set a then-record for the biggest 24-hour debut by a female artist, with **90.4 million views** in its first day.
 
 ### 📍 Milestone: *Born Pink* — Billboard 200 #1 (September 2022)
 
-On October 2, 2022, BLACKPINK released ***Born Pink*** — their **second studio album** and the most anticipated K-pop girl group release in years.
+On September 16, 2022, BLACKPINK released ***Born Pink*** — their **second studio album** and the most anticipated K-pop girl group release in years.
 
-It debuted at **#1 on the Billboard 200**. BLACKPINK became the **first K-pop girl group ever** to reach the top of the chart.
+It debuted at **#1 on the Billboard 200**. BLACKPINK became the **first K-pop girl group ever** to reach the top of the chart. It also topped the UK's Official Albums Chart — another first for a K-pop girl group.
 
-It also became the **first K-pop girl group album to sell more than 2 million copies** — anywhere, in any country. Ever.
+It also became the **first K-pop girl group album to sell more than 2 million copies** on South Korea's Circle Chart.
 
 | | |
 |:---|:---|
 | **Album** | *Born Pink* |
 | **Release** | September 16, 2022 |
 | **Billboard 200** | 🥇 #1 (first K-pop girl group) |
-| **First-day sales** | 1.01 million copies |
-| **Historic note** | First K-pop girl group album to sell 2M copies |
+| **First-day sales (Hanteo)** | ~1.01 million copies |
+| **Historic note** | First K-pop girl group album to sell 2M copies (Circle Chart) |
 
 [**▶ Watch BLACKPINK 'Pink Venom' MV on YouTube**](https://www.youtube.com/results?search_query=BLACKPINK+Pink+Venom+Official+MV)
 
@@ -72,17 +72,17 @@ The tour reached North America, Europe, Asia, Oceania, and the Middle East. In M
 
 BLINK showed up everywhere. Not just in Korean diaspora communities. Everywhere.
 
-> 💡 **The $330 million gross broke the previous record for a female group tour** — set by the Spice Girls' 2019 reunion tour at $78.2 million — by more than four times. It was the sixth highest-grossing tour by any female artist in history.
+> 💡 **The $330 million gross broke the previous record for a female group tour** — set by the Spice Girls' 2019 reunion tour at $78.2 million — by more than four times in nominal terms. At the time the tour concluded, it ranked among the highest-grossing tours ever by a female act.
 
 ---
 
 ## 🎪 Headlining Coachella (2023)
 
-In 2019, BLACKPINK was the **first K-pop girl group to perform at Coachella**. They were a main act on opening night — a massive achievement.
+In 2019, BLACKPINK was the **first K-pop girl group to perform at Coachella** — playing a high-profile Friday-night set on the Sahara Stage, several tiers below that year's headliners. It wasn't a headlining slot, but it was historic simply as a first.
 
 In **2023, they headlined Coachella** — the first Asian act ever to do so.
 
-Headlining Coachella is a different category entirely from performing there. It means your name is at the top of the poster. It means the festival closes with your set. It means the global livestream is pointed at you.
+Headlining Coachella is a different category entirely from performing there. It means your name is at the top of the poster. It means you close the main Coachella Stage on your night. It means the global livestream is pointed at you.
 
 BLACKPINK was at the top of that poster.
 
@@ -98,10 +98,10 @@ For K-pop, it was a ceiling-breaking moment. No Korean act — boy group or girl
 
 | Record | Detail |
 |:---|:---|
-| First K-pop group: 1B YouTube views | "Ddu-Du Ddu-Du" (2019) |
-| Most subscribed music act on YouTube | First to 75M, then 100M subscribers |
+| First K-pop group: 1B YouTube views | "Ddu-Du Ddu-Du" (Nov 2019) |
+| Most subscribed music act on YouTube | First to 75M (June 2022), then 100M (April 2026) |
 | Most viewed K-pop girl group videos | Multiple music videos with 1B+ views each |
-| Biggest 24hr YouTube debut | "How You Like That" — 86.4M views |
+| Biggest 24hr YouTube debut by a female artist (2022) | "Pink Venom" — 90.4M views |
 
 ### Billboard Records
 
@@ -115,11 +115,11 @@ For K-pop, it was a ceiling-breaking moment. No Korean act — boy group or girl
 ### Awards Highlights
 
 - **TIME's Entertainer of the Year** — 2022
-- **Billboard Women in Music: Group of the Year** — 2023
-- **MTV VMA Best Group** — 2022 (first K-pop girl group to win)
-- **People's Choice Awards: Group of the Year** — 2019, 2020
-- **Guinness World Records**: Most viewed 24hr YouTube debuts, most subscribed music YouTube channel, and more
-- **Over 100 total awards** across domestic and international stages as of 2025
+- **MTV VMA Group of the Year** — 2023 (first K-pop girl group to win; BTS had won the four years prior)
+- **MTV VMA Best Choreography** — 2023, for "Pink Venom"
+- **People's Choice Awards: Group of the Year** — 2019
+- **Guinness World Records**: Most subscribed band on YouTube, most-viewed K-pop group music videos, and more
+- Multiple wins across Korean and international award shows through the years
 
 ---
 
@@ -134,15 +134,15 @@ BLACKPINK didn't just dominate music. They became the most powerful fashion amba
 | Lisa | Celine, Bulgari, Louis Vuitton |
 | Jisoo | Dior, Cartier |
 
-All four members have been regulars at Paris Fashion Week. Their front-row appearances generate global media coverage. Their outfit choices trend worldwide within minutes.
+All four members have been regulars at Paris Fashion Week. Their front-row appearances and fashion-week looks regularly generate substantial international media and social media attention.
 
 The fashion partnerships aren't just endorsements — they've made each member a recognizable figure in luxury culture independently of their music careers.
 
 ---
 
-## 🎤 The Solo Era: Four Global Stars
+## 🎤 The Independent Solo Era: Four Global Stars
 
-After *Born Pink* and the world tour, all four members announced solo projects. What followed was one of the most successful set of solo debuts by a K-pop group's members in history.
+After *Born Pink* and the world tour, all four members entered a new phase of independent, self-managed solo careers — each running her own label or signing with a new one. None of this was a "solo debut" in the strictest sense: Jennie had released "Solo" back in 2018, Rosé and Lisa both dropped solo albums in 2021 (*R* and *Lalisa*), and Jisoo debuted solo with *Me* in 2023. What followed in 2024–2025 was a new, more independent chapter — bigger albums, bigger rollouts, and creative control that none of them had fully had before.
 
 ### Jennie — *Ruby* (March 2025)
 
@@ -155,15 +155,15 @@ Rosé's debut solo album featured the mega-hit **"APT."** — a collaboration wi
 - **Fastest K-pop song to reach 1 billion Spotify streams**
 - **#3 on the Billboard Hot 100**
 
-Rosé performed "APT." to open the 2025 Grammy Awards — the first K-pop soloist to perform at the Grammy ceremony as a solo act.
+Rosé performed "APT." to open the **2026** Grammy Awards alongside Bruno Mars — becoming the first solo K-pop artist to perform on the Grammy main telecast. The song was nominated for Record of the Year, Song of the Year, and Best Pop Duo/Group Performance.
 
 ### Lisa — *Alter Ego* (February 2025)
 
-Lisa's debut full-length album featured "Rockstar" and "New Woman" (with Rosalía). She also made her Hollywood acting debut in Season 3 of HBO's *The White Lotus* in 2025, receiving strong critical reviews. Her solo single "Money" holds a Guinness World Record as the **first solo K-pop track to reach 1 billion Spotify streams**.
+Lisa's debut full-length album featured "Rockstar" and "New Woman" (with Rosalía). She also made her Hollywood acting debut in Season 3 of HBO's *The White Lotus* in 2025, drawing a mix of critical responses. Her solo single "Money" holds a Guinness World Record as the **first solo K-pop track to reach 1 billion Spotify streams**.
 
-### Jisoo — *Amortage* EP (2025)
+### Jisoo — *Amortage* EP (February 2025)
 
-Jisoo released her debut solo EP and released a string of singles including "Earthquake," "Tears," and "Hugs & Kisses" throughout 2025. She has also built one of K-pop's most successful acting careers alongside her music, starring in JTBC's *Snowdrop* and the Netflix series *Boyfriend on Demand*.
+Jisoo released her debut solo EP, *Amortage*, a four-track release led by the single "Earthquake" and also including "Your Love," "Tears," and "Hugs & Kisses." She has also built one of K-pop's most successful acting careers alongside her music, starring in JTBC's *Snowdrop* and the Netflix series *Boyfriend on Demand* (2026).
 
 ---
 
@@ -171,23 +171,23 @@ Jisoo released her debut solo EP and released a string of singles including "Ear
 
 ### The Deadline World Tour (July 2025 – January 2026)
 
-Before releasing new group music, BLACKPINK reunited for the **Deadline World Tour** — their first group performances in three years. The tour launched July 5, 2025 in Goyang, South Korea, and wrapped January 26, 2026 in Hong Kong.
+Before releasing new group music, BLACKPINK reunited for the **Deadline World Tour** — their first full-group concerts in nearly two years since the *Born Pink* tour wrapped in September 2023. The tour launched July 5, 2025 in Goyang, South Korea, and wrapped January 26, 2026 in Hong Kong.
 
-**Historic moment:** In August 2025, BLACKPINK headlined **Wembley Stadium** — becoming the **first K-pop girl group to headline Wembley Stadium**. The iconic London venue seats nearly 90,000 people.
+**Historic moment:** In August 2025, BLACKPINK headlined **Wembley Stadium** — becoming the **first K-pop girl group to headline Wembley Stadium**. The stadium has a maximum capacity of about 90,000, though actual attendance varies with concert staging.
 
 ### *DEADLINE* — February 27, 2026
 
-BLACKPINK released the mini-album ***DEADLINE*** on February 27, 2026 — their first group music since *Born Pink* in 2022.
+BLACKPINK released the mini-album ***DEADLINE*** on February 27, 2026 — their first full-group **album** since *Born Pink* in 2022. (Their single "Jump" had already been released as a standalone group track in July 2025, ahead of the album, and was later included on *DEADLINE*.)
 
-On its first day of release, *DEADLINE* set **the highest first-day sales record among K-pop girl groups** — surpassing *Born Pink*'s own 2022 record of 1.01 million first-day copies.
+On its first day of release, *DEADLINE* sold roughly **1.46 million copies** on Hanteo — the highest first-day sales record among K-pop girl groups, surpassing *Born Pink*'s own 2022 record of about 1.01 million first-day copies.
 
-The lead single "Jump" had already debuted at **#28 on the Billboard Hot 100** in 2025, becoming their **tenth entry on the chart** — the only K-pop girl group to have reached double digits.
+"Jump" debuted at **#28 on the Billboard Hot 100**, becoming BLACKPINK's **tenth entry on the chart** — the only K-pop girl group to have reached double digits. It also topped the Billboard Global 200, becoming their third #1 on that chart after "Pink Venom" and "Shut Down."
 
 | | |
 |:---|:---|
 | **Album** | *DEADLINE* |
 | **Release** | February 27, 2026 |
-| **First-day sales** | Highest ever for a K-pop girl group |
+| **First-day sales (Hanteo)** | ~1.46 million copies — highest ever for a K-pop girl group |
 | **"Jump" Hot 100 peak** | #28 (10th Hot 100 entry total) |
 | **Wembley** | First K-pop girl group to headline |
 
@@ -200,35 +200,34 @@ The lead single "Jump" had already debuted at **#28 on the Billboard Hot 100** i
 | Category | Record |
 |:---|:---|
 | Billboard 200 #1 | *Born Pink* (2022) — first K-pop girl group |
-| Billboard Global 200 #1 | "Pink Venom," multiple entries |
+| Billboard Global 200 #1 | "Pink Venom," "Shut Down," "Jump" |
 | Billboard Hot 100 entries | 10 (most by a K-pop girl group) |
-| YouTube subscribers | First music act to 75M and 100M |
+| YouTube subscribers | First music act to 75M (2022) and 100M (2026) |
 | YouTube 1B+ views | Multiple music videos |
-| Biggest 24hr YouTube debut | "How You Like That" — 86.4M views |
+| Biggest 24hr YouTube debut by a female artist (2022) | "Pink Venom" — 90.4M views |
 | Coachella | First K-pop girl group (2019), first Asian headliner (2023) |
 | Wembley Stadium headliner | First K-pop girl group (2025) |
-| Tour gross record | Born Pink Tour — $330M (highest ever female group) |
+| Tour gross | Born Pink Tour — ~$330M (among the highest ever for a female act, at the time) |
 | RIAA Gold | "Ddu-Du Ddu-Du" — first female K-pop group |
-| Album sales record | First K-pop girl group album to sell 2M copies |
-| Grammy Ceremony performance | Rosé, 2025 (first K-pop soloist as solo performer) |
+| Album sales record | First K-pop girl group album to sell 2M copies (Circle Chart) |
+| Grammy performance | Rosé, 2026 — first solo K-pop artist to perform on the Grammy telecast |
 | TIME Entertainer of the Year | 2022 |
-| Guinness World Records | Multiple (YouTube, streaming, live records) |
+| MTV VMA Group of the Year | 2023 |
+| Guinness World Records | Multiple (YouTube, streaming records) |
 
 ---
 
 ## 💜 What BLACKPINK Means
 
-A decade ago, a Western music executive might have told you that a Korean girl group couldn't headline Coachella. Couldn't top the Billboard 200. Couldn't gross $330 million on a world tour.
+A decade ago, a Western music executive might have told you that a Korean girl group couldn't headline Coachella. Couldn't top the Billboard 200. Couldn't gross hundreds of millions of dollars on a world tour.
 
 BLACKPINK didn't argue. They just did it.
 
-What they built is different from what BTS built, and different from what any other K-pop act built. Their global dominance runs through fashion, through YouTube, through a multicultural identity that makes them feel simultaneously local and universal.
+What they built is different from what BTS built, and different from what any other K-pop act built. Their global reach runs through fashion, through YouTube, through a multicultural identity that makes them feel simultaneously local and universal.
 
-BLINK isn't just a fandom. It's a network — across Southeast Asia, East Asia, North America, Europe, and everywhere in between — that activates with military precision every time BLACKPINK releases something.
+BLINK isn't just a fandom. It's a network — across Southeast Asia, East Asia, North America, Europe, and everywhere in between — that shows up in force every time BLACKPINK releases something.
 
-They're not just the biggest K-pop girl group in the world. By most measures, they are the biggest girl group in the world.
-
-Period.
+By measures including YouTube subscribers, global touring revenue, and streaming records, BLACKPINK ranks among the most commercially successful girl groups in music history — by some of those measures, the biggest.
 
 ---
 
