@@ -46,7 +46,7 @@ If "Dynamite" opened the door, "Butter" walked straight through it and redecorat
 
 ### "Permission to Dance" — July 2021 — Hot 100 #1
 
-Released as a companion single while "Butter" was still charting. Became BTS's **third Hot 100 #1 in less than a year** — matching The Beatles' pace of chart dominance in the early 1960s.
+Released as a companion single while "Butter" was still charting. Became BTS's **fifth Hot 100 #1 in under eleven months** — the fastest accumulation of five leaders since Michael Jackson in 1987–88, and faster than any group since The Beatles in 1964. The sequence: Dynamite → Savage Love (with Jawsh 685 & Jason Derulo) → Life Goes On → Butter → Permission to Dance.
 
 ### "My Universe" with Coldplay — September 2021 — Hot 100 #1
 
@@ -167,7 +167,7 @@ ARMY didn't stop. They never stopped.
 | Member | Solo Achievement |
 |:---|:---|
 | Jimin | "Like Crazy" debuted #1 on the Hot 100 — first Korean solo artist to do so |
-| J-Hope | *Hope on the Stage* tour grossed $79.9M — highest-grossing K-pop solo tour ever |
+| J-Hope | *Hope on the Stage* world tour (2025) grossed **$84.7M** across 33 shows — highest-grossing tour ever by a Korean solo artist |
 | Suga | *D-Day* tour grossed $57.1M across 26 shows |
 | Jungkook | *Golden* album — multiple Hot 100 entries |
 | V | "Slow Dancing" reached Top 5 on the Global 200 |

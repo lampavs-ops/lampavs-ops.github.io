@@ -1,8 +1,8 @@
 ---
 title: "Squid Game Season 1: The Show That Broke Netflix — Spoiler-Free Guide"
-date: 2026-06-25 09:00:00 +0900
+date: 2026-06-25
 categories: [K-Drama]
-tags: [k-drama, squid-game, netflix, hwang-dong-hyuk, lee-jung-jae, survival-thriller, spoiler-free, "2021"]
+tags: [k-drama, squid-game, netflix, hwang-dong-hyuk, lee-jung-jae, survival-thriller, spoiler-free]
 description: "Number 1 in 94 countries at the same time. The most-watched show in Netflix history. Here is everything you need to know before watching Squid Game Season 1."
 image:
   path: /assets/img/posts/squid-s1-part1-cover.jpg
@@ -21,12 +21,12 @@ featured: true
 | Record | Number |
 |--------|--------|
 | Release date | September 17, 2021 |
-| Households in first 28 days | **111 million** |
-| Countries at #1 simultaneously | **94** |
-| Total hours watched | **1,650,450,000 hrs** |
-| Netflix all-time ranking | **🏆 #1 — all shows, all languages** |
+| Households in first 28 days | **142 million** |
+| Countries at #1 | **94** |
+| Hours watched in first 28 days | **1,650,450,000 hrs** |
+| Netflix all-time ranking | **🏆 #1 TV series of all time** |
 | Emmy Awards | First non-English show to win Outstanding Drama Director & Lead Actor |
-| Prize money in the show | ₩45.6 billion (~$33 million USD) |
+| Prize money in the show | ₩45.6 billion (~$38 million USD) |
 
 In September 2021, one Korean drama landed on Netflix.
 
@@ -46,7 +46,7 @@ But there is one difference.
 
 **If you lose, you die.**
 
-If you win? You take home **456 billion Korean won** — about $33 million.
+If you win? You take home **₩45.6 billion Korean won** — about $38 million.
 
 That is the whole premise. That one simple idea swallowed the entire world.
 
@@ -65,17 +65,17 @@ The 456 players all have one thing in common: they need money badly.
 
 This is not fantasy. It is real.
 
-After the 2008 global financial crisis, South Korea saw a huge rise in high-interest loans and credit card debt. Many working-class Koreans found themselves trapped — paying interest on interest, with no way out.
+South Korea entered the 2010s with high and rising household debt, while lower-income borrowers faced growing financial vulnerability. Many working-class Koreans found themselves trapped — paying interest on interest, with no way out.
 
-Director Hwang Dong-hyuk said he was so broke during that time that he could not afford to rent comic books from a manga café. That personal experience became the emotional core of this show.
+Director Hwang Dong-hyuk has said he conceived this story during a period of serious personal financial difficulty — spending time in comic-book cafés reading survival manga like *Liar Game*, *Kaiji*, and *Battle Royale*, experiences that helped shape the idea. That personal background became the emotional core of this show.
 
 ### ○△□ — What Do the Shapes Mean?
 
-The circle, triangle, and square are everywhere in Squid Game.
+The circle, triangle, and square appear everywhere in Squid Game — on the guards' masks, on the Dalgona cookies, on the invitation cards.
 
-They are actually the shapes of three Korean consonants: **ㅇ, ㅅ, ㅁ**. Put them together and you get the first sounds of **O-Jing-Eo** — the Korean word for squid.
+Creator Hwang Dong-hyuk explained their origin directly: *"Those are actually the shapes that first came to mind when I first conceived the idea… because I was quite literally thinking of myself as a kid… and the circle, triangle, square is exactly what you draw on the ground"* when playing the traditional squid game.
 
-The shapes also show the rank of each staff member:
+The shapes also carry a social meaning. Hwang has said they *"represent the limitless competition in late capitalism."* Within the show, they establish a strict rank hierarchy among the masked staff:
 - ○ Circle = Worker (lowest rank)
 - △ Triangle = Soldier (armed guard)
 - □ Square = Manager (in charge)
@@ -113,13 +113,13 @@ He is taken to a game. He finds out — too late — that losing does not mean g
 | Number | Name | Actor | Who Are They? |
 |--------|------|-------|---------------|
 | 456 | Seong Gi-hun | Lee Jung-jae | Main character · ex-auto worker · gambling addict |
-| 218 | Cho Sang-woo | Park Hae-soo | Gi-hun's childhood friend · Seoul National University graduate · embezzler |
+| 218 | Cho Sang-woo | Park Hae-soo | Gi-hun's childhood friend · Seoul National University graduate · facing serious financial and legal trouble |
 | 067 | Kang Sae-byeok | Jung Ho-yeon | North Korean defector · fighting for her family |
-| 001 | Oh Il-nam | Oh Yeong-su | Player #1 · elderly man · brain tumor · mysterious |
+| 001 | Oh Il-nam | Oh Yeong-su | Player #1 · elderly man · mysterious presence |
 | 101 | Jang Deok-su | Heo Sung-tae | Gang boss · will do anything to survive |
 | 199 | Ali Abdul | Anupam Tripathi | Pakistani migrant worker · kind and trusting |
-| 240 | Han Mi-nyeo | Kim Joo-ryung | Con artist · the only real comedic presence |
-| 212 | Ji-yeong | Lee Yoo-mi | Sae-byeok's partner · carries a quiet secret |
+| 212 | Han Mi-nyeo | Kim Joo-ryung | Loud and resourceful player · the show's most unpredictable wild card |
+| 240 | Ji-yeong | Lee Yoo-mi | Sae-byeok's partner · carries a quiet secret |
 
 ---
 
@@ -132,7 +132,7 @@ He is taken to a game. He finds out — too late — that losing does not mean g
 | **Episodes** | 9 |
 | **Director & Writer** | Hwang Dong-hyuk |
 | **Budget** | ~$21.4 million USD |
-| **Estimated Netflix value** | ~$900 million USD (Bloomberg estimate) |
+| **Estimated Netflix "impact value"** | ~$891 million USD (Bloomberg estimate, based on internal Netflix metric) |
 | **Emmy Awards** | Non-English drama: first ever Director + Lead Actor wins |
 
 ---
