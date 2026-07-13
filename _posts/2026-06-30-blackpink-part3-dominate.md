@@ -1,6 +1,6 @@
 ---
 title: "BLACKPINK Part 3 — In Your Area, Everywhere: Domination"
-date: 2026-06-24
+date: 2026-06-30
 categories: [K-Pop]
 tags: [k-pop, blackpink, blink, born-pink, coachella, born-pink-tour, deadline, rose, apt, jennie, lisa, jisoo, dominate]
 description: "Born Pink hit #1 on the Billboard 200. They headlined Coachella. They broke the tour grossing record for any female group. Then each member went solo — and conquered the world again. This is BLACKPINK at full power."

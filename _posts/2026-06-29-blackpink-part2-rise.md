@@ -1,6 +1,6 @@
 ---
 title: "BLACKPINK Part 2 — How Four Girls Conquered the World: The Rise"
-date: 2026-06-24
+date: 2026-06-29
 categories: [K-Pop]
 tags: [k-pop, blackpink, blink, ddu-du-ddu-du, coachella, billboard, kill-this-love, how-you-like-that, rise, global]
 description: "From the highest K-pop girl group chart position in history to headlining Coachella — the complete story of how BLACKPINK broke every barrier the music industry put in front of them."

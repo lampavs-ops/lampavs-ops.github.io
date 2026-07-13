@@ -1,6 +1,6 @@
 ---
 title: "Top 10 Most Watched K-Dramas of All Time — Global Rankings"
-date: 2026-06-19 09:00:00 +0900
+date: 2026-06-16
 categories: [K-Drama]
 tags: [k-drama, netflix, squid-game, queen-of-tears, ranking, most-watched, global]
 description: "Which K-dramas have the most global views ever? We ranked the top 10 by cumulative Netflix viewing hours. The numbers will surprise you."

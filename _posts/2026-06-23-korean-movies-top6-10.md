@@ -1,6 +1,6 @@
 ---
 title: "Korean Movies TOP 6–10: The Films That Changed Everything"
-date: 2026-06-22
+date: 2026-06-23
 categories: [K-Movie]
 tags: [k-movie, korean-film, box-office, miracle-in-cell-no7, the-roundup, exhuma, train-to-busan, parasite]
 description: "Deep dive into Korea's #6–10 box office films of all time. Miracle in Cell No.7, The Roundup, Exhuma, Train to Busan, and Parasite — and why each one matters beyond the numbers."
