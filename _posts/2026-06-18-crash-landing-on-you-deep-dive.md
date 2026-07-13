@@ -90,7 +90,7 @@ Her wardrobe is a quiet visual record of exactly how much she's changed, and wha
 
 *Crash Landing on You* is unusual in how deliberately it uses its supporting characters to reflect the main relationship.
 
-The four soldiers — Chi-su, Eun-dong, Joo-meok, and Dong-gu — start as comic relief. By the finale, their loyalty to Se-ri has become one of the most emotionally loaded threads in the drama. They can't say what Jeong-hyeok feels. But they show it, repeatedly, through every risk they take on her behalf.
+The four soldiers — Chi-su, Eun-dong, Joo-meok, and Kwang-beom — start as comic relief. By the finale, their loyalty to Se-ri has become one of the most emotionally loaded threads in the drama. They can't say what Jeong-hyeok feels. But they show it, repeatedly, through every risk they take on her behalf.
 
 The North Korean village women serve a similar function. Their warmth toward Se-ri — unconditional, practical, fiercely maternal — represents the life she never had in Seoul, surrounded by family members who resented her existence. The drama doesn't underline this. It just shows it and trusts you to feel it.
 

@@ -202,7 +202,7 @@ Jun Ji-hyun. Kim Yun-seok. Lee Jung-jae. Kim Hye-soo. Kim Soo-hyun. Simon Yam fr
 *The Thieves* is a film about betrayal. The moment you think you understand who's working with whom, the floor drops again. It's the kind of movie you want to rewatch immediately after finishing — not because you missed something, but because you want to see how it all fits together.
 
 **③ Jun Ji-hyun's full reinvention**
-Before *The Thieves*, Jun Ji-hyun was best known for romantic comedies like *My Sassy Girl*. Here she plays Pepsi — cold, calculating, dangerous, and impossible to read. It completely changed how audiences and directors saw her. *My Love from the Star* (2013) followed, and that became one of the biggest K-dramas in history. *The Thieves* was the turning point.
+Before *The Thieves*, Jun Ji-hyun was best known for romantic comedies like *My Sassy Girl*. Here she plays Yanycall — a tightrope-walking thief who is unpredictable, electric, and impossible to take your eyes off. The role completely changed how audiences and directors saw her. *My Love from the Star* (2013) followed, and that became one of the biggest K-dramas in history. *The Thieves* was the turning point.
 
 **④ Korea + Hong Kong = something new**
 Korean and Hong Kong cinema had both dominated Asian markets separately for decades. Seeing them combined in a single, stylish production felt genuinely exciting in 2012 — and it still does.

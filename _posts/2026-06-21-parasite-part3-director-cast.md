@@ -45,7 +45,7 @@ In that moment, the most human acceptance speech in Oscar history was born.
 | **Full Name** | 봉준호 (Bong Joon-ho) |
 | **Born** | September 14, 1969 |
 | **Hometown** | Daegu, South Korea |
-| **Education** | Seoul National University — Sociology |
+| **Education** | Yonsei University — Sociology |
 | **Debut** | Short film *Baeksekin* (1994) |
 | **Influences** | Kim Ki-young · Martin Scorsese · Alfred Hitchcock |
 | **Style** | Genre-crossing · sharp social critique |
@@ -133,8 +133,8 @@ Bong Joon-ho first noticed Choi Woo-shik in *Okja* (2017). After that, he cast h
 |-------|------|-------|
 | **Okja** | 2017 | First Bong Joon-ho collaboration |
 | **Parasite** *(기생충)* | 2019 | Four Oscar wins |
-| **Our Blues** *(우리들의 블루스)* | 2022 | tvN drama hit |
-| **The Silent Sea** *(고요의 바다)* | 2021 | Netflix sci-fi series |
+| **Our Beloved Summer** *(그 해 우리는)* | 2021 | SBS romance drama — breakout TV hit |
+| **Time to Hunt** *(사냥의 시간)* | 2020 | Netflix action thriller |
 
 ---
 
@@ -161,11 +161,9 @@ In 2021, she was diagnosed with thyroid cancer. She had surgery and recovered. S
 | Title | Year | Notes |
 |-------|------|-------|
 | **The Throne** *(사도)* | 2015 | Historical drama — early breakout |
+| **The Priests** *(검은 사제들)* | 2015 | Horror thriller — standout supporting role |
 | **Parasite** *(기생충)* | 2019 | Global breakthrough |
 | **Special Delivery** *(특송)* | 2022 | Action comeback film |
-| **Squid Game Season 2** | 2024 | Worldwide attention |
-
-> 💡 **Fun fact:** Park So-dam and Jung Ji-so (who plays Mr. Park's daughter in the film) are real-life high school classmates — they both attended Chungshin Girls' High School.
 
 ---
 
@@ -224,7 +222,7 @@ She won the **Blue Dragon Film Award for Best Actress** for her work in Parasite
 |-------|------|-------|
 | **The Concubine** *(후궁: 제왕의 첩)* | 2012 | Bold image change |
 | **Parasite** *(기생충)* | 2019 | Blue Dragon Best Actress |
-| **Doctor Cha** *(닥터 차정숙)* | 2023 | Major drama hit |
+| **Hi Class** *(하이클래스)* | 2021 | tvN thriller drama — lead role |
 
 ---
 

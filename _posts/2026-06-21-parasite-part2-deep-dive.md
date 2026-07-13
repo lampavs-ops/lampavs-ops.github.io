@@ -41,18 +41,62 @@ Three families' secrets crash into each other at once.
 
 ---
 
-## 🪨 Symbol 1 — The Scholar's Rock (수석)
+## 🪢 Symbol 1 — The Line (선)
 
-Ki-woo's friend Min-hyuk gives him a decorative rock. "This stone will bring wealth and good luck," he says.
+![The Line — Parasite's invisible boundary made visible](/assets/img/posts/parasite-the-line.jpg)
+*Two worlds. One line. The boundary that cannot be crossed.*
 
-Ki-woo believes it. When his whole family gets jobs at the Park house, the belief gets stronger.
+> 💡 **About Bong Joon-ho's nickname:** Korean film fans call him **"Bong-tail"** (봉테일 — Bong + Detail). Every frame of his films hides meaning inside ordinary objects and compositions. The LINE is his most precisely executed hidden system in Parasite.
 
-**But what the rock actually brings:**
-- Ki-jung's death
-- Ki-woo's skull fracture
-- Ki-taek's permanent disappearance underground
+The editor's view: the true center of Parasite is not class. It is **the line between classes** — and who is allowed to cross it.
 
-The rock is a symbol of **the false promise of class mobility**. The dream of becoming rich. The belief that if you just work hard enough, things will change. The movie says: that belief is as heavy as a stone — and it will hurt you.
+Bong Joon-ho draws this line literally. Throughout the film, frames are constructed around a single visible boundary: a window frame, a glass partition, a doorway threshold, a staircase edge. And every character's relationship to that line tells you exactly where they stand.
+
+> 🎬 [**▶ Watch the full 'Line' mise-en-scène analysis on YouTube**](https://www.youtube.com/watch?v=yb0pA7o-msg)
+> *(Korean language — English summary below)*
+
+### Part 1 — Those Who Guard the Line vs. Those Who Enforce It
+
+**Moon-gwang at the window.** Early in the film, housekeeper Moon-gwang needs to wake Mrs. Park, who is sleeping in the garden. The camera frames a clear line — the window ledge. Moon-gwang reaches her arm across it. But her body stays firmly on the outside. She extends only as far as she must, then pulls back. She knows exactly where she is allowed to be.
+
+**Ki-taek's first meeting with Mr. Park.** A glass partition separates them. Mr. Park barely registers Ki-taek's presence. Ki-taek stands still on his side of the glass, hands clasped together, not moving forward. The line between employer and employee is made literal. No dialogue needed.
+
+**Mr. Park's most repeated phrase.** *"I hate people who cross the line."* He says this more than once. He is not speaking metaphorically. He is describing the single rule that organizes his entire world — and warning everyone around him that the punishment for crossing it will be real.
+
+### Part 2 — The Line Begins to Break
+
+**Da-hye descending the stairs.** When Mr. Park's daughter becomes interested in Ki-woo, the camera shows her walking down the staircase — physically crossing into a lower level — to spy on him. The line bends before it breaks. Their eventual kiss completes the crossing.
+
+**The day the Parks go camping.** Ki-taek's wife Chung-sook steps deliberately through the parking garage door — past a threshold she would never have crossed before. Then, inside the empty mansion, one by one:
+
+- Ki-woo's body sprawls across a garden lounger, crossing the property line entirely
+- Ki-woo opens the refrigerator — a boundary that was never his to open
+- In Ki-jung's bathroom scene, a rolling water bottle drifts past the tile line on the floor
+- Ki-taek and Chung-sook fall asleep on the sofa, bodies crossing every spatial boundary the house had maintained
+
+Each crossing is small. Together they build into something the film has been quietly preparing: the moment when the Ki-taek family fully inhabits a world that was never meant to include them.
+
+### Part 3 — The Crossing That Cannot Be Real
+
+In the film's ending, Ki-woo imagines saving enough money to buy the Park mansion. He pictures his father emerging from underground. He pictures the family together, in that house, in the light.
+
+In this fantasy — and only in this fantasy — everyone crosses the line completely.
+
+The camera shows it happening. And the camera shows us we are watching a dream. Ki-woo is still in the semi-basement, looking up. The line is still there. The crossing is still impossible.
+
+> *"A plan to cross the line that can never actually be crossed."* — Korean film critic's analysis of the ending sequence
+
+### The Detail That Will Haunt You
+
+A Korean film analysis channel (*기생충 미장센 완벽 해부*) discovered something extraordinary while editing frame by frame:
+
+With one single exception — Ki-jung's bathroom scene — **every visible line in the entire film is perfectly vertical**. Window frames. Glass partitions. Doorways. Staircase edges. Furniture legs.
+
+Even during camera movement, the lines in the frame do not tilt. They hold.
+
+Bong Joon-ho controlled the angle of every structural line in the film with no tolerance for error. The line that separates the classes is not allowed to waver — not even by one degree.
+
+This is what "Bong-tail" means.
 
 ---
 
