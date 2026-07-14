@@ -1,6 +1,6 @@
 ---
 title: "Parasite: Director Bong Joon-ho & Cast — The People Who Changed Oscar History"
-date: 2026-06-21 11:00:00 +0900
+date: 2026-06-21
 categories: [K-Movie]
 tags: [k-movie, parasite, bong-joon-ho, song-kang-ho, choi-woo-shik, park-so-dam, lee-sun-kyun, jo-yeo-jung, korean-actor]
 description: "Meet the director and cast of Parasite — Bong Joon-ho's full filmography, Song Kang-ho, Choi Woo-shik, Park So-dam, and more. The people who made Oscar history."
@@ -14,7 +14,7 @@ featured: false
 > - [**Part 1 — Spoiler-Free Introduction →**]({{ site.baseurl }}/posts/parasite-part1-intro/)
 > - [**Part 2 — Ending Explained & Spoiler Deep Dive →**]({{ site.baseurl }}/posts/parasite-part2-deep-dive/)
 
-One director. Five lead actors. One house. One underground bunker. Four Oscars.
+One director. An extraordinary ensemble. Two families. One hidden bunker. Four Oscars.
 
 Who are these people? Where did they come from — and what have they done since?
 
@@ -30,13 +30,11 @@ Bong Joon-ho is the most singular director in Korean cinema.
 
 He does not belong to one genre. He makes a monster movie — and it is actually about family. He makes a murder mystery — and it is really about Korean modern history. He makes a black comedy — and it is a war between the classes.
 
-He studied sociology at Seoul National University. That background lives inside every film he makes. There is always a hidden question underneath: "Why does society work this way?"
+He studied sociology at Yonsei University. That background lives inside every film he makes. There is always a hidden question underneath: "Why does society work this way?"
 
-At the Oscars, after winning Best Director, he said: "When I was in school, studying cinema, there was a quote that I carved deep into my heart. The most personal is the most creative — from the great Martin Scorsese."
+At the Oscars, accepting Best Director, he paraphrased something close to: "When I was young and studying cinema, there was a saying that I carved deep into my heart — the most personal is the most creative." He credited the idea to Martin Scorsese, who was seated in the audience.
 
-Then he added: "After this ceremony, let's all go drink."
-
-In that moment, the most human acceptance speech in Oscar history was born.
+Later that night, accepting the award for Best International Feature Film, he told the crowd he was ready to drink until the next morning — a moment widely remembered as one of the night's most human, off-the-cuff acceptance speeches.
 
 ### 📋 Profile
 
@@ -50,15 +48,15 @@ In that moment, the most human acceptance speech in Oscar history was born.
 | **Influences** | Kim Ki-young · Martin Scorsese · Alfred Hitchcock |
 | **Style** | Genre-crossing · sharp social critique |
 
-### 🎬 Filmography
+### 🎬 Feature Filmography
 
 | Title | Year | Notes |
 |-------|------|-------|
 | **Barking Dogs Never Bite** *(플란다스의 개)* | 2000 | Feature debut |
 | **Memories of Murder** *(살인의 추억)* | 2003 | Based on real Korean serial killings · top 100 Korean films |
 | **The Host** *(괴물)* | 2006 | Korea's all-time box office record at the time · Song Kang-ho |
-| **Mother** *(마더)* | 2009 | Kim Hye-ja lead · National Society of Film Critics award |
-| **Snowpiercer** *(설국열차)* | 2013 | First English-language film · Chris Evans |
+| **Mother** *(마더)* | 2009 | Kim Hye-ja lead · Kim won Best Actress from the Los Angeles Film Critics Association |
+| **Snowpiercer** *(설국열차)* | 2013 | First English-language film · Chris Evans · Song Kang-ho |
 | **Okja** | 2017 | Netflix original · Cannes competition |
 | **Parasite** *(기생충)* | 2019 | **Cannes Palme d'Or · 4 Academy Awards** |
 | **Mickey 17** | 2025 | Robert Pattinson · Hollywood return |
@@ -77,7 +75,7 @@ In that moment, the most human acceptance speech in Oscar history was born.
 
 The living legend of Korean cinema. When Song Kang-ho's name is on the poster, audiences trust the film.
 
-He has appeared in every Bong Joon-ho Korean-language film — *Memories of Murder*, *The Host*, *Mother*, and *Parasite*. A director-actor relationship this deep is rare anywhere in the world.
+He has collaborated with Bong Joon-ho on four feature films: *Memories of Murder*, *The Host*, *Snowpiercer*, and *Parasite* — a director-actor relationship this deep is rare anywhere in the world.
 
 Ki-taek is not a simple villain. He is a human being that audiences can understand. That understanding is exactly what makes the final scene hit so hard.
 
@@ -89,18 +87,19 @@ In 2022, Song Kang-ho won **Best Actor at Cannes** for *Broker* (directed by Hir
 |--|--|
 | **Full Name** | 송강호 (Song Kang-ho) |
 | **Born** | January 17, 1967 |
-| **Debut** | 1996 |
+| **Film debut** | 1996 |
 | **Specialty** | Comedy, thriller, drama — no genre limits |
 
 ### 🎬 Key Works
 
 | Title | Year | Notes |
 |-------|------|-------|
-| **Shiri** *(쉬리)* | 1999 | Launched the Korean blockbuster era |
+| **Shiri** *(쉬리)* | 1999 | Widely credited with launching the Korean blockbuster era |
 | **JSA: Joint Security Area** *(공동경비구역 JSA)* | 2000 | First collaboration with Park Chan-wook |
 | **Memories of Murder** *(살인의 추억)* | 2003 | First collaboration with Bong Joon-ho |
 | **The Host** *(괴물)* | 2006 | Korea's all-time box office record at the time |
-| **Parasite** *(기생충)* | 2019 | Four Oscar wins |
+| **Snowpiercer** *(설국열차)* | 2013 | Bong Joon-ho's English-language debut |
+| **Parasite** *(기생충)* | 2019 | Starred in the four-time Academy Award-winning film |
 | **Broker** *(브로커)* | 2022 | **Cannes Best Actor** |
 
 ---
@@ -114,9 +113,9 @@ In 2022, Song Kang-ho won **Best Actor at Cannes** for *Broker* (directed by Hir
 
 Ki-woo is where everything starts. Every choice the family makes flows from his first decision. Because of this, Choi Woo-shik's performance sets the tone for the entire film.
 
-He grew up in Vancouver, Canada. He is fluent in English. That background gives Ki-woo a natural confidence that fits the character perfectly.
+He grew up partly in Vancouver, Canada, and is fluent in English — a bilingual background that adds an extra layer of credibility to Ki-woo's role as an English tutor.
 
-Bong Joon-ho first noticed Choi Woo-shik in *Okja* (2017). After that, he cast him in Parasite.
+Bong Joon-ho first worked with Choi Woo-shik on *Okja* (2017), then cast him again as Ki-woo in Parasite.
 
 ### 📋 Profile
 
@@ -144,9 +143,9 @@ Bong Joon-ho first noticed Choi Woo-shik in *Okja* (2017). After that, he cast h
 
 Ki-jung is smart, bold, and dangerous. Park So-dam looks like she was born to play this role.
 
-She had already been noticed in films like *The Throne* (2015) before Parasite. But Parasite put her fully on the global stage.
+She had already been noticed in films like *The Priests* (2015) before Parasite. But Parasite put her fully on the global stage.
 
-In 2021, she was diagnosed with thyroid cancer. She had surgery and recovered. She returned to work in 2022 and spoke openly about the experience — giving courage to many people who heard her story.
+In 2021, during a routine checkup, she was diagnosed with papillary thyroid cancer and underwent surgery. She stepped back from public activities during her recovery, returning to public appearances in late 2022 and speaking openly about the experience — giving courage to many people who heard her story. *Special Delivery* (2022) had been filmed before her diagnosis and was released while she was recovering; her more visible return to acting came with *Phantom* (2023).
 
 ### 📋 Profile
 
@@ -160,10 +159,11 @@ In 2021, she was diagnosed with thyroid cancer. She had surgery and recovered. S
 
 | Title | Year | Notes |
 |-------|------|-------|
-| **The Throne** *(사도)* | 2015 | Historical drama — early breakout |
-| **The Priests** *(검은 사제들)* | 2015 | Horror thriller — standout supporting role |
+| **The Priests** *(검은 사제들)* | 2015 | Horror thriller — early breakout role |
+| **The Throne** *(사도)* | 2015 | Historical drama |
 | **Parasite** *(기생충)* | 2019 | Global breakthrough |
-| **Special Delivery** *(특송)* | 2022 | Action comeback film |
+| **Special Delivery** *(특송)* | 2022 | Filmed before her cancer diagnosis; released during recovery |
+| **Phantom** *(유령)* | 2023 | Marked her public return to film promotion |
 
 ---
 
@@ -173,11 +173,9 @@ In 2021, she was diagnosed with thyroid cancer. She had surgery and recovered. S
 
 Lee Sun-kyun played Mr. Park. Not a villain — just a wealthy man who has always lived inside the walls of his class. That ordinariness is what makes him frightening.
 
-In late 2023, Lee Sun-kyun was caught up in a false drug allegation case. Under extreme pressure from intensive media coverage and the investigation process, he died by suicide in December 2023.
+In late 2023, Lee Sun-kyun was investigated by police over allegations of illegal drug use, which he denied. Drug tests reported by authorities during the investigation came back negative, though no final judicial determination was made before his death. He died in December 2023 during the highly publicized investigation. His death prompted widespread debate in South Korea about the treatment of suspects, leaks of investigative information to the press, and sensational media coverage.
 
-His death shocked Korean society deeply. It started important conversations about false accusations and reckless media reporting in Korea.
-
-His role as Mr. Park in Parasite remains his final global legacy — and one of the finest performances in Korean cinema history.
+*Parasite* remains his most internationally recognized performance and one of the finest performances in Korean cinema history, though several of his other films were released posthumously.
 
 ### 📋 Profile
 
@@ -194,7 +192,7 @@ His role as Mr. Park in Parasite remains his final global legacy — and one of 
 |-------|------|-------|
 | **Coffee Prince** *(커피프린스 1호점)* | 2007 | Defining drama role |
 | **My Mister** *(나의 아저씨)* | 2018 | Widely praised as his best acting work |
-| **Parasite** *(기생충)* | 2019 | Four Oscar wins |
+| **Parasite** *(기생충)* | 2019 | His most internationally recognized role |
 
 ---
 
@@ -213,7 +211,7 @@ She won the **Blue Dragon Film Award for Best Actress** for her work in Parasite
 | | |
 |--|--|
 | **Full Name** | 조여정 (Jo Yeo-jeong) |
-| **Born** | January 25, 1981 |
+| **Born** | February 10, 1981 |
 | **Known For** | Subtle emotional range · comedy and drama both |
 
 ### 🎬 Key Works
@@ -223,6 +221,7 @@ She won the **Blue Dragon Film Award for Best Actress** for her work in Parasite
 | **The Concubine** *(후궁: 제왕의 첩)* | 2012 | Bold image change |
 | **Parasite** *(기생충)* | 2019 | Blue Dragon Best Actress |
 | **Hi Class** *(하이클래스)* | 2021 | tvN thriller drama — lead role |
+| **The Hidden Face** *(히든페이스)* | 2024 | Suspense thriller |
 
 ---
 
@@ -232,7 +231,7 @@ One of the reasons Parasite is great is that **no single actor dominates**.
 
 Song Kang-ho holds the center. Choi Woo-shik drives the story forward. Park So-dam adds energy and danger. Lee Sun-kyun and Jo Yeo-jeong create the contrast.
 
-Bong Joon-ho gave each actor a history for their character that lives off-screen. Where did Ki-jung learn to forge documents? Why did Geun-se stay underground? Why is Yeon-kyo so innocent?
+Bong Joon-ho's writing gives each character a sense of life extending beyond what's shown on screen — even when the film doesn't spell out every detail. Where did Ki-jung learn to forge documents so convincingly? Why is Yeon-kyo so willing to trust people? Geun-se's reasons for hiding underground are made explicit (debt, loan sharks), but even there, the film leaves room to wonder how he held on for so many years.
 
 That depth shows on camera. Even without a word being spoken.
 
@@ -242,12 +241,12 @@ That depth shows on camera. Even without a word being spoken.
 
 | Name | Status |
 |------|--------|
-| **Bong Joon-ho** | Active — *Mickey 17* released 2025 |
-| **Song Kang-ho** | Active — Cannes Best Actor 2022 |
+| **Bong Joon-ho** | Active — *Mickey 17* released 2025; first animated feature *Ally* set for 2027 |
+| **Song Kang-ho** | Active — Cannes Best Actor 2022; continuing film work |
 | **Choi Woo-shik** | Active — dramas and film |
-| **Park So-dam** | Active — returned after cancer recovery |
-| **Lee Sun-kyun** | Passed away December 2023 |
-| **Jo Yeo-jeong** | Active — *Doctor Cha* (2023) major hit |
+| **Park So-dam** | Active — resumed acting after cancer recovery |
+| **Lee Sun-kyun** | Passed away December 2023; some films released posthumously in 2024 |
+| **Jo Yeo-jeong** | Active — starred in *The Hidden Face* (2024) |
 
 ---
 

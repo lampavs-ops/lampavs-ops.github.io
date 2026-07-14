@@ -16,13 +16,11 @@ featured: true
 
 ---
 
-**"If you are not afraid of subtitles, this is a must-watch."**
-
-That is what people said after seeing *Parasite*. All over the world.
+Bong Joon-ho famously said that once audiences overcame "the one-inch-tall barrier of subtitles," they would be introduced to many more amazing films. *Parasite* became the proof of that idea — a Korean film that international audiences embraced in numbers nobody expected.
 
 2019. One Korean movie changed everything.
 
-Cannes Palme d'Or. Four Academy Awards — Best Picture, Best Director, Best Original Screenplay, Best International Feature Film. The first non-English-language film to win Best Picture in 92 years of Oscar history. Over **$257 million** at the worldwide box office.
+Cannes Palme d'Or. Four Academy Awards — Best Picture, Best Director, Best Original Screenplay, Best International Feature Film. The first non-English-language film to win Best Picture in 92 years of Oscar history. Over **$260 million** at the worldwide box office, including a later re-release.
 
 This is not a chicken movie. Not a romance. Not a zombie film.
 
@@ -37,13 +35,13 @@ It is a story about two families. One is poor. One is rich. What happens between
 
 ### The Semi-Basement (반지하)
 
-The Ki-taek family lives in a **semi-basement**. This is a type of home that only exists in Korea. It sits halfway between the ground and underground.
+The Ki-taek family lives in a **semi-basement**, or *banjiha* — a distinctive form of low-cost housing closely associated with Seoul. Partially underground apartments exist in other cities too, but *banjiha* became a defining part of Seoul's urban landscape in a way few other places match.
 
-From the window, you can see people's feet walking by. When it rains, water comes in first. Sunlight almost never reaches inside.
+From the window, you can see people's feet walking by. Many units have limited daylight and ventilation, and face a higher risk of flooding than housing at street level.
 
-Semi-basements were built in Seoul during the 1970s and 1980s, when the city grew very fast and people needed cheap places to live. As of 2015, about 200,000 households in Seoul still lived in semi-basements.
+Semi-basements trace back to 1970s civil-defense building regulations that required underground shelter space in new buildings. As Seoul's housing shortage worsened, those spaces were gradually converted into cheap rental homes — a shift shaped over time by housing policy, legal changes, and economic incentives, not just simple demand for affordable housing. As of a 2015 national census, roughly 200,000 households in Seoul were living in semi-basement or similar below-ground units.
 
-In this movie, the semi-basement is not just a place to live. It is a **visual language for class**.
+In this movie, the semi-basement is not just a place to live. It is a **visual language for class** — reinforced throughout the film by the repeated contrast between low, dark spaces and the elevated, sunlit world of the wealthy.
 
 ### Ram-don (짜파구리 / Chapaguri)
 
@@ -51,15 +49,15 @@ In the movie, the rich family's wife asks for a food called "Ram-don." In Korean
 
 Poor food. Expensive topping. That combination is the whole movie in one dish.
 
-After Parasite won the Oscars, the Korean noodle company Nongshim actually released a real "Chapaguri" product. It sold out worldwide.
+After *Parasite* gained worldwide attention, the Korean noodle company Nongshim launched a ready-made Chapaguri cup-noodle product and rolled it out across several overseas markets, riding a wave of international curiosity about the dish.
 
 ### Class in Korea
 
 Parasite connected with people everywhere because it is not only about Korea. But knowing the Korean context makes the film go deeper.
 
-In Korea, there is intense pressure to get into the top three universities (Seoul National, Yonsei, Korea University). The idea that hard work always leads to success. Wealth passed down through families. Apartment buildings as a symbol of your place in society.
+In Korea, there is well-documented pressure around university prestige — with Seoul National, Yonsei, and Korea University (often called "SKY") widely seen as symbols of educational status. Concerns about wealth passed down through families, and apartments functioning as symbols of social and economic position, are also widely discussed in Korean society.
 
-The reality that the Ki-taek family faces — many Korean people feel it every day.
+The film reflects concerns that show up often in conversations about housing insecurity, educational competition, and social mobility in South Korea.
 
 ---
 
@@ -69,13 +67,13 @@ The Ki-taek family lives in a semi-basement in Seoul. Father, mother, son, daugh
 
 One day, Ki-taek's son **Ki-woo (Choi Woo-shik)** gets an opportunity. A friend sets him up as an English tutor for the daughter of a wealthy family — the **Park family**, led by CEO Mr. Park (Lee Sun-kyun).
 
-The Park house is a different world from the semi-basement. A mansion designed by a famous architect. A wide garden. Natural light everywhere. Everything is beautiful and ordered.
+The Park house is a different world from the semi-basement. A mansion designed, in the story, by a well-known architect. A wide garden. Natural light everywhere. Everything is beautiful and ordered.
 
 Ki-woo gets a foothold in this house. Then, one by one, the rest of his family follows.
 
 At first it looks like a comedy. Then it becomes a thriller. Then it becomes something else entirely.
 
-> 🎬 [**▶ Watch the Official Parasite Trailer on YouTube**](https://www.youtube.com/results?search_query=Parasite+2019+Official+Trailer+Bong+Joon+ho)
+> 🎬 [**▶ Search for the Parasite Trailer on YouTube**](https://www.youtube.com/results?search_query=Parasite+2019+Official+Trailer+Bong+Joon+ho)
 
 ---
 
@@ -90,9 +88,10 @@ At first it looks like a comedy. Then it becomes a thriller. Then it becomes som
 | **Director** | Bong Joon-ho |
 | **Screenplay** | Bong Joon-ho · Han Jin-won |
 | **Budget** | ~$11.4 million USD |
-| **Worldwide Box Office** | ~$257 million USD |
+| **Worldwide Box Office** | ~$260 million USD (across original release and later re-release) |
 | **Korean Audience** | 10.31 million tickets sold |
-| **Rating** | R (ages 15+ in Korea) |
+| **Rating (US)** | R |
+| **Rating (Korea)** | 15세이상관람가 (15+) |
 
 ---
 
@@ -101,10 +100,10 @@ At first it looks like a comedy. Then it becomes a thriller. Then it becomes som
 | Award Show | What It Won |
 |------------|-------------|
 | Cannes Film Festival (72nd) | 🥇 Palme d'Or — unanimous decision |
-| Academy Awards (92nd) | Best Picture · Best Director · Best Screenplay · Best International Film — **4 wins** |
-| Blue Dragon Film Awards (40th) | Best Film · Best Director + 3 more |
-| Golden Globes (77th) | Best Foreign Language Film |
-| BAFTA | Best Screenplay · Best Film Not in English Language |
+| Academy Awards (92nd) | Best Picture · Best Director · Best Original Screenplay · Best International Feature Film — **4 wins** |
+| Blue Dragon Film Awards (40th) | Best Film · Best Director · Best Actress · Best Supporting Actress · Best Art Direction — **5 wins** |
+| Golden Globes (77th) | Best Motion Picture – Foreign Language |
+| BAFTA | Best Original Screenplay · Best Film Not in the English Language |
 
 > 💡 **Historic:** No non-English-language film had ever won Best Picture at the Oscars before. Parasite was the first — in 92 years of Academy history.
 
@@ -115,11 +114,11 @@ At first it looks like a comedy. Then it becomes a thriller. Then it becomes som
 | Character | Actor | Who They Are |
 |-----------|-------|--------------|
 | Ki-taek | Song Kang-ho | Father of the Ki-taek family · failed businessman |
-| Chung-sook | Jang Hye-jin | Ki-taek's wife · former shot-put athlete |
+| Chung-sook | Jang Hye-jin | Ki-taek's wife · former athlete |
 | Ki-woo | Choi Woo-shik | Ki-taek's son · failed university applicant |
 | Ki-jung | Park So-dam | Ki-taek's daughter · talented at Photoshop |
 | Mr. Park | Lee Sun-kyun | CEO of a global IT company |
-| Yeon-kyo | Jo Yeo-jeong | Mr. Park's wife · kind and wealthy |
+| Yeon-kyo | Jo Yeo-jeong | Mr. Park's wife · naive and easily trusting |
 
 ---
 

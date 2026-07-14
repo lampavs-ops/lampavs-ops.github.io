@@ -27,9 +27,9 @@ So they buy a failing chicken shop and pretend to be restaurant workers.
 
 **The first problem:** None of them know how to run a restaurant.
 
-**The second problem:** Detective Ma (진선규) — the quiet, scruffy one — turns out to have a secret. He has an extraordinary sense of taste. While bored on a slow night, he experiments with the recipe. He adds galbi marinade to the fried chicken. He calls it **"수원 왕갈비통닭"** — Suwon Royal Galbi Chicken.
+**The second problem:** Detective Ma (진선규) — quiet, unassuming, easy to underestimate — has a family connection nobody expected to matter. His parents run a galbi (Korean rib) restaurant in Suwon. When the squad desperately needs a sauce for their fried chicken, Ma falls back on his family's rib marinade recipe. It works better than anyone could have imagined. The squad calls the result **"수원 왕갈비통닭"** — Suwon Royal Galbi Chicken.
 
-People taste it. People come back. People tell their friends. And just like that — the worst chicken shop in the neighborhood becomes the most famous chicken restaurant in Seoul.
+People taste it. People come back. People tell their friends. And just like that — the nearly empty chicken shop becomes an unexpected sensation.
 
 The cops are now too busy running a hit restaurant to actually investigate the drug lord.
 
@@ -51,13 +51,13 @@ Captain Go (류승룡) spends his entire retirement savings — money his family
 
 ### Scene 2: The Galbi Chicken Goes Viral
 
-Ma's recipe becomes a sensation. Lines form outside. A food blog writes about it. Celebrities visit. The squad has to cook thousands of chickens a day — while also, in theory, conducting surveillance on a drug lord they can no longer actually watch because they are too busy frying chicken.
+Word about Ma's recipe spreads rapidly. Customers line up. The restaurant becomes so busy that the detectives can barely keep up their surveillance — while also, in theory, conducting surveillance on a drug lord they can no longer actually watch because they are too busy frying chicken.
 
 **Why it's funny:** The success is completely accidental. They never wanted to run a good restaurant. The better they do at their cover story, the worse they are at their actual job. The irony compounds and compounds.
 
 **The global laugh:** This scene translates perfectly worldwide. Anyone who has ever had a plan spiral out of control in the most successful possible way gets it immediately.
 
-**The Korean laugh:** Koreans know exactly how fast food trends spread in Seoul. The idea of one chicken shop going from empty to three-hour waits overnight is not fantasy — it actually happens. The movie is mocking a very real phenomenon.
+**The Korean laugh:** The joke also resonates with Korea's highly competitive restaurant culture and the speed with which online buzz can transform a struggling small shop into a crowded destination — a phenomenon Korean audiences recognize immediately.
 
 ---
 
@@ -65,66 +65,67 @@ Ma's recipe becomes a sensation. Lines form outside. A food blog writes about it
 
 *"Is this galbi? Or is this chicken?"*
 
-This line — spoken by the first customer to taste Ma's creation — became one of the most quoted movie lines in Korea in 2019. It was on social media, in memes, in advertising.
+This line is delivered by Captain Go as an exaggerated phone greeting for the restaurant — he answers the phone with a mock-advertisement pitch: *"There's never been a taste like this. Is this galbi, or is this chicken? Yes, this is Suwon Royal Galbi Chicken."* It turns a routine customer phone call into an ad jingle, delivered completely straight-faced.
 
-**Why it hit:** The line captures genuine confusion and genuine delight at the same time. It is not a joke — it is a sincere reaction. And that sincerity is what makes it funny. The customer is not laughing. He is genuinely bewildered. And that bewilderment is the entire movie in one sentence.
+**Why it hit:** The line became widely quoted in Korea in 2019 — showing up in casual conversation, online memes, and even in the film's own marketing. It captures the tone of the whole movie: something absurd delivered with total sincerity. Go isn't trying to be funny. He's just committed. And that commitment is what makes it funny.
 
 ---
 
 ### Scene 4: The Franchise Negotiation
 
-Drug lord middle managers start showing up — not to deal drugs, but to negotiate a **franchise deal** for the chicken recipe. The criminals want to use the chicken restaurant chain as a front for their drug distribution network.
+Drug lord middle managers start showing up — not just to admire the chicken, but to negotiate a **franchise deal**. Their real goal: use a nationwide chicken restaurant chain as a front to move and distribute drugs across the country.
 
-**Why it's funny:** The drug lord's organization is more impressed by the chicken than by any criminal operation. The cops have accidentally created something more valuable than what the criminals are selling. The movie flips the entire premise: the narcotics squad has become better criminals than the actual criminals.
+**Why it's funny:** Comedically, it can feel as though the criminal organization is more impressed by the chicken than by its own operation — the cops have accidentally built something that even hardened gangsters want a piece of. The film gets real absurdist mileage out of watching a drug cartel take a fried chicken business plan seriously.
 
 ---
 
-### Scene 5: Detective Jang's Action Scene
+### Scene 5: The Final Fight — Hidden Badasses
 
-Late in the film, Detective Jang (이하늬) — the Muay Thai champion who has spent most of the movie being underused as a chef — finally gets to fight.
+In the climactic confrontation, Detective Jang (이하늬) — a former Muay Thai champion who has spent most of the movie looking underused as a chef — finally gets to fight, taking on the drug lord's enforcer Sun-hee (선희, played by Jang Jin-hee) in a genuinely impressive one-on-one battle.
 
-She takes on the drug lord's female bodyguard (선희, played by Jang Jin-hee) in a hand-to-hand fight that is both legitimately impressive and very funny. Jang fights in her chef's uniform. Her colleagues are useless in the background. She handles it alone.
+But the twist is bigger than just Jang. As the fight breaks out, the rest of the "incompetent" squad simultaneously reveals hidden combat skills nobody saw coming: Captain Go shrugs off getting stabbed and keeps going. Detective Ma turns out to have a judo background. Young-ho is rumored to be an ex-military special forces operative. Even eager rookie Jae-hoon, who spent the whole movie doing kitchen prep, gets his moment — and takes hits like a tank thanks to years as a high school baseball player. The film's big reveal isn't just Jang's fight — it's that this entire "hopeless" team was full of hidden fighters all along.
 
-**Why it's globally recognized:** This scene gave international audiences a female action lead in a comedy film — a combination that Korean cinema does not always deliver. The action choreography is real, and Lee Ha-nee trained for it.
+**Why it's globally recognized:** This scene gave international audiences a female action lead in a comedy film — a combination that Korean cinema does not always deliver. The action choreography is genuinely well-executed, and Lee Ha-nee performed substantial action sequences herself.
 
-**Why Koreans love it more:** Korean audiences knew Lee Ha-nee primarily as a beauty queen (Miss Korea 2006) and actress from dramas. Watching her absolutely demolish an opponent in a kitchen uniform, with a completely straight face, was a genuine revelation. It reversed every expectation audiences had of her.
+**Why Koreans love it more:** For many Korean viewers familiar with Lee Ha-nee's beauty-pageant background (Miss Korea 2006) and television image, the physicality of the role added an extra element of surprise — reversing expectations built up over years of a very different public image.
 
 ---
 
 ## 🏁 The Ending — What Actually Happens
 
-The drug lord, Lee Moo-bae (신하균), is finally cornered. But by this point, the squad's cover is completely blown — everyone in Seoul knows who they are, because they are the famous chicken restaurant people.
+The drug lord, Lee Moo-bae (신하균), and rival gang leader Ted Chang are finally cornered in a massive brawl where the squad's hidden fighting skills come out in full force — the gang members eventually give up resisting out of sheer fear.
 
-It does not matter. They arrest him anyway.
+Their cover as restaurant workers is blown in the process of the takedown — but this comes from the confrontation itself, not simply from the chicken shop's fame spreading through Seoul.
 
-**The final twist:** Because of the chicken restaurant's success — which they technically ran while on duty — the squad gets officially recognized and promoted. Their captain becomes a full inspector. The team survives.
+**The final twist:** After successfully bringing down the drug organizations and cracking the case, the detectives receive special promotions. Their persistence — the same stubborn, all-in commitment that accidentally made them successful restaurateurs — turns out to be exactly what makes them good detectives once they finally get the chance to prove it.
 
-But the restaurant closes. The galbi chicken recipe goes with Ma. And the sign comes down.
-
-**What the ending means:** The movie is quietly about the dignity of ordinary work. The detectives never became heroes through clever detective work. They became heroes by showing up every day, frying chicken, and caring about doing it well — even when it was not their job. The comedy wraps around a very sincere idea: that dedication itself is heroic, even when it looks ridiculous from the outside.
+**What the ending means:** The restaurant storyline lets the film show that the detectives' persistence and teamwork have real value, even when expressed in the "wrong" job. Their eventual success as police officers grows out of the same stubborn commitment that accidentally made the chicken restaurant a hit. The comedy wraps around a sincere idea: that dedication itself has value, even when it looks ridiculous from the outside — and even when the reward, in the end, comes from doing the job they were actually hired to do.
 
 ---
 
-## 🌍 Globally Loved Scenes
+## 🌍 Scenes Likely to Travel Well Across Cultures
+
+*(Not based on formal audience surveys — these are scenes whose humor tends to translate easily regardless of cultural background.)*
 
 | Scene | Why It Travels |
 |-------|---------------|
 | The galbi chicken invention | Universal "accidental genius" comedy |
 | The franchise negotiation | Criminals wanting the chicken deal — pure absurdism |
-| Detective Jang's fight | Female action lead in a comedy is rare and thrilling |
+| The final fight's hidden-badass reveal | A team of "incompetents" turning out to be secret experts is a widely loved trope |
 | The retirement savings decision | Relatable "all-in on the wrong thing" desperation |
 
 ---
 
-## 🇰🇷 Scenes Koreans Love More
+## 🇰🇷 Scenes With Extra Cultural Resonance for Korean Viewers
 
-| Scene | Why It's Extra Funny in Korea |
+*(These are interpretive readings, not confirmed by audience research — offered as possible cultural context, not universal fact.)*
+
+| Scene | Why It May Land Differently in Korea |
 |-------|-------------------------------|
-| The retirement savings | 퇴직금 (retirement money) is sacred in Korean work culture |
-| The 수원 왕갈비통닭 | Suwon galbi is a real regional pride — the name alone is funny |
-| The food blog going viral | Koreans know exactly how Naver food blogs work |
-| The Kim Young-ran Act joke | A joke about Korean anti-bribery law — lands perfectly for locals |
-| The squad's incompetence | The "실적 없는 팀" (no-results team) is painfully real for Korean office workers |
+| The retirement savings decision | 퇴직금 (retirement money) carries strong cultural weight in Korea, tied to real anxieties about risking post-employment security on a small business |
+| The 수원 왕갈비통닭 | Suwon galbi is a real regional specialty — the mash-up name lands as an especially Korean joke |
+| The restaurant's overnight fame | Resonates with Korea's fast-moving, highly competitive restaurant and food-trend culture |
+| The squad's incompetence | The "실적 없는 팀" (no-results team) dynamic may feel painfully familiar to Korean office workers |
 
 ---
 
@@ -134,7 +135,7 @@ On the surface: five cops accidentally run a great chicken restaurant.
 
 Underneath: a movie about the absurdity of Korean work culture — the pressure to perform, the fear of failure, the team that stays together not because they are good at the job but because they cannot abandon each other.
 
-The drug lord is almost irrelevant. The real drama is whether this team survives. And the answer, in the most ridiculous possible way, is yes.
+The chicken restaurant storyline is a comedic detour, but it's not disconnected from the main plot — the detectives' persistence and teamwork, first shown off in the kitchen, are exactly what carries them through the takedown of the drug organization in the end.
 
 ---
 

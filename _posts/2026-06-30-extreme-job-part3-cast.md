@@ -28,11 +28,7 @@ But who are these people? Where did they come from — and what have they done s
 
 First, a necessary clarification: Director **Lee Byeong-heon** (이병헌, born 1980) is a completely different person from the famous actor Lee Byeong-hun (이병헌). Same name, different Korean spelling, different career — and a joke that has followed the director his entire professional life.
 
-He came to filmmaking late and sideways. At 27, with no clear direction, he decided to give himself exactly 10 years to make it as a director. "If I don't have the title of director by then," he said, "I'll quit." He did not quit.
-
-His path started in screenwriting — adapting scripts for films like *Over Speed Scandal* (과속스캔들) and *Sunny* (써니). Those two films are both beloved Korean comedies. The pattern was already there: wherever Lee Byeong-heon touched a script, jokes got sharper.
-
-He also has a personal connection to the hospitality business. Before becoming a director, he ran a noodle restaurant — and it failed. That experience of showing up every day to a business that will not cooperate became the emotional spine of *Extreme Job*.
+He came to filmmaking somewhat later than many of his peers. His path started in screenwriting — adapting scripts for films like *Over Speed Scandal* (과속스캔들) and *Sunny* (써니). Those two films are both beloved Korean comedies. The pattern was already there: wherever Lee Byeong-heon touched a script, jokes got sharper.
 
 His favorite filmmakers: **Woody Allen and Charlie Chaplin**. Both known for finding deep human truth inside comedy. You can see their influence in how he treats his characters — never mean, never punching down, always finding dignity inside the ridiculous.
 
@@ -46,7 +42,7 @@ His favorite filmmakers: **Woody Allen and Charlie Chaplin**. Both known for fin
 | **Debut** | Short film *냄새는 난다* (2009) |
 | **Specialty** | Korean comedy — situational, character-driven |
 | **Influences** | Woody Allen · Charlie Chaplin |
-| **Personal Note** | Previously ran a noodle restaurant that failed — informed *Extreme Job* |
+| **Background** | Started as a screenwriter before moving into directing |
 
 ### 🎬 Filmography
 
@@ -125,7 +121,7 @@ He lost **12kg** for the role of Captain Go — a detail almost nobody noticed, 
 
 Lee Ha-nee is the definition of someone who surprises you every time.
 
-She won **Miss Korea in 2006**. She then went back to school — graduating with both a bachelor's and master's degree in **Korean Traditional Music from Seoul National University**. She speaks fluent English. She holds a **certified private pilot's license**. And in *Extreme Job*, she fights like a trained martial artist.
+She won **Miss Korea in 2006**. She then went back to school — graduating with both a bachelor's and master's degree in **Korean Traditional Music from Seoul National University**. She speaks fluent English. And in *Extreme Job*, she fights like a trained martial artist.
 
 Nobody expected the action. That was exactly the point.
 
@@ -140,7 +136,7 @@ Director Lee Byeong-heon cast her specifically to destroy audience expectations.
 | **Education** | Seoul National University — Korean Traditional Music (B.A. + M.A.) |
 | **Miss Korea** | 2006 (1st runner-up, Miss Universe Korea) |
 | **Languages** | Korean, English |
-| **Notable Trait** | Certified private pilot |
+| **Notable Trait** | Master's degree in Korean traditional music, Seoul National University |
 
 ### 🎬 Key Works
 
@@ -165,18 +161,18 @@ Director Lee Byeong-heon cast her specifically to destroy audience expectations.
 
 If *Extreme Job* made anyone's career, it was Jin Sun-kyu's.
 
-He had been a working character actor for years — good enough to be cast, not famous enough to be remembered. His first real breakout came in *The Gangster, the Cop, the Devil* (범죄도시, 2017), where he played a scene-stealing villain named Wi Seong-nak.
+He had been a working character actor for years — good enough to be cast, not famous enough to be remembered. His first real breakout came in *The Outlaws* (범죄도시, 2017), where he played Ma Seok-do's loyal right-hand man, earning him the Best Supporting Actor award at the 38th Blue Dragon Film Awards.
 
 But *Extreme Job* turned him from a recognizable face into a **household name**.
 
-His character — the scruffy, gentle Detective Ma with secret culinary genius — became the emotional and comedic heart of the entire film. The "galbi chicken" invention scene is carried entirely by Jin Sun-kyu's quiet, almost childlike delight in discovering he is good at something. He was **40 years old** when the film opened. He won Best Supporting Actor at multiple Korean awards ceremonies that year.
+His character — the scruffy, gentle Detective Ma with secret culinary genius — became the emotional and comedic heart of the entire film. The "galbi chicken" invention scene is carried entirely by Jin Sun-kyu's quiet, almost childlike delight in discovering he is good at something. He was **41 years old** when the film opened. He won Best Supporting Actor at multiple Korean awards ceremonies that year.
 
 ### 📋 Profile
 
 | | |
 |--|--|
 | **Full Name** | 진선규 (Jin Sun-kyu) |
-| **Born** | 1979 |
+| **Born** | 1977 |
 | **Background** | Trained theater actor — worked small roles for years |
 | **Breakthrough** | *Extreme Job* (2019), age 40 |
 | **Awards** | Multiple Best Supporting Actor wins for *Extreme Job* |
@@ -185,12 +181,12 @@ His character — the scruffy, gentle Detective Ma with secret culinary genius �
 
 | Title | Year | Type | Notes |
 |-------|------|------|-------|
-| **범죄도시** *(The Gangster, the Cop, the Devil)* | 2017 | Movie | First major breakout — villain role |
+| **범죄도시** *(The Outlaws)* | 2017 | Movie | First major breakout — Best Supporting Actor, Blue Dragon Film Awards |
 | **극한직업** *(Extreme Job)* | 2019 | Movie | Career-defining performance |
 | **범죄도시 3** *(The Roundup: No Way Out)* | 2023 | Movie | Villain in blockbuster franchise |
 | **아마존 활명수** | 2024 | Movie | Reunited with Ryu Seung-ryong |
 
-> 💡 **Fun fact:** Director Lee Byeong-heon on casting Jin Sun-kyu: "After *The Gangster, the Cop, the Devil*, people only saw Wi Seong-nak when they looked at him. I was certain that anything different from that character would feel completely fresh — and I was right."
+> 💡 **Fun fact:** After his breakout in *The Outlaws*, Jin Sun-kyu had become closely associated with tough, dangerous characters. Casting him as the gentle, food-obsessed Detective Ma in *Extreme Job* was a deliberate swing in the opposite direction — and it worked.
 
 ---
 
@@ -204,7 +200,7 @@ His character — the scruffy, gentle Detective Ma with secret culinary genius �
 
 Lee Dong-hwi is one of Korea's most beloved comedic actors — and he arrived fully formed.
 
-His breakthrough was **Reply 1988** (응답하라 1988, 2015–2016), the beloved nostalgia drama set in a late-1980s Seoul neighborhood. He played Jeong-bong — a character so warmly written and so naturally performed that it made him famous overnight.
+His breakthrough was **Reply 1988** (응답하라 1988, 2015–2016), the beloved nostalgia drama set in a late-1980s Seoul neighborhood. He played Ryu Dong-ryong — a character so warmly written and so naturally performed that it made him famous overnight.
 
 In *Extreme Job*, he plays Young-ho — the squad member who is loud, enthusiastic, and consistently one step behind everyone else. He is the chaos energy that keeps scenes moving even when the plot slows down. Physical comedy, natural warmth, perfect timing — Lee Dong-hwi brings all three without making it look like work.
 
@@ -213,7 +209,7 @@ In *Extreme Job*, he plays Young-ho — the squad member who is loud, enthusiast
 | | |
 |--|--|
 | **Full Name** | 이동휘 (Lee Dong-hwi) |
-| **Born** | 1986 |
+| **Born** | 1985 |
 | **Background** | Comedy-focused actor, stage-trained |
 | **Known For** | Physical comedy and natural on-screen warmth |
 
@@ -221,7 +217,7 @@ In *Extreme Job*, he plays Young-ho — the squad member who is loud, enthusiast
 
 | Title | Year | Type | Notes |
 |-------|------|------|-------|
-| **응답하라 1988** *(Reply 1988)* | 2015 | Drama | Made him famous — Jeong-bong role |
+| **응답하라 1988** *(Reply 1988)* | 2015 | Drama | Made him famous — Ryu Dong-ryong role |
 | **부라더** *(Because I Love You)* | 2018 | Movie | Starred alongside Lee Ha-nee |
 | **극한직업** *(Extreme Job)* | 2019 | Movie | Part of record-breaking ensemble |
 | **범죄도시 4** *(The Roundup: Punishment)* | 2024 | Movie | Expanded role in blockbuster franchise |

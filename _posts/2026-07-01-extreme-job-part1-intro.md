@@ -14,9 +14,9 @@ featured: false
 > - [**Part 2 — Deep Dive & Spoilers →**]({{ site.baseurl }}/posts/extreme-job-part2-deep-dive/)
 > - [**Part 3 — The Cast: Who Are These People? →**]({{ site.baseurl }}/posts/extreme-job-part3-cast/)
 
-**16,266,337 people.** That is how many Koreans watched *Extreme Job* in theaters in 2019.
+**16,266,641 people.** That is how many Koreans watched *Extreme Job* in theaters — its official final tally from the Korean Film Council (KOFIC).
 
-That is nearly one in three Koreans. It became the **#2 highest-grossing Korean film of all time**, beaten only by the historical epic *Roaring Currents*. And it did this with a budget of just ₩9.5 billion — roughly $7 million USD.
+That is nearly one in three Koreans. For years it stood as the **#2 highest-grossing Korean film of all time by admissions**, behind only the historical epic *Roaring Currents*, and even briefly held the **#1 spot for total box office revenue**. In early 2026, a new hit — *The Man Who Lived with the King* — surpassed both of those records, pushing *Extreme Job* to #3 by admissions and #2 by revenue. Still, its run remains one of the biggest in Korean film history. And it did this with a production and marketing budget of roughly ₩9.5 billion — around $7 million USD.
 
 The genre? Comedy.
 
@@ -75,7 +75,7 @@ Director **Lee Byeong-heon** had already built a reputation for sharp, witty Kor
 
 *Extreme Job* was his third film, and his biggest swing. He took the "undercover cop" genre — a staple of action cinema — and asked: what if the undercover operation went completely, hilariously wrong?
 
-The answer was 1,626만 (16.26 million) tickets sold.
+The answer was 1,626만 (16.27 million) tickets sold.
 
 ---
 
@@ -88,10 +88,11 @@ The answer was 1,626만 (16.26 million) tickets sold.
 | **Runtime** | 111 minutes |
 | **Genre** | Action Comedy |
 | **Director** | Lee Byeong-heon (이병헌) |
-| **Budget** | ₩9.5 billion (~$7M USD) |
-| **Box Office** | ₩139.6 billion (~$100M USD) |
+| **Budget** | ~₩9.5 billion combined production + marketing (~$7M USD) |
+| **Box Office** | ~₩139.6 billion (~$93.5M USD) |
 | **ROI** | Over 1,400% return on production cost |
-| **Korean Rank** | All-time #2 by audience · All-time #1 by revenue |
+| **Korean Rank (as of 2026)** | #3 all-time by admissions · #2 all-time by revenue |
+| **Final Admissions** | 16,266,641 |
 | **Audience Rating** | 9.20 / 10 (real audience score) |
 
 ---
