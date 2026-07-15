@@ -62,8 +62,8 @@ That is the real meaning behind the group's famous equation:
 
 ## 🎼 Woozi: The Sound at the Center
 
-![SEVENTEEN Performance](https://via.placeholder.com/800x400?text=SEVENTEEN+Performance)
-*(Image placeholder for formatting purposes)*
+![Woozi working alone at his production desk late at night, the shadows of the other members lingering around him](/assets/img/posts/seventeen-part2-woozi-studio.jpg)
+*The chair CARATs know best — quiet, late, and never really alone.*
 
 The group’s sound was not delivered from somewhere outside. It was built from inside the team.
 
@@ -133,7 +133,7 @@ During the encore celebration, they attempted one of their chaotic group formati
 It was not a perfectly controlled victory scene.
 That made it feel more like SEVENTEEN.
 
-▶ [Watch SEVENTEEN's first win with “Pretty U” on YouTube](#)
+> 🎬 [▶ Watch SEVENTEEN's first win with "Pretty U" on YouTube](https://www.youtube.com/results?search_query=SEVENTEEN+Pretty+U+first+win)
 
 ## ☀️ “VERY NICE”: The Song That Refused to End
 
@@ -195,6 +195,9 @@ K-pop synchronization is often judged by one question:
 
 SEVENTEEN's best performances ask a different question:
 *Can thirteen different bodies create one story?*
+
+![Thirteen tiny performers forming a shifting pattern across a vast, empty stage floor](/assets/img/posts/seventeen-part2-performance.jpg)
+*One formation dissolves into the next. Thirteen bodies, one constantly moving picture.*
 
 Sometimes the members move together.
 Sometimes they divide into units.
@@ -299,7 +302,7 @@ The performance is carefully designed, but the joy never feels mechanical. Thirt
 It is discipline disguised as chaos.
 And it is very, very SEVENTEEN.
 
-▶ [Watch “VERY NICE” live encore compilations on YouTube](#)
+> 🎬 [▶ Watch "VERY NICE" live encore compilations on YouTube](https://www.youtube.com/results?search_query=SEVENTEEN+VERY+NICE+encore)
 
 ---
 

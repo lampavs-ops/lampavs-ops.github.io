@@ -72,6 +72,9 @@ For many new fans, the first SEVENTEEN content they loved was not a song.
 *GOING SEVENTEEN* began as behind-the-scenes content connected to the group's activities.
 Over time, it became something much larger.
 
+![A film set full of movement, with cameras rolling as the members turn a simple game into chaos](/assets/img/posts/seventeen-part3-going-seventeen.jpg)
+*Not a music video. Not a concert. Just thirteen friends, a few cameras, and no idea what happens next.*
+
 The members played games, created fake businesses, investigated mysteries, argued through debate nights, ran obstacle courses, betrayed one another, and invented rules that made sense only to them.
 The production became more ambitious.
 
@@ -261,6 +264,9 @@ The public was still listening.
 
 On November 29, 2023, SEVENTEEN won Album of the Year at the MAMA Awards for *FML*.
 It was their first MAMA daesang.
+
+![Thirteen figures standing together on a massive lit stage, one trophy raised high above a sea of light sticks](/assets/img/posts/seventeen-part3-fml-stage.jpg)
+*Eight years. Thirteen members. One trophy finally raised together.*
 
 The moment carried extra weight because it did not arrive early.
 SEVENTEEN had already been active for eight years. They had won performance awards, sold millions of albums, completed world tours, and earned a grand prize at the 2019 Asia Artist Awards.
