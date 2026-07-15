@@ -80,7 +80,7 @@ Korean and international fans respected the honesty.
 
 ### Lee Jung-jae (이정재) — Seong Gi-hun (Player 456)
 
-> 📸 **Official SNS:** [Instagram @leejungjae](https://www.instagram.com/leejungjae)
+> 📸 **Official SNS:** [Instagram @from_jjlee](https://www.instagram.com/from_jjlee)
 
 > 🎬 [**▶ Watch Lee Jung-jae's Emmy acceptance speech on YouTube**](https://www.youtube.com/results?search_query=Lee+Jung+jae+Emmy+Award+acceptance+speech+Squid+Game)
 
@@ -118,7 +118,7 @@ In 2022, Lee Jung-jae became the **first Asian actor to win Outstanding Lead Act
 
 ### Park Hae-soo (박해수) — Cho Sang-woo (Player 218)
 
-> 📸 **Official SNS:** [Instagram @phs1116](https://www.instagram.com/phs1116)
+> 📸 **Official SNS:** [Instagram @haesoopark_official](https://www.instagram.com/haesoopark_official)
 
 ### Who Is He?
 
@@ -208,7 +208,7 @@ In 2022, Oh Yeong-su won the **Golden Globe for Best Supporting Actor in a TV Se
 
 ### Heo Sung-tae (허성태) — Jang Deok-su (Player 101)
 
-> 📸 **Official SNS:** [Instagram @heosungtae_official](https://www.instagram.com/heosungtae_official)
+> 📸 **Official SNS:** [Instagram @heosungtae](https://www.instagram.com/heosungtae)
 
 ### Who Is He?
 
