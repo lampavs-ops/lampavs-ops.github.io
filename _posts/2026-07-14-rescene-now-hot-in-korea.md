@@ -4,7 +4,7 @@ date: 2026-07-14
 categories: [K-Pop]
 tags: [k-pop, rescene, woni, minami, liv, may, zena, the-muze-entertainment, rookie-girl-group, korean-youtube, gyaru, para-para]
 description: "How RESCENE became one of Korea's most talked-about rookie girl groups through Woni's viral YouTube channel, Minami's gyaru character, regional dialects, and an unexpectedly wholesome underdog story."
-image: /assets/img/posts/rescene-fire-breathing-charmander.jpg
+image: /assets/img/posts/rescene-playground.jpg
 featured: false
 ---
 
@@ -65,7 +65,7 @@ It gave the public a reason to feel that they already knew them.
 
 ## 🔥 Woni, Geoje, and the Fire-Breathing Charmander Energy
 
-![Woni and RESCENE portrayed with chaotic fire-breathing Charmander energy](/assets/img/posts/rescene-wonishilla.jpg)
+![Woni and RESCENE portrayed with chaotic fire-breathing Charmander energy](/assets/img/posts/rescene-fire-breathing-charmander.jpg)
 *RESCENE's appeal is not polished perfection. It is the feeling that the members might turn an ordinary conversation into complete chaos at any moment.*
 
 One of the most refreshing parts of the channel is how naturally the members use their hometown identities.
