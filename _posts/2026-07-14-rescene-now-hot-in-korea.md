@@ -65,7 +65,7 @@ It gave the public a reason to feel that they already knew them.
 
 ## 🔥 Woni, Geoje, and the Fire-Breathing Charmander Energy
 
-![Woni and RESCENE portrayed with chaotic fire-breathing Charmander energy](/assets/img/posts/rescene-fire-breathing-charmander.jpg)
+![Woni and RESCENE portrayed with chaotic fire-breathing Charmander energy](/assets/img/posts/rescene-wonishilla.jpg)
 *RESCENE's appeal is not polished perfection. It is the feeling that the members might turn an ordinary conversation into complete chaos at any moment.*
 
 One of the most refreshing parts of the channel is how naturally the members use their hometown identities.
