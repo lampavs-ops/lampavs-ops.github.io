@@ -14,7 +14,7 @@ featured: false
 
 Firefighter Kim Ja-hong dies saving a child from a fire. Three grim reapers, Gang-rim, Hae Won-maek, and Deok-choon, guide him through seven trials in seven hells. He has 49 days. If he passes all seven, he is reincarnated, and his guardians earn credit toward their own reincarnation.
 
-On the surface, this looks like a simple story about a good man proving he was good. Underneath, it is a story about a lie one family told to survive, and what it costs to finally tell the truth.
+On the surface, this looks like a simple story about a good man proving he was good. Underneath, it is a story about a lie one family told to survive, and what it costs to finally tell the truth..
 
 ## The Seven Hells, and What They Really Judge
 
