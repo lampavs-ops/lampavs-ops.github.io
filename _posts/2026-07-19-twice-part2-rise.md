@@ -26,7 +26,7 @@ That single phrase quickly became a widely recognized meme and catchphrase in So
 
 For a group just over one year into their career, that kind of recognition was massive.
 
-![A group of dancers rehearsing a bright, colorful stage performance](/assets/img/posts/twice-part2-thumbnail.jpg)
+![A group of dancers rehearsing a bright, colorful stage performance](/assets/img/posts/twice-part2-thumbnail2.jpg)
 *Bright concepts, big wins. 2016 was TWICE's breakout year.*
 
 [**▶ Watch TWICE "Cheer Up" on YouTube**](https://www.youtube.com/results?search_query=TWICE+Cheer+Up+Official+MV)
