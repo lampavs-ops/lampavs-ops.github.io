@@ -30,7 +30,7 @@ Years later, Dong-eun is a completely different person on the outside. But insid
 
 That is the whole premise. How she does it, and what happens along the way, is where the show earns its reputation as one of the most successful Korean revenge dramas of its time.
 
-![A woman standing alone in a dim classroom, seen from behind](/assets/img/posts/the-glory-part1-thumbnail.jpg)
+![A woman standing alone in a dim classroom, seen from behind](/assets/img/posts/the-glory-part1-thumbnail1.jpg)
 *A quiet classroom hides years of pain in "The Glory."*
 
 [**▶ Watch The Glory Official Trailer on YouTube**](https://www.youtube.com/results?search_query=The+Glory+Netflix+Official+Trailer)
