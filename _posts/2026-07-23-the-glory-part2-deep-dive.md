@@ -5,6 +5,7 @@ categories: [K-Drama, Series Reviews]
 tags: [the-glory, song-hye-kyo, netflix, revenge-drama, deep-dive, "2023"]
 description: "A deep dive into The Glory's ending, its biggest twists, and how a dark revenge story became one of Netflix's most-watched Korean dramas ever."
 image: /assets/img/posts/the-glory-part2-thumbnail.jpg
+*Fire and light became powerful symbols throughout the series.*
 featured: false
 ---
 
@@ -24,8 +25,7 @@ From there, Dong-eun built a quiet network of allies. Joo Yeo-jeong, a doctor wi
 
 Piece by piece, Dong-eun exposed the truth about her old bullies: Park Yeon-jin, Jeon Jae-jun, Lee Sa-ra, Choi Hye-jeong, and Son Myeong-o. Each of them had spent years hiding behind money and status. Dong-eun took that protection away one relationship, one secret, and one betrayal at a time.
 
-![A pair of hands lighting a small candle in the dark](/assets/img/posts/the-glory-part2-thumbnail.jpg)
-*Fire and light became powerful symbols throughout the series.*
+
 
 ## The Twist Nobody Saw Coming
 
