@@ -28,7 +28,7 @@ What Da-rim does not know is that Jung-won is terminally ill. The film never exp
 
 The studio itself starts to feel like more than just a workplace. Young love, fading memory, and death all pass through the same small room. It works almost like a waiting area between life and whatever comes after.
 
-![A small photo studio storefront glowing warmly at dusk, seen from across a quiet street](/assets/img/posts/christmas-in-august-thumbnail.jpg)
+![A small photo studio storefront glowing warmly at dusk, seen from across a quiet street](/assets/img/posts/christmas-in-august-thumbnail2.jpg)
 *A small studio window becomes the emotional center of the entire film.*
 
 [**▶ Watch Christmas in August Trailer on YouTube**](https://www.youtube.com/results?search_query=8%EC%9B%94%EC%9D%98+%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4+Christmas+in+August+trailer)
