@@ -232,7 +232,7 @@ K-Pop fans do not just listen to music. They build **communities**. Here is why 
 
 ## 🔗 Read More
 
-- [K-Pop Industry — Deep Dive →]({{ site.baseurl }}/posts/deep-dive/)
+- [K-Pop Industry — Deep Dive →]({{ site.baseurl }}/categories/deep-dive/)
 - [See all K-Pop posts →]({{ site.baseurl }}/categories/k-pop/)
 
 ---
