@@ -10,7 +10,7 @@ featured: false
 
 > *A personal note from the Editor.*
 
-Six years ago, right in the middle of the pandemic, the Editor was working in Jakarta. There, I met a young Korean entrepreneur who had just started his own cosmetics brand. Business was tough, like it was for almost everyone back then. Some time later, his company signed a brand deal with a member of a K-pop group, right around the time that member was going through a controversy back home tied to accusations of verbal bullying from his middle school years. From what he later told me, that partnership became an important turning point for his business in Indonesia.
+Six years ago, right in the middle of the pandemic, I was working in Jakarta. There, I met a young Korean entrepreneur who had just started his own cosmetics brand. Business was tough, like it was for almost everyone back then. Some time later, his company signed a brand deal with a member of a K-pop group, right around the time that member was going through a controversy back home tied to accusations of verbal bullying from his middle school years. From what he later told me, that partnership became an important turning point for his business in Indonesia.
 
 I am a little embarrassed to admit this now, but that was the first time I ever heard the name **Stray Kids**. When I looked them up afterward, I found out they were not some small, struggling act at all. They were a global K-pop group built by one of Korea's biggest entertainment companies.
 
