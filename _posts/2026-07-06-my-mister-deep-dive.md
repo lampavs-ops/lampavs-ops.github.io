@@ -83,7 +83,7 @@ Dong-hun goes to the same small neighborhood bar every night with his brothers. 
 
 Look closer.
 
-Everyone in that bar has failed at something. The oldest brother lost his business. The youngest brother never got married. And Dong-hun — whose wife is cheating on him. By the world's standards, they are all losers.
+Everyone in that bar has failed at something. The oldest brother lost his business. The youngest brother Ki-hoon once screened a short film at Cannes at age 20 — and has been trying to make his feature debut for the twenty years since. And Dong-hun — whose wife is cheating on him. By the world's standards, they are all losers.
 
 But every single night, they sit in the same seats and drink the same beer. They know about each other's failures. And they stay anyway.
 
@@ -277,7 +277,7 @@ And that is why we cannot forget this drama.
 
 ## 🌍 The World Noticed
 
-Japanese composer and pianist Ryuichi Sakamoto praised My Mister on his radio program and said he watched it twice all the way through. French actor and playwright Sébastien Roche called it "an astonishingly complex story with unforgettable characters." Brazilian author Paulo Coelho mentioned it publicly. LE SSERAFIM's Miyawaki Sakura said it was her favorite drama — and that it made her rethink her view of life.
+Japanese composer and pianist Ryuichi Sakamoto praised My Mister on his radio program *Radio Sakamoto* in January 2021 — introducing the OST track *Grown-up* by Sondia and saying he had watched the drama twice all the way through. Brazilian author Paulo Coelho called it "a work that perfectly depicts human psychology" and praised the script, direction, and cast. French actor Sébastien Roche wrote on Twitter that it was "an astonishingly complex story with unforgettable characters." LE SSERAFIM's Miyawaki Sakura said on her radio program that it was her favorite drama and that it made her rethink her view of life.
 
 All of them watched it in subtitles. In a language they do not speak.
 

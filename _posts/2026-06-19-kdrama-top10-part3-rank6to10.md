@@ -134,7 +134,7 @@ Set on **Jeju Island** across multiple decades, this drama follows two people �
 
 IU has always been beloved in Korea — as a singer and actress. But this role gave her the kind of generational performance that people will talk about for decades. Paired with Park Bo-gum's quiet warmth, the drama became something rare: a show that felt like life itself.
 
-> 💡 **Fun fact:** "폭싹 속았수다" is a Jeju dialect phrase that roughly means "you worked so hard you were completely fooled by life." The title alone tells you everything about the drama's emotional tone.
+> 💡 **Fun fact:** "폭싹 속았수다" is a Jeju dialect phrase that means "you have worked so hard" or "you have truly suffered a great deal" — a warm expression of acknowledgment for a life of hardship. It is not related to the standard Korean word *속다* (to be fooled), despite the similar spelling. The title is a quiet tribute to the exhausting, beautiful lives the characters lived.
 
 ---
 

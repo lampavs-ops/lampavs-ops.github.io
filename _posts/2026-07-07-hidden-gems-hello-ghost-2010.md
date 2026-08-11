@@ -49,7 +49,7 @@ This is not a film with famous, beautiful Korean actors. It does not have the sh
 | **Director & Writer** | Kim Yeong-tak |
 | **Stars** | Cha Tae-hyun · Kang Ye-won · Lee Moon-su · Ko Chang-seok · Jang Young-nam · Cheon Bo-geun |
 | **Runtime** | 111 minutes |
-| **Korean admissions** | 3,042,021 (9th highest in Korea, 2010) |
+| **Korean admissions** | approximately 3.02 million (9th highest-grossing Korean film, 2010) |
 | **Remakes** | Indonesia (2023) · Taiwan (2023) |
 
 > 🎬 [**▶ Watch the Hello Ghost Official Trailer on YouTube**](https://www.youtube.com/results?search_query=Hello+Ghost+2010+Korean+Movie+Official+Trailer)
@@ -69,8 +69,8 @@ Four ghosts.
 
 | Ghost | Personality | Their Wish |
 |-------|-------------|------------|
-| Chain-smoker ghost (Lee Moon-su) | Restless, craving a cigarette | Drive his old taxi one more time |
-| Old man ghost (Ko Chang-seok) | Silly, a little perverted | Return a camera to his old friend |
+| Old man ghost (Lee Moon-su) | Silly and perverted, craving alcohol | Return a camera to his old friend |
+| Chain-smoker ghost (Ko Chang-seok) | Restless, craving a cigarette | Drive his old taxi to the seaside one more time |
 | Crying woman ghost (Jang Young-nam) | Always in tears | Cook and share a meal with someone |
 | Little boy ghost (Cheon Bo-geun) | Loves candy and cartoons | Watch a cartoon movie |
 
@@ -104,9 +104,9 @@ Near the end of the film, Yeon-su mentions a patient who recently passed away �
 
 At that moment, Sang-man remembers something.
 
-The crying ghost had taken over his body and made kimbap. He had eaten it without thinking. But there was one strange thing about it — **parsley** instead of spinach.
+The crying ghost had taken over his body and made kimbap. He had eaten it without thinking. But there was one strange thing about it — **minari** (a Korean water parsley) instead of spinach.
 
-His mother used to put parsley in her kimbap.
+His mother used to put minari in her kimbap.
 
 And then the memory comes back.
 
@@ -115,9 +115,9 @@ And then the memory comes back.
 | Ghost | True Identity |
 |-------|--------------|
 | Crying woman ghost (Jang Young-nam) | Sang-man's **mother** |
-| Chain-smoker ghost (Lee Moon-su) | Sang-man's **father** |
-| Old man ghost (Ko Chang-seok) | Sang-man's **grandfather** |
-| Little boy ghost (Cheon Bo-geun) | Sang-man's **younger brother** |
+| Old man ghost (Lee Moon-su) | Sang-man's **grandfather** |
+| Chain-smoker ghost (Ko Chang-seok) | Sang-man's **father** |
+| Little boy ghost (Cheon Bo-geun) | Sang-man's **older brother** (who died as a child and appears younger than adult Sang-man) |
 
 Sang-man lost his entire family in a car accident when he was young. The shock was so great that his mind erased every memory of them. He has spent his whole life believing he was a true orphan — with no one.
 
@@ -131,7 +131,7 @@ When this lands, the movie becomes something else entirely.
 
 ### The Parsley in the Kimbap
 
-Early in the film, the crying ghost takes over Sang-man's body and makes kimbap in the kitchen. Sang-man is baffled but eats it. A single line passes by: "There's parsley in this."
+Early in the film, the crying ghost takes over Sang-man's body and makes kimbap in the kitchen. Sang-man is baffled but eats it. A single line passes by: "There's minari in this."
 
 It looks like a throwaway comedy moment. But it is the film's central piece of foreshadowing. The special kimbap his mother used to make. The audience only understands what it means at the very end.
 
@@ -174,7 +174,7 @@ Hello Ghost was Kim Yeong-tak's feature film debut. The ability to blend comedy 
 
 Cha Tae-hyun is the defining actor of warm Korean comedy. From *My Sassy Girl* (2001) to *Speed Scandal* (2008) to *Hello Ghost* (2010) — he has made a career out of roles that are funny and deeply human at the same time.
 
-In Hello Ghost, he had to play four completely different people — all inside the same body. A smoking father. A silly grandfather. A crying mother. A candy-loving little boy. Every single one of those performances was funny. And after the twist, every single one of them breaks your heart. He was playing his own family. He just did not know it yet.
+In Hello Ghost, he had to play four completely different people — all inside the same body. A silly grandfather. A smoking father. A crying mother. A candy-loving little boy (Sang-man's older brother, who died as a child and appears younger). Every single one of those performances was funny. And after the twist, every single one of them breaks your heart. He was playing his own family. He just did not know it yet.
 
 | Title | Year | Notes |
 |-------|------|-------|
@@ -195,24 +195,24 @@ Kang Ye-won plays Yeon-su — the hospital nurse who becomes the first real huma
 | Title | Year | Notes |
 |-------|------|-------|
 | **Hello Ghost** | **2010** | **This film** |
-| *Oh My Ghostess* *(오! 나의 귀신님)* | 2015 | tvN hit drama with Park Bo-young |
-| *One the Woman* *(원 더 우먼)* | 2021 | SBS drama |
+| *Harmony* *(하모니)* | 2010 | Korean film — ensemble drama |
+| *Quick* *(퀵)* | 2011 | Action film |
 
 ---
 
-### Lee Moon-su (이문수) — Chain-smoker Ghost (Father)
+### Lee Moon-su (이문수) — Old Man Ghost (Grandfather)
 
 > 📸 **Official SNS:** [Instagram @moonsu_lee0123](https://www.instagram.com/moonsu_lee0123)
 
-A veteran stage actor from the theater world. In Hello Ghost, he plays the father who died without ever quitting smoking — and cannot rest until he drives his taxi one last time. His rough, warm voice makes the character both funny and, in retrospect, quietly heartbreaking.
+A veteran stage actor from the theater world. In Hello Ghost, he plays the grandfather — a perverted, alcohol-loving old man who cannot rest until he returns a camera to his old friend. His rough, warm voice makes the character both funny and, in retrospect, quietly heartbreaking.
 
 ---
 
-### Ko Chang-seok (고창석) — Old Man Ghost (Grandfather)
+### Ko Chang-seok (고창석) — Chain-smoker Ghost (Father)
 
 > 📸 **Official SNS:** [Instagram @kochang1028](https://www.instagram.com/kochang1028)
 
-One of the most reliable supporting actors in Korean cinema. Ko Chang-seok's silly, scene-stealing grandfather ghost provides most of the film's loudest laughs. He has since appeared in the *The Roundup* franchise, *Squid Game*, and more — always bringing the same effortless character work.
+One of the most reliable supporting actors in Korean cinema. Ko Chang-seok's chain-smoking father ghost provides some of the film's loudest laughs. His distinctive presence has since appeared in films like *The Berlin File* (2013), *The Age of Shadows* (2016), and *The Man Standing Next* (2020) — always bringing effortless character work.
 
 ---
 
@@ -280,4 +280,4 @@ The fact that my Extreme T wife — the person who asked where the sad part of *
 
 ---
 
-*Released: 2010 · Director: Kim Yeong-tak · Distributor: CJ Entertainment*
+*Released: 2010 · Director: Kim Yeong-tak · Distributor: Next Entertainment World (NEW)*
