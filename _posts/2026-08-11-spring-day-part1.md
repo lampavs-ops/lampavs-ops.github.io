@@ -10,7 +10,7 @@ featured: false
 
 > *A personal note from the Editor.*
 
-Of all the older Korean films I have covered on this blog, this one might be my personal favorite. **One Fine Spring Day**, known in Korean as "봄날은 간다," is a quiet, gentle film that somehow captures the entire arc of a relationship, from its first spark to its final fade, without ever raising its voice. More than twenty years after its release, Koreans still quote its most famous line in everyday conversation. Today, we start a three-part series on this film, beginning with a spoiler-free introduction.
+Of all the older Korean films I have covered on this blog, this one might be my personal favorite. **One Fine Spring Day**, known in Korean as "봄날은 간다," is a quiet, gentle film that somehow captures the entire arc of a relationship, from its first spark to its final fade, without ever raising its voice. It shows how love between two people changes, right alongside the changing seasons. Maybe it is a familiar kind of story, but I think it is one that lands, deeply, for anyone who has ever truly been in love. I still find myself going back to watch its most famous scenes now and then, and putting on the OST to sit with the memory of it. That soundtrack has become a classic in its own right, still loved by listeners decades later. More than twenty years after its release, Koreans still quote its most famous line in everyday conversation. Today, we start a three-part series on this film, beginning with a spoiler-free introduction.
 
 ---
 
@@ -24,6 +24,14 @@ That is all we will say about the plot here. This is a film best experienced wit
 
 ![Two figures recording sound equipment in a quiet bamboo forest, seen from behind, pen-and-ink illustration with watercolor wash, on black background paper](/assets/img/posts/spring-day-part1-main.jpg)
 *Where their story begins, one winter: two microphones, one bamboo grove, and the sound of the wind.*
+
+---
+
+## What the Korean Title Really Means
+
+The English title, "One Fine Spring Day," is pleasant enough, but it does not quite carry what the original Korean title is doing. Translated literally, "봄날은 간다" means something closer to "the spring day goes," or "the spring day passes."
+
+In Korean, "봄날," spring day, is often used to mean more than just a season. It stands in for those bright, hopeful, love-struck days, the part of a relationship when everything still feels exciting and full of possibility. The second half, "간다," simply means "goes" or "passes by." Put together, the title is not really about spring as a season at all. It is about the fact that those golden, spring-like days of a relationship, however wonderful they felt at the time, eventually pass and become the past. That quiet sense of loss, of something precious slipping away no matter how much you want to hold onto it, is baked directly into the Korean title in a way the English one simply cannot capture.
 
 ---
 
