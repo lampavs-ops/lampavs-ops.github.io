@@ -91,11 +91,27 @@ That is also why the twist survives repeat viewings. Once you know Ja-hong's sec
 
 The visual world-building was already impressive in Part 1. Knowing the full story behind Ja-hong and Soo-hong makes every trial hit twice as hard on a second watch.
 
+## Meet the Director and Cast
+
+**Kim Yong-hwa (Director/Writer)** was already known in Korea for box office hits like *200 Pounds Beauty* and *Take Off*. While making *Mr. Go* (2013), he grew unsatisfied with the visual effects he could get from outside vendors for the film's CG gorilla, so he founded the VFX house Dexter Studios himself — which became the backbone of this entire series. He shot both *The Two Worlds* and its sequel, *The Last 49 Days*, at the same time, a rare and expensive approach for Korean cinema.
+
+**Ha Jung-woo as Gang-rim**, the sharp, guarded leader of the three grim reapers. One of Korea's most consistently bankable leading men (*The Chaser*, *The Handmaiden*) and also an active painter with his own solo exhibitions. [Instagram @__hajungwoo](https://www.instagram.com/__hajungwoo/)
+
+**Cha Tae-hyun as Kim Ja-hong**, the firefighter whose entire afterlife hinges on the secret above. A familiar face in Korean film and variety TV for decades (*My Sassy Girl*, *2 Days & 1 Night*).
+
+**Ju Ji-hoon as Hae Won-maek**, the sword-skilled, sharp-tongued reaper, known for a wide-ranging career including the zombie period drama *Kingdom*. [Instagram @_jujihoon](https://www.instagram.com/_jujihoon/)
+
+**Kim Hyang-gi as Deok-choon**, the youngest of the three reapers — a former child actor with an acclaimed adult career (*Innocent Witness*). Her Instagram handle traces back to an on-set nickname Ha Jung-woo gave her during filming. [Instagram @kimsmell1](https://www.instagram.com/kimsmell1/)
+
+**Kim Dong-wook as Kim Soo-hong**, Ja-hong's younger brother, also known for *Mystic Pop-up Bar*. [Instagram @kimdngwk](https://www.instagram.com/kimdngwk/)
+
+**Lee Jung-jae as Yeomra**, King of the underworld. Long before his globally recognized role in *Squid Game*, Lee had already built a decades-long career including *New World* and *Il Mare*. [Instagram @from_jjlee](https://www.instagram.com/from_jjlee/)
+
+It took a large team to build seven distinct hells: Dexter Studios drew on roughly 300 artists and technicians, and before the film even premiered, it was pre-sold to 103 countries and regions across the Busan and American Film Markets — a strong early signal of how much confidence the industry had in this story.
+
 ## Related Reads on K-Unpacked
 
 New to the series? Start with our [spoiler-free introduction to Along with the Gods: The Two Worlds](/posts/along-with-the-gods-two-worlds-part1/). If family-centered Korean stories move you, our deep dive into [My Mister](/posts/my-mister-deep-dive/) explores similar themes of quiet, unspoken love. And if you are curious how this film stacks up against Korea's biggest movies of all time, check our [Korea box office rankings series](/posts/korea-box-office-top10-overview/).
-
-**Coming next:** Part 3 introduces director Kim Yong-hwa and the film's cast, with links to their official channels.
 
 ---
 

@@ -52,6 +52,12 @@ According to figures widely reported from the tour's promoters, TWICE performed 
 
 In 2023, TWICE received the Breakthrough Artist Award at the Billboard Women in Music Awards. TWICE became the first K-pop group to receive an award at that ceremony. For a group more than seven years into their career, being called a "breakthrough" act still might sound strange. But it captured something true. TWICE was not just holding onto old fans. They were still winning brand-new ones, all over the world.
 
+## What a Sold-Out US Stadium Means Back Home
+
+When TWICE sold out SoFi Stadium and MetLife Stadium, the story did not stay a fandom story in Korea, it became national news, covered the same way Korean media covers a major Olympic medal or an internationally acclaimed film. There is a specific pride Korean audiences take in seeing something built at home succeed on a stage most Koreans grew up assuming belonged to Western pop stars.
+
+That reaction is not universal to every K-pop milestone; Korean audiences can be famously hard to impress, and plenty of chart records get a shrug at home even when international fans are celebrating. Stadiums are different. They are visible, physical, unmistakable proof, the kind of achievement that is hard to argue with, and it is part of why TWICE's stadium run got extensive domestic coverage well beyond the group's existing fanbase.
+
 ## Why This Chapter Matters
 
 The Editor's friend has followed TWICE from a small studio stage on a survival show to a stadium packed with tens of thousands of strangers who all know the same lyrics. That kind of growth rarely happens by luck. It happens through years of small, steady wins that eventually add up to something enormous.

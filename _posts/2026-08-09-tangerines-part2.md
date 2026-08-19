@@ -59,6 +59,6 @@ If stories about the quiet, generational cost of love and sacrifice speak to you
 
 **Editor's Rating: 9.2 / 10**
 
-Coming up in **Part 3**: the cast and creative team behind this unforgettable series.
+Want to know more about the people who made this show? Director Kim Won-seok, writer Lim Sang-choon, and the full cast are profiled in [Part 1]({{ site.baseurl }}/posts/tangerines-part1/).
 
 *— The Editor*

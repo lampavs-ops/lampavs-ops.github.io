@@ -67,6 +67,26 @@ None of these symbols are explained out loud. The show trusts its audience to no
 
 Domestically, the show also sparked real conversations about school violence. Kim Eun-sook has said she researched real Korean school-bullying incidents while writing the series and incorporated elements from some of those cases into the fictional story. That mix of fiction and real-world weight is part of why the show resonated so strongly, both inside Korea and far beyond it.
 
+## Meet the Cast and Creators
+
+**Kim Eun-sook (Writer)** is one of the most successful screenwriters in Korean television, previously known for warmer hits like *Descendants of the Sun*, *Goblin*, and *Mr. Sunshine*. *The Glory* was a deliberate departure — darker, slower, and far more painful. Kim has said the idea grew out of a question her teenage daughter once asked her: whether it would hurt more to beat someone nearly to death, or to be beaten nearly to death yourself. That question became the seed for Dong-eun's story, and Kim studied real Korean school-bullying cases while writing it. She does not keep a public social media account.
+
+**Ahn Gil-ho (Director)** brought his experience from tense, atmospheric dramas like *Stranger* and *Memories of the Alhambra*. His preference for quiet tension over loud, dramatic beats suited a revenge plan built slowly across nearly two decades. Fans have often noted that pairing Kim's writing with Ahn's direction gave *The Glory* a completely different feel from Kim's earlier, more romantic work. He also does not keep a public social media account.
+
+**Song Hye-kyo as Moon Dong-eun.** Discussed above — the role marked a major shift for an actress long associated with warm, romantic leads. [Instagram @kyo1122](https://www.instagram.com/kyo1122/)
+
+**Lee Do-hyun as Joo Yeo-jeong.** The doctor who becomes Dong-eun's closest ally, and eventually much more. Lee had already built a strong reputation through *Sweet Home* and *Youth of May* before this role expanded his range further. [Instagram @ldh_sky](https://www.instagram.com/ldh_sky/)
+
+**Lim Ji-yeon as Park Yeon-jin.** The show's central villain. Lim already had a solid acting career, including an award-winning film debut in *Obsessed* and a supporting role in *Money Heist: Korea*, but *The Glory* became her major international breakthrough. [Instagram @limjjy2](https://www.instagram.com/limjjy2/)
+
+**Jung Sung-il as Ha Do-yeong.** Yeon-jin's husband, whose slow realization of the truth about his wife becomes one of the story's quieter, more emotional threads. [Instagram @ygmicael](https://www.instagram.com/ygmicael/)
+
+**Park Sung-hoon as Jeon Jae-jun.** One of Dong-eun's former bullies. His portrayal of a wealthy, spoiled man slowly losing control of his own life became one of the most talked-about performances in the supporting cast. [Instagram @boxabum](https://www.instagram.com/boxabum/)
+
+**Yeom Hye-ran as Kang Hyeon-nam.** A woman trapped in an abusive marriage who becomes an unlikely ally to Dong-eun. Yeom is a respected veteran actress whose performance added real emotional weight to one of the show's most grounded storylines.
+
+*The Glory* did not rely on just one strong performance — it needed an entire ensemble willing to play deeply unlikable, morally complicated characters and make them feel real. From Song Hye-kyo's icy control to Lim Ji-yeon's chilling charm, that combination of a bold script, patient direction, and a fearless cast is exactly why the show became a global phenomenon.
+
 ## Final Thoughts
 
 *The Glory* works because it never treats revenge as simple or easy. Every step of Dong-eun's plan costs her something. By the time the credits roll, the show has made its point: surviving abuse and getting justice for it are two very different things, and healing from either one takes far longer than any single act of revenge ever could.

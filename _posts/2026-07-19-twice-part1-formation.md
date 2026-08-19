@@ -83,6 +83,12 @@ She saw one member, Momo, get eliminated partway through the show, only to be br
 
 That is the ONCE fandom's secret. Many early fans, like her, were not there for perfect performances. They were there for the story.
 
+## A Very Korean Kind of Power Move
+
+Outside Korea, it can look strange that one man, JYP founder Park Jin-young, could simply overrule the result of a nationally televised competition and add two extra members after the winners were already announced. In the Korean entertainment industry, though, this kind of top-down authority from an agency's founder is not unusual, it is closer to the norm. Company founders here are often treated less like corporate executives and more like head coaches or even parental figures, with final say over lineups, concepts, and debuts, even after a show has already told the public who "won."
+
+Fans generally accepted the decision because Park Jin-young had built a reputation over two decades for having a sharp ear for what would work. That kind of personal trust in a founder's judgment, more than any contract clause, is what let a seven-member winning lineup quietly become nine without much public backlash.
+
 ## What Comes Next
 
 TWICE's debut was strong. But it was only the beginning. The real explosion came just six months later, with a song that would turn TWICE into one of the biggest girl groups in the world.

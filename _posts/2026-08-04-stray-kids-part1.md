@@ -70,6 +70,12 @@ We will dig deeper into each member's story, along with the group's biggest hits
 
 ---
 
+## Why the "Team, Not Competition" Format Mattered
+
+Korean survival shows are usually built around elimination and rivalry. Trainees are pitted against each other, ranked weekly, and told only the top scorers will debut, a format that has drawn real criticism over the years for the stress it puts on very young trainees competing against people they live and train with every day.
+
+Stray Kids' show flipped that. Bang Chan was given the job of building a team, not winning a contest, and the show's central question was whether the group could get all nine members to debut together, not who would be cut. That difference shaped the group's identity from day one. Watching Korean idol culture from the inside, I think that origin story is a big part of why Stray Kids' self-producing, collective identity feels so genuine rather than like a marketing angle. The "team over competition" idea was baked into how they were built, not added afterward.
+
 ## Where to Go From Here
 
 If you enjoy origin stories of K-pop's biggest names, our **BTS** and **TWICE** series trace similarly unconventional paths to global success.

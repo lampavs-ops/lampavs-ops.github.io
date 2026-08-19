@@ -41,6 +41,12 @@ The song's hook was not just musical. It was visual. During the chorus, members 
 
 For the Editor's friend, "TT" was the moment TWICE stopped being "a group she liked" and became "a group everyone she knew liked too."
 
+## Why "Shy Shy Shy" Worked So Well in Korea
+
+A single cute, slightly silly phrase becoming a nationwide meme is not an accident of internet culture, it is a well-worn pattern in Korean pop culture called "aegyo," an exaggerated cuteness performed through voice, expression, or gesture. Aegyo is a familiar, generally embraced part of everyday Korean life, from advertising to variety shows, not just K-pop. TWICE built an entire concept era around it with "Cheer Up," and Korean audiences, already fluent in the language of aegyo, picked it up immediately and ran with it.
+
+That cultural fluency is part of why "Cheer Up" spread so much faster domestically than most rookie comebacks. It was not introducing something new to Korean audiences. It was doing something very familiar, exceptionally well.
+
 ## Knock Knock, Signal, and a Winning Streak
 
 TWICE did not slow down after "TT." In February 2017, they released "Knock Knock," extending their run of four consecutive hit singles from debut. That kind of consistency is rare, even for top K-pop acts.

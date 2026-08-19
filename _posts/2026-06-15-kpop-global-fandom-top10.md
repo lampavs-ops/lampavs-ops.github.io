@@ -13,6 +13,10 @@ featured: true
 > 📊 **Where did the numbers come from?** Spotify · Billboard · Hanteo Chart · 2025 Korean Wave Report.
 > Numbers are rounded. They can change any time.
 
+> *A personal note from the Editor.*
+>
+> Living in Seoul, I see K-Pop fandom up close in ways that do not always translate through a Spotify number. I have walked past coffee trucks parked outside HYBE's building, sent by fans to celebrate a member's birthday. I have seen the long lines outside album pop-up stores days before a comeback. The numbers below are real and worth tracking, but they only tell half the story — so after the rankings, I want to walk through the half that does not show up on a chart.
+
 K-Pop fans live everywhere. Seoul. São Paulo. Tokyo. Toronto. Millions of people hit play every single day.
 
 But **who has the biggest fan groups right now?**
@@ -229,6 +233,20 @@ K-Pop fans do not just listen to music. They build **communities**. Here is why 
 5. **Photo cards in albums** — Fans love collecting photo cards. This makes people buy more albums!
 
 ---
+
+## 🇰🇷 What "Fandom" Means Differently in Korea vs. Abroad
+
+Spotify numbers measure listening. They do not measure how differently fandom actually *works* depending on where you live, and the gap is bigger than most global fans realize.
+
+**Album buying is a different sport in Korea.** Overseas, one copy of an album is normal. In Korea, many fans buy multiples — sometimes dozens — of the same album, because each copy comes with a random photo card, and completing a full set (or getting a specific member's card) is part of the fun. Companies also count album sales toward year-end awards and music show wins, so buying in bulk is partly a fan's way of "voting" with their wallet. This is also why you will sometimes see Korean news coverage about "sajaegi" (음반 사재기) controversies — accusations that an agency or fan group is buying back its own albums in bulk to fake chart rankings. It is a real, ongoing tension in the industry that most Spotify-driven global rankings never touch.
+
+**Fan trucks and demonstration gifts are a uniquely Korean flex.** Sending a coffee truck, a rice wreath, or an LED billboard ad near an idol's agency to celebrate a birthday or comeback is a specifically Korean fan tradition, one that has spread a little internationally but is still concentrated here. It comes from a culture of showing support publicly and visibly, almost like a small parade, rather than only online.
+
+**Music show wins matter more here than almost anywhere else.** Global fans mostly track Billboard and Spotify. Domestic Korean fans track something Western media barely covers: weekly wins on shows like *Music Bank*, *M Countdown*, and *Inkigayo*. Winning one of these is a mix of digital points, album sales, social media votes, and broadcast points, and it is treated as a genuine milestone worth celebrating, screenshotting, and reposting for days.
+
+**Sasaeng culture is a real, and darker, part of the conversation.** "Sasaeng" fans, an extreme minority who stalk idols' flights, homes, or cars, are a serious safety issue that Korean agencies and fans openly discuss and condemn. It rarely comes up in international fan spaces, but it shapes real decisions — flight schedules kept private, extra security, idols avoiding certain routines. Healthy fandom in Korea includes an active, vocal pushback against this behavior from fans themselves.
+
+None of this makes one style of fandom "better." It just means a Spotify chart and a Korean entertainment news cycle are often telling two different stories about the same group, on the same day.
 
 ## 🔗 Read More
 

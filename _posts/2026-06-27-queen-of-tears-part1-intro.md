@@ -24,9 +24,9 @@ featured: true
 | Channel | tvN · Netflix (international) · TVING (Korea) |
 | Episodes | 16 |
 | Final episode rating | **24.850%** — all-time tvN record (nationwide average) |
-| Netflix hours watched | **682,600,000 hours** (total cumulative) |
-| Netflix views | **29 million views** |
-| Netflix ranking | Most-watched Korean drama of all time on Netflix |
+| Netflix hours watched | **689,500,000 hours** (Netflix's official "What We Watched: First Half of 2024" report) |
+| Netflix views | **29 million+ views** |
+| Netflix ranking | Netflix's most-watched Asian series of the first half of 2024 |
 | Writer | Park Ji-eun (same writer as Crash Landing on You) |
 | Directors | Kim Hee-won (Vincenzo) · Jang Young-woo |
 
@@ -126,7 +126,7 @@ Can two people who forgot how to love each other find their way back?
 | Category | Record |
 |----------|--------|
 | tvN peak rating | **24.850%** final episode — all-time tvN drama record |
-| Netflix | Most-watched Korean drama of all time — 682.6M hours, 29M views |
+| Netflix | Most-watched Asian series of H1 2024 — 689.5M hours, 29M+ views (Netflix Engagement Report) |
 | 2024 Baeksang Arts Awards | Kim Soo-hyun nominated for Best Actor · won Popularity Award |
 | 2024 Seoul International Drama Awards | Outstanding Korean Drama |
 | 2024 Asian Academy Creative Awards | Best Direction — Kim Hee-won & Jang Young-woo |

@@ -41,6 +41,8 @@ At this week's press conference, Lee Know, the oldest Korean member of the group
 
 No official enlistment dates have been confirmed for any member as of this post. We will update this series if that changes.
 
+For fans outside Korea, it is worth understanding why this question gets asked so seriously here, rather than as idle speculation. Mandatory service is not a controversial policy in Korea, it is treated as a shared civic duty that touches nearly every family, and idols who fulfill it without complaint or special treatment tend to earn real respect for it domestically, sometimes more than for any chart record. Groups that have navigated staggered enlistments before, like BTS, have shown that a well-managed hiatus does not have to mean the end of a group. It is a pause Korean fans generally understand and plan for, even when it is not something international fans are used to seeing from other pop acts.
+
 ---
 
 ## The Full Record Book
