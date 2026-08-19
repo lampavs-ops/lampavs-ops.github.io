@@ -215,6 +215,16 @@ The answer was: *this.*
 
 ---
 
+## 🇰🇷 Why "Perfect All-Kill" Is Such a Big Deal
+
+This post mentions Perfect All-Kills (PAKs) several times, and it's a very Korea-specific concept worth unpacking.
+
+Korean music charts aren't one chart — there are several real-time and daily digital charts run by different platforms (Melon, Genie, Bugs, and others), plus separate weekly charts like Circle's. A "Perfect All-Kill" means a song is simultaneously sitting at #1 on every major real-time chart *and* the daily chart *and* is leading the weekly chart all at once — a level of total, simultaneous market saturation that's genuinely hard to achieve, since it requires a song to be the top choice of essentially every kind of Korean listener (casual streamers, dedicated fans doing organized streaming, and general chart browsers) at the exact same moment.
+
+Korean music fans and journalists track PAKs almost like a separate statistic from chart peaks or sales — a song can top the Circle Digital Chart without ever achieving a PAK, and a PAK is treated as proof of genuine, inarguable mainstream dominance rather than just fandom-driven chart success. IVE racking up six of them across different eras is part of why Korean industry coverage treats them as a genuinely dominant act, not just a hit-making one.
+
+---
+
 ## 🔗 Continue the Story
 
 - 👉 **[Part 1 — I Have Everything: The Origin Story](/posts/ive-part1-origin/)** — The casting stories and debut

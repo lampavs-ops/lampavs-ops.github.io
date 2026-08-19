@@ -231,6 +231,14 @@ By measures including YouTube subscribers, global touring revenue, and streaming
 
 ---
 
+## 🇰🇷 Why the Luxury Brand Deals Are a Bigger Deal in Korea Than They Sound
+
+To an international reader, "Jennie is a Chanel ambassador" reads as a nice fashion headline. In Korea, luxury-brand ambassadorships like these carry an additional layer of status signaling — being chosen by a house like Chanel, Dior, or Saint Laurent is widely covered by Korean media as a marker of having reached a tier of global recognition that even a #1 album doesn't fully convey on its own, since it means being judged and selected by an industry outside music entirely.
+
+That's part of why Rosé being Saint Laurent's first global ambassador in 59 years, or Lisa's simultaneous deals with Celine, Bulgari, and Louis Vuitton, get treated in Korean entertainment coverage as their own category of achievement — sitting alongside chart records rather than beneath them. It also connects to the same soft-power framing that shows up around BTS: each member's fashion-week presence functions, in Korean media coverage, as Korea's cultural reach being recognized by industries that have historically had very little room for Asian representation at that level.
+
+---
+
 ## 🔗 Complete the Series
 
 - 👉 **[Part 1 — Four Strangers, One Dream](/posts/blackpink-part1-origin/)** — How four girls found their way to the same practice room

@@ -165,6 +165,14 @@ The good news: Season 1 resolves its central storyline and works as a largely se
 
 ---
 
+## 🇰🇷 Why a Show About Autism Hit This Hard in Korea Specifically
+
+The show's cultural impact inside Korea is tied to something the international rollout doesn't fully carry over: Korea's workplace culture has historically offered limited accommodation or visibility for neurodivergent employees, and public conversation about hiring practices for disabled workers was, at the time this aired, still relatively underdeveloped compared to some other countries. A prime-time hit built around an autistic protagonist succeeding — messily, imperfectly, but genuinely — at one of Korea's most prestige-obsessed professions (top-tier corporate law) put a spotlight directly on a conversation Korean disability advocates had been trying to elevate for years.
+
+That's also why the criticism from groups like the Autism Society of Korea (mentioned above) carried real weight domestically — it wasn't a niche complaint, it was part of a national conversation the show itself had helped restart. Woo Young-woo becoming a genuine pop-culture phenomenon, whale motif and all, meant that conversation reached dinner tables that a policy debate alone never would have.
+
+---
+
 ## Editor's Note
 
 > *A personal note from the Editor.*

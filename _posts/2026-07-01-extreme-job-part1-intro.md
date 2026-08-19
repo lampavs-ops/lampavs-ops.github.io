@@ -124,6 +124,14 @@ If you have ever enjoyed a comedy where things keep getting worse in the most lo
 
 ---
 
+## 🇰🇷 The Korean Comedy Instinct: 감초 배우 (The "Seasoning Actor")
+
+There's a Korean phrase worth knowing if you want to understand why *Extreme Job*'s ensemble works so well: **감초 배우** (*gamcho baeu*), literally "licorice-root actor" — the term for a supporting performer whose job is to season a scene, the way a small but essential ingredient rounds out a dish. Korean cinema and TV have an entire tier of beloved character actors built around this role, and *Extreme Job* is essentially a whole movie constructed as five *gamcho* performances working together with no single "main dish" star carrying it alone.
+
+That's a different comedic structure than the single-lead comedy format common in a lot of Hollywood films. Korean audiences are primed to expect an ensemble where the captain, the muay thai detective, the secret cooking genius, and the two rookies each get their moment — and the laughs come from the friction between five fully-realized personalities, not from one star's punchlines. If the humor felt unusually democratic and character-driven compared to other comedies you've seen, that's not an accident — it's a well-worn Korean comedic tradition doing exactly what it's built to do.
+
+---
+
 ## 👉 Continue Reading
 
 - [**Part 2 — Deep Dive: The Funny Scenes, The Ending, What It All Means →**]({{ site.baseurl }}/posts/extreme-job-part2-deep-dive/)

@@ -269,6 +269,20 @@ ENGENE skews young — a lot of 4th-generation K-Pop fans found ENHYPEN as their
 
 ---
 
+## 🇰🇷 What Korean Fans Actually Argue About
+
+Streaming numbers are one story. What Korean fandom communities argue about internally is a different, more interesting one.
+
+**Military service is the single biggest fandom conversation in Korea, full stop.** Every able-bodied Korean man must serve roughly 18–21 months, usually before age 30, and idols are not exempt. ARMY's steady 24.9M listeners *during* BTS's enlistment period isn't just international loyalty — inside Korea, there's genuine cultural respect for artists who serve on schedule rather than seeking exemptions, and it's a recurring news topic every time a member's enlistment date approaches. Overseas fans sometimes see it as an inconvenient pause in content; Korean fans generally see it as simply part of being Korean.
+
+**"Self-producing" is a real status marker, not just marketing.** When this post calls out Stray Kids' 3RACHA or SEVENTEEN's in-house writing units, that distinction carries real weight in Korean fan discourse — idols who write and compose their own material are seen as artists first, idols second, and that shapes how seriously Korean music critics and award shows treat them versus a purely vocal-and-dance act.
+
+**Company size shapes fandom identity.** Notice how four of the top five groups above are under HYBE. Inside Korea, there's an ongoing, sometimes heated conversation about whether one label's dominance is good for the industry (economies of scale, global reach) or bad for it (fewer independent voices, homogenized concepts). Fans of smaller-label groups sometimes frame their loyalty explicitly around that underdog dynamic.
+
+**Fan culture has a formal vocabulary.** Terms like "biases" (최애, choe-ae — your favorite member) and "fan chants" (응원법, eung-won-beop — scripted call-and-response chants fans shout during specific song sections, memorized and synchronized across an entire stadium) aren't casual fan slang in Korea — they're a structured part of how a Korean concert crowd participates. If you've ever wondered why a K-Pop stadium crowd sounds so coordinated compared to a Western pop concert, the fan chant is why.
+
+---
+
 ## 🔗 Continue Exploring
 
 - 👉 **[K-Pop Global Fandom TOP 10 — Boy & Girl Group Rankings](/posts/kpop-global-fandom-top10/)** — The full overview with all 20 groups

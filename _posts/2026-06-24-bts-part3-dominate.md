@@ -257,6 +257,16 @@ In 2022, BTS entered the Guinness World Records Hall of Fame after setting 23 re
 
 ---
 
+## 🇰🇷 Reading Korean Coverage of This Era
+
+International press covered BTS's Billboard and Grammy run mostly as a music story. Korean coverage of the same milestones often carried an extra frame: soft power, and what BTS's success said about Korea on the world stage.
+
+That framing shows up in small but telling details — the Hyundai Research Institute study cited above wasn't commissioned by BTS's label, it was a national economic research institute modeling BTS's effect on tourism and Korea's broader brand image, the kind of analysis usually reserved for a country's chaebol conglomerates or major exports, not a pop group. Likewise, the Special Presidential Envoy appointment in 2021 wasn't a ceremonial gesture — it gave BTS an official government role at the UN, something Korean media covered as diplomacy first, celebrity news second.
+
+That's also the lens through which the Gwanghwamun Square comeback concert makes sense as a choice of venue. Gwanghwamun sits at the symbolic center of Seoul, in front of Gyeongbok Palace — not a stadium built for concerts, but the square Koreans associate with national moments and civic gatherings. Choosing it for a free, open-to-the-public return concert was itself a statement: this wasn't just a comeback show, it was staged as a moment for the country to share.
+
+---
+
 ## 🔗 Complete the Series
 
 - 👉 **[Part 1 — Seven Strangers, One Stage](/posts/bts-part1-origin/)** — How seven boys found their way to the same practice room

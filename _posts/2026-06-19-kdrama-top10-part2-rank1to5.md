@@ -1,18 +1,18 @@
 ---
-title: "Top K-Dramas #1 to #5 — The Dramas That Broke Netflix Records"
+title: "Five K-Dramas That Broke Real Netflix Records"
 date: 2026-06-19 10:00:00 +0900
 categories: [K-Drama]
 tags: [k-drama, netflix, squid-game, queen-of-tears, all-of-us-are-dead, the-glory, extraordinary-attorney-woo, most-watched]
-description: "Deep dive into the top 5 most-watched K-dramas ever on Netflix — Squid Game, Queen of Tears, All of Us Are Dead, The Glory, and Extraordinary Attorney Woo."
+description: "Squid Game, Queen of Tears, All of Us Are Dead, The Glory, and Extraordinary Attorney Woo, five K-dramas that each broke a real, Netflix-confirmed viewing record."
 image:
   path: /assets/img/posts/kdrama-top5-cover.jpg
-  alt: "Top 5 Most Watched K-Dramas — Deep Dive"
+  alt: "K-Dramas that broke real Netflix records"
 featured: false
 ---
 
-> 👈 **This is Part 2 of a 3-part series.**
-> - [**Part 1 — Full Top 10 Rankings →**]({{ site.baseurl }}/posts/kdrama-top10-part1-rankings/)
-> - [**Part 3 — #6 to #10 Deep Dive →**]({{ site.baseurl }}/posts/kdrama-top10-part3-rank6to10/)
+> 👈 **This is Part 2 of a 3-part series.** As explained in [Part 1]({{ site.baseurl }}/posts/kdrama-top10-part1-rankings/), we no longer rank these against each other by hours, Netflix measures different shows over different, non-comparable windows. These five are ordered by release date.
+> - [**Part 1 — Why we stopped ranking, and the full methodology →**]({{ site.baseurl }}/posts/kdrama-top10-part1-rankings/)
+> - [**Part 3 — Crash Landing on You, Squid Game S2, Tangerines, My Demon & Vincenzo →**]({{ site.baseurl }}/posts/kdrama-top10-part3-rank6to10/)
 
 These five K-dramas did not just top the charts. They **rewrote the rules** of what global television could be.
 
@@ -22,7 +22,7 @@ Let's meet them properly.
 
 ---
 
-## 🥇 #1 — Squid Game (오징어 게임) Season 1
+## Squid Game (오징어 게임) Season 1
 
 ![Squid Game Season 1](/assets/img/posts/kdrama-squid-game-s1.jpg)
 *Squid Game Season 1 — Netflix (2021)*
@@ -64,7 +64,7 @@ But watching adults play them for their lives — with real desperation, real lo
 
 ---
 
-## 🥈 #2 — Queen of Tears (눈물의 여왕)
+## Queen of Tears (눈물의 여왕)
 
 ![Queen of Tears](/assets/img/posts/kdrama-queen-of-tears.jpg)
 *Queen of Tears — tvN / Netflix (2024)*
@@ -104,7 +104,7 @@ Writer Park Ji-eun also wrote Crash Landing on You. She holds the #1 and former 
 
 ---
 
-## 🥉 #3 — All of Us Are Dead (지금 우리 학교는)
+## All of Us Are Dead (지금 우리 학교는)
 
 ![All of Us Are Dead](/assets/img/posts/kdrama-all-of-us-are-dead.jpg)
 *All of Us Are Dead — Netflix (2022)*
@@ -140,7 +140,7 @@ Teen zombie apocalypse had been done before. But not like this. Korean drama add
 
 ---
 
-## #4 — The Glory (더 글로리)
+## The Glory (더 글로리)
 
 ![The Glory](/assets/img/posts/kdrama-the-glory.jpg)
 *The Glory — Netflix (2022–2023)*
@@ -175,7 +175,7 @@ School bullying is a real crisis in Korea — and audiences felt the truth in ev
 
 ---
 
-## #5 — Extraordinary Attorney Woo (이상한 변호사 우영우)
+## Extraordinary Attorney Woo (이상한 변호사 우영우)
 
 ![Extraordinary Attorney Woo](/assets/img/posts/kdrama-attorney-woo.jpg)
 *Extraordinary Attorney Woo — ENA / Netflix (2022)*
@@ -211,12 +211,22 @@ It is warm. It is clever. It does not talk down to the audience. And Park Eun-bi
 
 ---
 
+## 📺 The Number Korea Actually Watches: TV Ratings, Not Netflix Hours
+
+Every figure in this series is a Netflix number. Inside Korea, though, the number that actually gets debated on morning news and group chats is usually a different one entirely: the **nationwide TV rating**, tracked by Nielsen Korea, the percentage of all Korean households with a TV on that were tuned to a given episode as it aired.
+
+Queen of Tears' 24.9% and Crash Landing on You's 21.7% aren't Netflix figures at all — they're live broadcast ratings from tvN, a cable channel. In Korea, a drama can be a massive domestic hit purely on the strength of its broadcast rating, days before Netflix's global numbers even register. All of Us Are Dead and The Glory, by contrast, were Netflix-only originals with no Korean broadcast rating at all — they built their reputation entirely on the global streaming number instead.
+
+That's part of why this list mixes two different kinds of "hit." Some of these dramas conquered Korea first and the world second. Others skipped Korean broadcast entirely and went straight to a global audience. Both paths count as real phenomena — they just got there differently.
+
+---
+
 ## 👉 Continue Reading
 
-- [**Part 1 — Full Top 10 Rankings Overview →**]({{ site.baseurl }}/posts/kdrama-top10-part1-rankings/)
-- [**Part 3 — #6 to #10: Crash Landing on You, Vincenzo & more →**]({{ site.baseurl }}/posts/kdrama-top10-part3-rank6to10/)
+- [**Part 1 — Why we stopped ranking, and the full methodology →**]({{ site.baseurl }}/posts/kdrama-top10-part1-rankings/)
+- [**Part 3 — Crash Landing on You, Squid Game S2, Tangerines, My Demon & Vincenzo →**]({{ site.baseurl }}/posts/kdrama-top10-part3-rank6to10/)
 - [See all K-Drama posts →]({{ site.baseurl }}/categories/k-drama/)
 
 ---
 
-*Data: Netflix Engagement Reports · What's on Netflix · Netflix Global Top 10.*
+*Sources: Netflix's official "What We Watched" Engagement Reports · Netflix's official Top 10 record announcements · Netflix Global Top 10, accessed August 19, 2026.*

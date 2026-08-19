@@ -246,6 +246,16 @@ That's not something you can design in a practice room. That's something that ha
 
 ---
 
+## 🇰🇷 What "Center" Means in Korean Idol Culture
+
+Wonyoung is frequently described in fan and press coverage as IVE's "center," and that word carries more structural weight in K-pop than it might suggest to an outside reader.
+
+In most K-pop groups, the "center" (센터) isn't an honorary title — it's a functional performance role, decided deliberately by the company during formation. The center is positioned literally in the middle of the group during choreography formations, gets disproportionate camera time in music videos, and is often chosen specifically for having the strongest combination of visual presence and stage command among the members. Being named center at debut is effectively the company signaling, before a single song is released, who the group's visual anchor is going to be.
+
+That's different from being the "leader" (a separate role, usually about representing the group in interviews and managing internal group dynamics — Yujin holds that title in IVE) or the "main vocalist." A group can have all three roles held by different people. Understanding that "center" is a specific, deliberately assigned function — not just a fan nickname for whoever's most popular — explains why Wonyoung's position in IVE's formations was treated as a meaningful company decision from day one, not something that emerged organically after debut.
+
+---
+
 ## 🔗 Complete the Series
 
 - 👉 **[Part 1 — I Have Everything: The Origin Story](/posts/ive-part1-origin/)** — How six members found each other

@@ -246,6 +246,18 @@ Stairs going up, stairs going down. The smell that can't be washed away. The rai
 
 ---
 
+## 🇰🇷 Two Films, Two Very Different Korean Reactions
+
+*Exhuma* and *Parasite* both traveled internationally, but they landed very differently back home, and that gap is worth knowing about.
+
+*Exhuma* leans on *musok* (무속, Korean shamanism) — a belief system with real, living practitioners in Korea today, not a folklore relic. For Korean audiences, the film's rituals felt uncomfortably plausible rather than purely fictional, which is part of why word-of-mouth pushed it from a quiet opening to a genuine phenomenon. International viewers, without that cultural referent, tended to describe the same scenes as simply "unfamiliar and effective" horror — a real film, just processed as a different kind of unfamiliar.
+
+*Parasite*'s reception split along a different line. Abroad, the class commentary read as universal — critics in the US, France, and Japan all wrote about recognizing their own societies in it. Inside Korea, alongside that same reading, there was an additional layer of very specific recognition: the semi-basement housing, the SKY-university admissions pressure, and the tutoring economy are all things many Korean viewers had direct, lived experience with, not just a message they agreed with intellectually.
+
+Neither reaction is "more correct" than the other. But it's a good reminder that a film's global box office and critical reception don't always tell you how differently a story is actually being felt, depending on where you're sitting in the theater.
+
+---
+
 ## 🔗 Complete the Series
 
 - 👉 **[K-Movie TOP 10 Overview](/posts/korean-movies-top10-overview/)** — All 10 films at a glance, no history required

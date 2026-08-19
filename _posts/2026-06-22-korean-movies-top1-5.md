@@ -243,6 +243,16 @@ Chaebol abuse of power (*Veteran*). Government failure (*The Host*). Guilt and f
 
 ---
 
+## 🇰🇷 The Korean Habit That Makes These Numbers Possible: 입소문 and N차 관람
+
+Two pieces of Korean moviegoing culture explain how films like these reach 13–16 million admissions in a country of 51 million.
+
+The first is **입소문** (*ipsomun*, literally "mouth-rumor," Korea's word for word-of-mouth). Korean audiences are famously willing to let a film's opening-weekend numbers be modest if the buzz afterward is strong — *Veteran* and *Extreme Job* both built their biggest weeks *after* release, once ipsomun kicked in, rather than front-loading everything into an opening weekend the way many Hollywood blockbusters are designed to.
+
+The second is **N차 관람** (*N-cha gwallam*, "N-th time viewing") — the practice of watching a film in theaters multiple times, often specifically to catch details missed the first time. It's common enough that Korean multiplex chains like CGV and Megabox run loyalty programs and limited-edition ticket designs aimed squarely at repeat viewers. A film that rewards a second or third watch, the way *The Thieves*' layered twists do, taps directly into this habit — and every repeat ticket counts toward the same 10-million tally as a first-time viewer's.
+
+---
+
 ## 🔗 Continue the Series
 
 - 👉 **[K-Movie TOP 10 Overview](/posts/korean-movies-top10-overview/)** — The full genre-only rankings at a glance

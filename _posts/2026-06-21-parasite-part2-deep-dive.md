@@ -178,10 +178,47 @@ Bong Joon-ho has described the film as a kind of tragedy without a clear villain
 
 ---
 
+---
+
+## 🎬 Meet the Director & Cast
+
+### Bong Joon-ho (봉준호) — Director
+
+Bong Joon-ho is the most singular director in Korean cinema. He does not belong to one genre — a monster movie is actually about family, a murder mystery is really about Korean modern history, a black comedy becomes a war between the classes. He studied sociology at Yonsei University, and that background shows up in every film: there's always a hidden question underneath about why society works the way it does.
+
+At the Oscars, accepting Best Director, he paraphrased a line he says he carved into his heart as a young film student: "The most personal is the most creative," crediting the idea to Martin Scorsese, who was seated in the audience.
+
+| | |
+|--|--|
+| **Full Name** | 봉준호 (Bong Joon-ho) |
+| **Born** | September 14, 1969 |
+| **Education** | Yonsei University — Sociology |
+| **Key films** | Memories of Murder (2003) · The Host (2006) · Snowpiercer (2013) · Okja (2017) · **Parasite (2019)** · Mickey 17 (2025) |
+
+> 💡 **Fun fact:** In his early twenties, Bong Joon-ho worked as a private tutor for a wealthy family's child — the seed that grew into Parasite, where Ki-woo also enters the Park household as a tutor.
+
+### The Cast
+
+**Song Kang-ho (송강호) — Ki-taek.** The living legend of Korean cinema, and Bong's most frequent collaborator across four features. Ki-taek is not a simple villain — he's a human being audiences understand, which is exactly what makes the ending hit so hard. Song won **Best Actor at Cannes** in 2022 for *Broker*.
+
+**Choi Woo-shik (최우식) — Ki-woo.** Everything in the story flows from Ki-woo's first decision, so his performance sets the tone for the whole film. Raised partly in Vancouver and fluent in English, which adds credibility to his role as an English tutor.
+
+**Park So-dam (박소담) — Ki-jung.** Smart, bold, and dangerous. In 2021 she was diagnosed with papillary thyroid cancer and stepped back from public activities during recovery, returning to public appearances in late 2022 and making a more visible return to acting with *Phantom* (2023).
+
+**Lee Sun-kyun (이선균) — Mr. Park.** Not written as a villain, just a wealthy man who has always lived inside the walls of his class — that ordinariness is what makes him frightening. He died in December 2023 during a highly publicized police investigation; *Parasite* remains his most internationally recognized performance.
+
+**Jo Yeo-jeong (조여정) — Yeon-kyo.** Kind, or performing kindness, or genuinely naive — the ambiguity is the point. Her kindness becomes a tool of the class system without her ever meaning it to. She won the **Blue Dragon Film Award for Best Actress** for this role.
+
+> 💡 **Why the ensemble worked:** No single actor dominates. Song Kang-ho holds the center, Choi Woo-shik drives the story forward, Park So-dam adds danger, and Lee Sun-kyun and Jo Yeo-jeong create the contrast that makes the class divide visible on screen.
+
+👉 Want the full profiles, filmographies, and where-are-they-now details? See the [**Parasite Cast & Creators Quick Reference →**]({{ site.baseurl }}/posts/parasite-part3-director-cast/).
+
+---
+
 ## 👉 Continue Reading
 
 - [**Part 1 — Spoiler-Free Introduction →**]({{ site.baseurl }}/posts/parasite-part1-intro/)
-- [**Part 3 — Director Bong Joon-ho & Cast →**]({{ site.baseurl }}/posts/parasite-part3-director-cast/)
+- [**Full Cast & Creators Quick Reference →**]({{ site.baseurl }}/posts/parasite-part3-director-cast/)
 - [Extreme Job Deep Dive →]({{ site.baseurl }}/posts/extreme-job-part2-deep-dive/)
 - [See all K-Movie posts →]({{ site.baseurl }}/categories/k-movie/)
 

@@ -162,10 +162,49 @@ He has also said that the red dye Gi-hun puts in his hair at the end symbolizes 
 
 ---
 
+---
+
+## 🎬 Meet the Director & Cast
+
+### Hwang Dong-hyuk (황동혁) — Director
+
+Hwang Dong-hyuk first wrote the Squid Game script in **2009**, while genuinely broke — he couldn't even afford to rent comic books from a manga café. Everyone he pitched it to said no ("too weird," "not commercial"), and the script sat in a drawer for 12 years until Netflix said yes. It became the most-watched piece of television content in human history.
+
+The stress of writing and directing every episode himself was so extreme he reported losing several teeth during production. He's also been candid about money: paid a flat production fee rather than a share of Squid Game's profits, he initially said he wouldn't make a Season 2 — then made one anyway, explaining plainly, "to earn money."
+
+| | |
+|--|--|
+| **Full Name** | 황동혁 (Hwang Dong-hyuk) |
+| **Born** | May 26, 1971 |
+| **Script written** | 2009 · Netflix release: 2021 |
+| **Emmy** | Outstanding Director |
+
+> 💡 **Fun fact:** His earlier film *Silenced* (2011), based on a real school abuse case, led South Korea's National Assembly to pass the "Dogani Law" strengthening protections for people with disabilities. A movie changed the law.
+
+### The Cast
+
+**Lee Jung-jae (이정재) — Seong Gi-hun.** A top Korean star since the 1990s, playing a messy, gambling-addicted, genuinely warm man who fails at almost everything. In 2022, he became the **first Asian actor to win Outstanding Lead Actor at the Emmy Awards**.
+
+**Park Hae-soo (박해수) — Cho Sang-woo.** A Seoul National University graduate hiding from the law after embezzling client funds. Stage-trained, and it shows in how deliberately he plays Sang-woo's slow moral collapse.
+
+**Jung Ho-yeon (정호연) — Kang Sae-byeok.** A fashion model with zero acting credits before this show — cast after sending in a self-tape audition from New York. Her Instagram following went from roughly 400,000 to more than 20 million in the weeks after the show aired; she later won a SAG Award and became a Louis Vuitton global ambassador.
+
+**Oh Yeong-su (오영수) — Oh Il-nam.** A Korean theater legend with over 50 years on stage. In 2022, at age 77, he became the **first Korean actor ever to win a Golden Globe** (Best Supporting Actor, TV Series).
+
+**Heo Sung-tae (허성태) — Jang Deok-su.** Plays a terrifying gang boss; off-screen, known for the opposite — a warm, funny personality that surprised viewers in post-show interviews.
+
+**Anupam Tripathi — Ali Abdul.** Actually from New Delhi, India, not Pakistan like his character. He moved to South Korea in 2010 to study acting at the Korea National University of Arts and had already built a decade-long Korean acting career before this role.
+
+> 💡 **Why the ensemble worked:** Squid Game isn't built around one star — it's built around six people whose desperation each represents something different: personal failure, ambition gone wrong, systemic exclusion, exploitation of the vulnerable, and what happens at the very top of the system.
+
+👉 Want the full profiles, filmographies, and where-are-they-now details? See the [**Squid Game S1 Cast & Creators Quick Reference →**]({{ site.baseurl }}/posts/squid-game-s1-part3-director-cast/).
+
+---
+
 ## 👉 Continue Reading
 
 - [**Part 1 — Spoiler-Free Introduction →**]({{ site.baseurl }}/posts/squid-game-s1-part1-intro/)
-- [**Part 3 — Director Hwang Dong-hyuk & Cast →**]({{ site.baseurl }}/posts/squid-game-s1-part3-director-cast/)
+- [**Full Cast & Creators Quick Reference →**]({{ site.baseurl }}/posts/squid-game-s1-part3-director-cast/)
 - [Parasite Deep Dive — Symbolism & Ending →]({{ site.baseurl }}/posts/parasite-part2-deep-dive/)
 - [Most Watched K-Dramas of All Time →]({{ site.baseurl }}/posts/kdrama-top10-part1-rankings/)
 - [See all K-Drama posts →]({{ site.baseurl }}/categories/k-drama/)

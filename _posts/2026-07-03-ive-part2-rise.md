@@ -227,6 +227,16 @@ That question had a very good answer.
 
 ---
 
+## 🇰🇷 What a "Daesang" Actually Means
+
+This post uses the word "Daesang" a lot, and it's worth being precise about what it means, because English coverage sometimes flattens it down to just "big award."
+
+**대상 (Daesang)** literally means "grand prize." At Korean year-end music ceremonies, every ceremony hands out dozens of category awards throughout the night — best this, favorite that — but the Daesang categories (usually Song of the Year and Album/Artist of the Year) sit in a completely different tier. They're typically announced last, often as the ceremony's closing moment, and winning one is treated by the Korean music industry as a career-defining marker, not just one trophy among many. A group can win ten smaller awards in a year and still be described in Korean coverage as having "not won a Daesang yet" — the distinction matters that much.
+
+That's why IVE reaching a Daesang 360 days after debut is framed above as a statement rather than just an achievement: it's the difference between being a well-liked rookie act and being formally recognized, by the industry's own highest internal measure, as one of the year's defining artists.
+
+---
+
 ## 🔗 Continue the Story
 
 - 👉 **[Part 1 — I Have Everything: The Origin Story](/posts/ive-part1-origin/)** — How six members found their way to Starship

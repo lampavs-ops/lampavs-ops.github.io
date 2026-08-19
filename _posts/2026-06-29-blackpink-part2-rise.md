@@ -177,6 +177,14 @@ Training periods ranged from about four years (Rosé) to nearly six (Jennie). By
 
 ---
 
+## 🇰🇷 The "More Famous Abroad" Conversation
+
+Here's a nuance that doesn't show up in the chart numbers above: inside Korea, there's a long-running conversation about BLACKPINK being, in some ways, more visible internationally than they are dominant on Korea's own domestic charts and weekly music shows compared to some of their labelmates and peers. Korean entertainment commentary sometimes uses the term "글로벌돌" (roughly, "global idol") to describe this pattern — a group whose commercial center of gravity sits outside Korea, in contrast with acts whose fame is built primarily through domestic broadcast and music-show wins first.
+
+This isn't a criticism, and it isn't really controversial — it's simply an accurate description of how BLACKPINK's career actually developed, driven by YouTube, Western festival slots, and international collaborations from very early on. But it's worth knowing this conversation exists, because it explains why Korean coverage of BLACKPINK sometimes reads a little differently than international coverage: the story being told at home is partly about how enormous they've become somewhere else.
+
+---
+
 ## 🔗 Continue the Story
 
 - 👉 **[Part 1 — Four Strangers, One Dream](/posts/blackpink-part1-origin/)** — The casting stories and the debut

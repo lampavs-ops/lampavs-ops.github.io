@@ -123,9 +123,27 @@ The hackberry tree case is the show's best hour, and the Soo-mi reveal is the be
 
 ---
 
+## Meet the Director, Writer & Cast
+
+**Yoo In-shik — Director.** Directing Korean television since the early 2000s, with credits including *Giant*, *Vagabond*, and all three seasons of *Dr. Romantic* before this show. He's said the biggest challenge was tone — finding the line between humor and mockery. The whale motif wasn't in the original script; he added it himself, specifically so it would be something only Young-woo and the audience could see.
+
+**Moon Ji-won — Writer.** Created Woo Young-woo after writing *Innocent Witness*, a courtroom drama about an autistic teenage witness that won the Grand Prize at the 2016 Lotte Scenario Contest. At the press conference, she described "strange" (이상한) as unusual, unfamiliar people who sometimes make others uneasy but also push the world forward.
+
+**Park Eun-bin — Woo Young-woo.** Won the Television Grand Prize at the 59th Baeksang Arts Awards for this role. She deliberately avoided watching footage of real autistic people or prior autistic characters on screen, calling it an ethical line she didn't want to cross, and built Young-woo from the script and clinical diagnostic criteria instead.
+
+**Kang Tae-oh — Lee Jun-ho.** Young-woo's steady, patient boyfriend and Hanbada colleague; this role significantly widened his audience across Southeast Asia.
+
+**Kang Ki-young — Jung Myung-seok.** Young-woo's gruff, big-hearted mentor, nicknamed her "sub-dad" by fans. The role turned him into a lead actor, headlining JTBC's *Queen of Divorce* in 2024 after fifteen years of supporting work.
+
+**Jin Kyung — Tae Soo-mi.** Plays Young-woo's biological mother with real range — ambitious and cold in the courtroom, quietly devastated the moment her daughter's identity becomes real to her.
+
+👉 Want the full cast list, including Ha Yoon-kyung, Joo Jong-hyuk, Joo Hyun-young, Jeon Bae-soo, and Baek Ji-won, with official social links? See the [**Full Cast & Creators Quick Reference →**](/posts/extraordinary-attorney-woo-part3/).
+
+---
+
 ## Coming Up in This Series
 
-- **Part 3 — Cast & Creators:** Yoo In-shik, Moon Ji-won, and the actors, with official SNS links. → *[Read Part 3](/posts/extraordinary-attorney-woo-part3/)*
+- **Full Cast & Creators Quick Reference:** the complete cast list with official SNS links. → *[Read it here](/posts/extraordinary-attorney-woo-part3/)*
 
 **Catch up:**
 - **Part 1 — Spoiler-Free Intro:** → *[Read Part 1](/posts/extraordinary-attorney-woo-part1/)*

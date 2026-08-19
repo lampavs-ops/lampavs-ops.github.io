@@ -1,28 +1,28 @@
 ---
-title: "Top K-Dramas #6 to #10 — Hidden Gems That Conquered the World"
+title: "Five More K-Dramas That Became Global Netflix Phenomena"
 date: 2026-06-19 11:00:00 +0900
 categories: [K-Drama]
 tags: [k-drama, netflix, crash-landing-on-you, squid-game-s2, when-life-gives-you-tangerines, my-demon, vincenzo, most-watched]
-description: "Deep dive into K-drama ranks #6 to #10 — Crash Landing on You, Squid Game S2, When Life Gives You Tangerines, My Demon, and Vincenzo."
+description: "Crash Landing on You, Squid Game S2, When Life Gives You Tangerines, My Demon, and Vincenzo, five more K-dramas that broke real Netflix records, each on its own terms."
 image:
   path: /assets/img/posts/kdrama-top10-part3-cover.jpg
-  alt: "K-Dramas #6 to #10 — Global Hits"
+  alt: "K-Dramas that became global Netflix phenomena, part 3"
 featured: false
 ---
 
-> 👈 **This is Part 3 of a 3-part series.**
-> - [**Part 1 — Full Top 10 Rankings →**]({{ site.baseurl }}/posts/kdrama-top10-part1-rankings/)
-> - [**Part 2 — #1 to #5 Deep Dive →**]({{ site.baseurl }}/posts/kdrama-top10-part2-rank1to5/)
+> 👈 **This is Part 3 of a 3-part series.** As explained in [Part 1]({{ site.baseurl }}/posts/kdrama-top10-part1-rankings/), we no longer rank these against each other by hours, Netflix measures different shows over different, non-comparable windows. These five are ordered by release date.
+> - [**Part 1 — Why we stopped ranking, and the full methodology →**]({{ site.baseurl }}/posts/kdrama-top10-part1-rankings/)
+> - [**Part 2 — Squid Game, Queen of Tears, All of Us Are Dead, The Glory & Attorney Woo →**]({{ site.baseurl }}/posts/kdrama-top10-part2-rank1to5/)
 
-Ranks #6 through #10 are not leftovers. Every drama on this list is a cultural landmark.
+None of these five are leftovers. Every drama here is a cultural landmark in its own right.
 
-The love story that started the global wave. The sequel the world waited 3 years for. The family drama that made everyone cry in 2025. The demon who fell in love. The mafia lawyer who made crime look cool.
+The love story that started the global wave. The sequel the world waited three years for. The family drama that made everyone cry in 2025. The demon who fell in love. The mafia lawyer who made crime look cool.
 
 Let's meet them.
 
 ---
 
-## #6 — Crash Landing on You (사랑의 불시착)
+## Crash Landing on You (사랑의 불시착)
 
 ![Crash Landing on You](/assets/img/posts/kdrama-crash-landing.jpg)
 *Crash Landing on You — tvN / Netflix (2019–2020)*
@@ -64,14 +64,14 @@ It also came out at exactly the right moment — early 2020, just before COVID l
 
 ---
 
-## #7 — Squid Game Season 2 (오징어 게임 시즌 2)
+## Squid Game Season 2 (오징어 게임 시즌 2)
 
 ![Squid Game Season 2](/assets/img/posts/kdrama-squid-game-s2.jpg)
 *Squid Game Season 2 — Netflix (2024)*
 
 > 🎬 [**▶ Watch 'Squid Game Season 2' Official Trailer on YouTube**](https://www.youtube.com/results?search_query=Squid+Game+Season+2+Official+Trailer+Netflix)
 
-### 📊 619,000,000 hours watched (peak run, early 2025)
+### 📊 619,000,000 hours in its first 14 weeks — 1.38B+ hours all-time
 
 The world waited three years. On December 26, 2024 — Gi-hun came back.
 
@@ -90,7 +90,7 @@ Season 3 dropped in mid-2025 — bringing the trilogy to a close.
 | **Genre** | Survival Thriller |
 | **Director** | Hwang Dong-hyuk |
 | **Cast** | Lee Jung-jae, Wi Ha-jun, Im Si-wan, Kang Ha-neul |
-| **Netflix Hours** | **619,000,000 hrs** (14-week top 10 run) |
+| **Netflix Hours** | 619,000,000 hrs in its first 14 weeks · **1,380,100,000 hrs** current all-time total (Netflix's 91-day subscriber-hours tracking, as of Aug 2026) |
 | **Weeks in Top 10** | 14 weeks globally |
 | **Season 3** | Released mid-2025 |
 
@@ -102,7 +102,7 @@ The anticipation alone was enormous. Three years of theories, memes, and rewatch
 
 ---
 
-## #8 — When Life Gives You Tangerines (폭싹 속았수다)
+## When Life Gives You Tangerines (폭싹 속았수다)
 
 ![When Life Gives You Tangerines](/assets/img/posts/kdrama-tangerines.jpg)
 *When Life Gives You Tangerines — Netflix (2025)*
@@ -138,7 +138,7 @@ IU has always been beloved in Korea — as a singer and actress. But this role g
 
 ---
 
-## #9 — My Demon (마이 데몬)
+## My Demon (마이 데몬)
 
 ![My Demon](/assets/img/posts/kdrama-my-demon.jpg)
 *My Demon — SBS / Netflix (2023)*
@@ -173,7 +173,7 @@ Sometimes people just want to feel good. My Demon delivered warmth, humor, and a
 
 ---
 
-## #10 — Vincenzo (빈센조)
+## Vincenzo (빈센조)
 
 ![Vincenzo](/assets/img/posts/kdrama-vincenzo.jpg)
 *Vincenzo — tvN / Netflix (2021)*
@@ -204,28 +204,36 @@ So he fights back. With style. With violence. With an entire building of ridicul
 
 Vincenzo is funny when it should be tense, and devastating when you least expect it. It trusts the audience to keep up. And it gave Song Joong-ki his best role since Descendants of the Sun — one that reminded everyone why he became a star in the first place.
 
-> 💡 **Fun fact:** Director Kim Hee-won also directed Queen of Tears (#2 on this entire list) — making him the only director with two dramas in the all-time Netflix K-drama top 10.
+> 💡 **Fun fact:** Director Kim Hee-won also directed Queen of Tears, making him one of the few directors with two dramas among Netflix's biggest K-drama phenomena.
 
 ---
 
 ## 📊 Part 3 — By the Numbers
 
-| Drama | Peak Viewers | Standout Fact |
-|-------|-------------|---------------|
-| Crash Landing on You | ~370M hrs | Held tvN #1 for 5 years |
-| Squid Game S2 | 619M hrs | 14 weeks in global top 10 |
-| When Life Gives You Tangerines | 481M hrs | Biggest K-drama of 2025 |
-| My Demon | ~180M hrs | Top 10 in 40+ countries |
-| Vincenzo | ~150M hrs | Forbes #4 Korean series 2021 |
+| Drama | Netflix Hours | Measured | Standout Fact |
+|-------|---------------|----------|----------------|
+| Crash Landing on You | ~370M hrs | Estimate, pre-2021 data period | Held tvN #1 rating for 5 years |
+| Squid Game S2 | 619M hrs / 1.38B+ all-time | First 14 weeks / current all-time tracking | 14 weeks in global top 10 |
+| When Life Gives You Tangerines | 481.6M hrs | 2025, partial-year figure | Biggest new K-drama of 2025 |
+| My Demon | ~180M hrs | Estimate | Top 10 in 40+ countries |
+| Vincenzo | ~150M hrs | Estimate | Forbes #4 Korean series, 2021 |
+
+---
+
+## 🇰🇷 Why Korea Cried Over a Jeju Dialect Title
+
+*When Life Gives You Tangerines'* Korean title, "폭싹 속았수다," is written entirely in Jeju dialect (제주어) — a regional way of speaking that mainland Korean audiences themselves often need subtitles for. That choice was deliberate. The show is set on Jeju Island, and using the island's own dialect for the title, instead of translating it into standard Korean, was the production signaling from the very first frame that this was a story rooted in a specific place and a specific way of life, not a generic period drama.
+
+That's a layer that Netflix's English title, "When Life Gives You Tangerines," can't fully carry — it lands as a warm idiom in English, but it loses the specific weight of a phrase that's really only spoken by Jeju grandmothers describing a hard life, well lived. Knowing that context doesn't change how the ending hits. It just explains why so many Korean viewers said the title alone made them tear up before the story even started.
 
 ---
 
 ## 👉 More in This Series
 
-- [**Part 1 — Full Top 10 Rankings Overview →**]({{ site.baseurl }}/posts/kdrama-top10-part1-rankings/)
-- [**Part 2 — #1 to #5: Squid Game, Queen of Tears & more →**]({{ site.baseurl }}/posts/kdrama-top10-part2-rank1to5/)
+- [**Part 1 — Why we stopped ranking, and the full methodology →**]({{ site.baseurl }}/posts/kdrama-top10-part1-rankings/)
+- [**Part 2 — Squid Game, Queen of Tears, All of Us Are Dead, The Glory & Attorney Woo →**]({{ site.baseurl }}/posts/kdrama-top10-part2-rank1to5/)
 - [See all K-Drama posts →]({{ site.baseurl }}/categories/k-drama/)
 
 ---
 
-*Data: Netflix Engagement Reports · What's on Netflix · Forbes · Netflix Global Top 10.*
+*Sources: Netflix's official "What We Watched" Engagement Reports · Netflix's official Top 10 record announcements · [What's on Netflix's all-time hours tracker](https://www.whats-on-netflix.com/what-to-watch/most-watched-series-movies-of-all-time-hours-watched/) · Forbes, accessed August 19, 2026.*

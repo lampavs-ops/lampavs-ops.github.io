@@ -118,10 +118,38 @@ One way to read Hae-in's arc: her coldness and distance were never the full pict
 
 ---
 
+---
+
+## ✍️ Meet the Writer, Directors & Cast
+
+### Park Ji-eun (박지은) — Writer
+
+Park Ji-eun wrote tvN's two most recent all-time highest-rated dramas back to back — *Crash Landing on You* (2019–2020, 21.7%) and *Queen of Tears* (2024, 24.850%) — breaking her own record. Her dramas tend to place romance behind unusually high barriers: national division, class divides, illness, family conspiracy. In *Queen of Tears*, it's a terminal illness, memory loss, and a family conspiracy decades in the making.
+
+### Directors — Kim Hee-won & Jang Young-woo
+
+Kim Hee-won (*Vincenzo*, *Little Women*) is known for a visually striking style that earned her the nickname "God Hee-won" among Korean viewers. Jang Young-woo (*Crash Landing on You*, the *Sweet Home*/*Bulgasal* line) brought his eye for atmosphere and tension. Together they won **Best Direction (Fiction)** at the 2024 Asian Academy Creative Awards.
+
+### The Cast
+
+**Kim Soo-hyun (김수현) — Baek Hyun-woo.** One of the biggest names in Korean drama for over a decade. The role required him to play a man ready to walk away who becomes a man who won't leave no matter what — all while hiding who he is from someone who has forgotten him.
+
+**Kim Ji-won (김지원) — Hong Hae-in.** Already a respected leading actress through *Fight for My Way*, *Arthdal Chronicles*, and *My Liberation Notes*. Hae-in communicates almost entirely through micro-expressions, and Kim Ji-won's performance became one of the show's most discussed elements.
+
+**Kwak Dong-yeon (곽동연) — Hong Soo-cheol.** The show's biggest surprise — Hae-in's younger brother, constantly failing to be powerful in the most entertaining ways possible. Widely praised as a standout comic presence.
+
+**Park Sung-hoon (박성훈) — Yoon Eun-sung.** A former Wall Street analyst obsessively connected to Hae-in's past. Park drew attention for his intensity playing a bully in *The Glory*, and brings a similarly sharp edge here — though the show gradually complicates any simple read of him as pure villain.
+
+> 💡 **The "Two Kims" chemistry:** This was actually Kim Soo-hyun and Kim Ji-won's first time appearing together on screen — Kim Soo-hyun had worked with writer Park Ji-eun before, but on *My Love from the Star*, opposite Jun Ji-hyun.
+
+👉 Want the full profiles, filmographies, and where-are-they-now details? See the [**Queen of Tears Writer & Cast Quick Reference →**]({{ site.baseurl }}/posts/queen-of-tears-part3-cast/).
+
+---
+
 ## 👉 Continue Reading
 
 - [**Part 1 — Spoiler-Free Introduction →**]({{ site.baseurl }}/posts/queen-of-tears-part1-intro/)
-- [**Part 3 — Writer Park Ji-eun & Cast →**]({{ site.baseurl }}/posts/queen-of-tears-part3-cast/)
+- [**Full Writer & Cast Quick Reference →**]({{ site.baseurl }}/posts/queen-of-tears-part3-cast/)
 - [Crash Landing on You Deep Dive →]({{ site.baseurl }}/posts/kdrama-top10-part3-rank6to10/)
 - [See all K-Drama posts →]({{ site.baseurl }}/categories/k-drama/)
 

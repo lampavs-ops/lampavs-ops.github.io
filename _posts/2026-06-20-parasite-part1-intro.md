@@ -135,6 +135,16 @@ The answer, by the way: yes. It does.
 
 ---
 
+## 🌍 One Movie, Two Very Different First Watches
+
+International audiences mostly went in cold — no context for *banjiha*, no history with Ram-don, no built-in sense of what "SKY university" pressure means. For them, the film worked as pure discovery: a thriller that kept recalibrating what kind of movie it was, scene by scene.
+
+Korean audiences watched something closer to a mirror. The semi-basement wasn't an exotic detail — plenty of Korean viewers have lived in one, or known someone who has. The tutoring-scam plot line touches a nerve around private education costs that Korean families argue about constantly. None of that makes the film "more true" for Korean viewers than international ones; it just means the same 132 minutes landed as two different kinds of experience depending on which details you already carried into the theater.
+
+That gap — between what a film means to the culture it's from and what it means once it travels — is a big part of why we write these intros the way we do. The plot works on its own. Knowing the *banjiha* history or the SKY-university weight behind one throwaway line just adds a second layer underneath it.
+
+---
+
 ## 🔗 Read More
 
 - [**Part 2 — Ending Explained & Full Spoiler Deep Dive →**]({{ site.baseurl }}/posts/parasite-part2-deep-dive/)

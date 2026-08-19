@@ -69,11 +69,23 @@ Before anything gets published, I run it through a fact-checking pass —
 checking names, dates, award records, and box office numbers against
 sources like KOFIC, Netflix's official pages, Soompi, and Wikipedia.
 If I can't confirm something, I say so, or I leave it out. I'd rather
-post less than post something wrong.
+post less than post something wrong. The full breakdown of how this
+works, and how corrections are handled, is on our
+[Editorial Policy page](/editorial-policy/).
 
 My personal top 3 K-dramas of all time, if you're curious: **Goblin**,
 **My Mister**, and **Signal**. You'll probably notice that bias
 showing up here and there.
+
+---
+
+## A Note on Our Images
+
+Every illustration on K-Unpacked, including post covers and in-article art, is AI-generated original artwork, not a photograph, screenshot, or promotional still from any studio, network, or agency. We do this on purpose: it lets us illustrate every post without using anyone's copyrighted photography, and it gives the blog a consistent, hand-drawn look you won't find anywhere else. Any resemblance to a real person is stylized and incidental, not a copy of an actual photo.
+
+## A Note on the Byline
+
+Posts on this site are signed "Mr. Kunpacked" in the byline and "— The Editor" in the body copy. They're the same person and the same editorial voice, just two names for two different spots on the page.
 
 ---
 

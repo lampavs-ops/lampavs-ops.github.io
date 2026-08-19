@@ -212,6 +212,16 @@ Big Hit's decision to let members write their own lyrics and communicate directl
 
 ---
 
+## 🇰🇷 How Korea Actually Sees the Trainee System
+
+Outside Korea, the K-pop trainee system sometimes gets described as harsh or even exploitative — years of unpaid training with no guarantee of debut. That criticism isn't baseless, and BTS's own members have spoken candidly about how hard those years were.
+
+But inside Korea, the trainee system is also understood through a different, very Korean cultural lens: intense, structured preparation for a competitive outcome is simply how success works here, in almost every field. The years students spend in *hagwon* (private cram academies) preparing for the *Suneung* college entrance exam follow a strikingly similar shape — long hours, delayed reward, total commitment, judged at the end by a single high-stakes moment. Koreans watching a trainee documentary often recognize the emotional texture of it immediately, because it echoes their own adolescence in a different arena.
+
+That's not an argument that the system doesn't have real problems — it does, and Korean media covers those problems too. It's just a reminder that "seven years of training with no guarantee" reads as more familiar, and less uniquely brutal, to a Korean audience than it does to an outside one.
+
+---
+
 ## 🔗 Continue the Story
 
 - 👉 **[Part 2 — How Seven Boys Moved the World](/posts/bts-part2-rise/)** — The journey from small Seoul label to global phenomenon

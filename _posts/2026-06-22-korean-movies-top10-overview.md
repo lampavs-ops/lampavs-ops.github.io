@@ -223,6 +223,16 @@ Every film on this list is available on Netflix or major streaming platforms in 
 
 ---
 
+## 🇰🇷 Why "10 Million" Is Such a Specific Number in Korea
+
+Every film on this list crossed 10 million admissions, and that's not a round number Korean media picked at random. It comes from a simple bit of math: South Korea has roughly 51 million people, so a "10-million movie" (천만 영화, *cheonman yeonghwa*) means, on average, 1 in every 5 Koreans bought a ticket. Korean entertainment news treats crossing that line as its own headline event, separate from the film's total box office revenue — a movie can make a lot of money without ever becoming a "cheonman yeonghwa," and Koreans track the two numbers differently.
+
+Release timing plays into this directly. Korean theaters see two annual surges — Lunar New Year (설날) and Chuseok (추석), the Korean harvest holiday — when extended families travel to be together and going to the movies as a group is a default holiday activity. *Extreme Job*'s Lunar New Year release wasn't a coincidence; Korean studios build release calendars around these windows specifically because family theater trips are so culturally embedded in how the holidays are spent.
+
+One more piece of local context: KOBIS, the source for the admissions numbers above, is a real-time public database run by the Korean Film Council — anyone in Korea can look up a film's daily ticket sales themselves. That transparency is part of why "10 million" carries so much weight as a marker; it's not a studio's self-reported figure, it's a number the whole country can watch climb in real time.
+
+---
+
 ## 🔗 Want to Go Deeper?
 
 This post is your overview. For a closer look at each film:

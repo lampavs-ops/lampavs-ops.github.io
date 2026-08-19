@@ -152,6 +152,16 @@ But the reason people could not stop watching was not the violence. It was the c
 
 ---
 
+## 🌍 A Survival Thriller Abroad, a Mirror at Home
+
+For a lot of international viewers, Squid Game landed first and foremost as a brutal, brilliant genre thriller — the kind of show you describe to friends by its premise (children's games, except you die) before you get to what it's actually about.
+
+Korean viewers tended to read the class commentary faster and more literally. Household debt, predatory private lending, and the shame around financial failure are subjects that show up constantly in Korean news and everyday conversation — not abstract themes, but a lived backdrop for a lot of people watching. When Gi-hun's economic desperation gets treated by the show as something almost anyone could fall into, that landed for many Korean viewers less like a dramatic premise and more like a recognizable, close-to-home worst-case scenario.
+
+Neither audience is watching a "wrong" version of the show. But it's worth knowing that a story built specifically around one country's debt crisis and social pressure became one of the most universally understood shows in television history — proof that a very specific, very Korean anxiety translated into something the whole world recognized as its own.
+
+---
+
 ## 🔗 Read More
 
 - [**Part 2 — Every Game Analyzed & Full Spoiler Deep Dive →**]({{ site.baseurl }}/posts/squid-game-s1-part2-deep-dive/)

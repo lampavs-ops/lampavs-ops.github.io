@@ -167,6 +167,16 @@ That's BLACKPINK.
 
 ---
 
+## 🇰🇷 What It Meant for YG to Debut a Non-Korean Member as a Core Rapper
+
+Lisa joining YG in 2010 as the label's first-ever non-ethnically-Korean trainee was a bigger structural shift than it might look from outside K-pop. At the time, nearly every major idol group — even ones with international members — built its lineup around a Korean-majority core, with non-Korean members often positioned in supporting roles. YG placing a Thai trainee with no prior Korean-language ability on a path to become one of BLACKPINK's two primary rappers, a highly visible position, was a genuine departure from that pattern.
+
+It also mattered specifically for Korea–Thailand cultural ties. K-pop had already been popular in Thailand for years by 2010, but having a Thai member front and center in a major YG group changed the relationship from "Thai fans watching Korean idols" to "a Thai performer inside a Korean idol group" — a shift Thai media covered extensively once BLACKPINK debuted, and one that Lisa herself has spoken about as a source of responsibility as much as pride.
+
+None of this erases how hard those early years were for her — arriving at 14 without the language, thousands of miles from family. But it's part of why her debut mattered beyond just "one more talented trainee, finally debuting."
+
+---
+
 ## 🔗 Continue the Story
 
 - 👉 **[Part 2 — How Four Girls Conquered the World](/posts/blackpink-part2-rise/)** — Coachella, Ddu-Du Ddu-Du, and the global breakthrough

@@ -67,6 +67,14 @@ If you enjoy movies that mix fantasy spectacle with real emotional weight, this 
 
 > 🎬 [▶ Watch the Official Trailer on YouTube](https://www.youtube.com/results?search_query=Along+with+the+Gods+The+Two+Worlds+Official+Trailer)
 
+## 🇰🇷 The 49 Days Aren't Just a Movie Device
+
+One detail that lands very differently for Korean audiences than international ones: the film's 49-day trial period isn't an invented fantasy rule. **49재 (sasipgu-jae, the "forty-nine-day rite")** is a real, still-practiced Buddhist mourning tradition in Korea, rooted in the belief that a person's spirit spends 49 days in transition after death before its next rebirth is decided. Families hold a memorial ceremony on the 49th day, and the number shows up constantly in Korean funeral customs, regardless of how religious a given family actually is.
+
+That's why the film's premise didn't need much explaining to a Korean audience — the seven trials over 49 days map onto something many Korean viewers had already encountered at a real funeral, not just in Buddhist teaching. For international viewers, the number 49 is just the story's internal rule. For Korean viewers, it's a callback to an actual ritual clock that's part of how the country still mourns its dead.
+
+---
+
 ## Editor's Rating
 
 **8.5 / 10**

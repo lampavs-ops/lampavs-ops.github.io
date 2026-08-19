@@ -76,6 +76,14 @@ K-drama fans have seen plenty of revenge stories before. What set *The Glory* ap
 
 The Editor found this patience to be the show's biggest strength. Many revenge dramas jump straight to satisfying moments. *The Glory* makes you wait, the same way Dong-eun herself had to wait for years.
 
+## 🇰🇷 "학폭": Why This Story Hit Korea So Personally
+
+*The Glory*'s premise touches a subject Korea has a specific, loaded shorthand for: **학폭** (*hakpok*, short for 학교폭력, "school violence"). It's not a vague theme in Korean public life — it's a recurring, front-page news category. In the years around this show's release, Korean entertainment and sports were repeatedly rocked by "학폭 폭로" (*hakpok pokro*, "school violence exposés") — public allegations, often from anonymous former classmates, accusing idols, actors, and athletes of having bullied someone years earlier. Several careers were derailed almost overnight once accusations surfaced, regardless of how long ago the alleged incidents happened.
+
+That real, ongoing controversy is part of why *The Glory* landed as more than a well-made revenge thriller inside Korea — it arrived into a culture already having a very live, very unresolved conversation about whether bullies ever really face consequences, and whether time erases responsibility. Writer Kim Eun-sook's research into real cases (mentioned above) wasn't just background material; it was engaging directly with a subject Korean audiences were already primed to feel strongly about.
+
+---
+
 ## Ready for the Details?
 
 This spoiler-free look only scratches the surface. In Part 2 of this series, we go deep into the ending, the biggest twists, and what the story is really trying to say about bullying, power, and justice.

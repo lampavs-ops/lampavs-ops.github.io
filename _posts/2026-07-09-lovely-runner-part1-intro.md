@@ -125,6 +125,16 @@ The word "선친자" (Sun-jae addicts) became a real term used in everyday Korea
 
 ---
 
+## 🇰🇷 Why Time-Slip Stories Are Everywhere in Korea Right Now
+
+If *Lovely Runner*'s "go back in time to save someone" premise felt familiar even before you watched it, that's not a coincidence. **회귀물** (*hoegwimul*, "regression stories") — where a character travels back in time with knowledge of the future, usually to fix a mistake or save someone they lost — is one of the biggest genres in Korean web novels and webtoons right now, the source material for a huge share of recent K-drama adaptations.
+
+Part of why the genre resonates so strongly in Korea specifically: it pairs naturally with a culture that already puts a lot of weight on *han* (한) — a specific, hard-to-translate Korean emotional concept involving accumulated regret and unresolved longing. A regression story is almost a direct mechanism for resolving *han*: the character doesn't just grieve what was lost, they get an actual second chance to undo it. That's a satisfying fantasy in any culture, but it maps onto something Korean audiences already have a rich emotional vocabulary for.
+
+Knowing that context doesn't change how Im Sol's story plays out. It just explains why this particular kind of time-travel premise keeps showing up in K-drama, and why it tends to land so hard when it's done well.
+
+---
+
 ## 🔗 Read More
 
 - [**Part 2 — Spoiler Deep Dive →**]({{ site.baseurl }}/posts/lovely-runner-part2-deep-dive/)

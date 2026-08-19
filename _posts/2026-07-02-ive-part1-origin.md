@@ -196,6 +196,16 @@ It was a bet that paid off faster than almost anyone expected.
 
 ---
 
+## 🇰🇷 What "Produce 48" Actually Meant in Korea
+
+Wonyoung and Yujin's path through *Produce 48* is mentioned above almost in passing, but the show itself is worth understanding, because it shaped how Korean audiences already felt about them before IVE existed.
+
+*Produce 48* wasn't a normal survival audition show — it ran on a premise where the viewing public, branded "국민 프로듀서" (*gukmin peurodyuseo*, "national producers"), voted trainees into the final lineup themselves, week after week, through real-money text and app voting. That structure creates a specific, intense kind of parasocial investment: fans aren't just watching a trainee hope to get picked by a company, they're personally responsible for putting her there. Wonyoung finishing #1 out of 96 contestants meant she'd been personally selected, by name, by a national voting public — a very different kind of pre-debut fame than a traditional trainee showcase provides.
+
+That's a big part of why IVE's debut felt different from a typical rookie launch to Korean viewers: a meaningful slice of the audience had already spent months voting for two of its members before Starship ever announced the group.
+
+---
+
 ## 🔗 Continue the Story
 
 - 👉 **[Part 2 — Eleven Was Just the Beginning](/posts/ive-part2-rise/)** — Love Dive, After Like, and one of K-pop's greatest debut years
