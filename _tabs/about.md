@@ -53,11 +53,27 @@ The cultural context every K-Culture fan should know.
 
 ## Who Runs This
 
-K-Unpacked is an independent blog run by one person
-who loves Korean culture — based in Seoul, South Korea.
+Hi, I'm **Mr. Kunpacked** — the person behind this blog.
 
-We have no ties to any media company or entertainment label.
+I live in Seoul, South Korea. A few years ago, I spent four years
+working in Indonesia. Watching how Korean dramas and K-pop took over
+daily conversations there, thousands of miles from home, is what
+first got me thinking seriously about why Korean culture connects
+with people everywhere. That experience is a big part of why this
+blog exists.
+
+I have no ties to any media company, studio, or entertainment label.
 Every review and opinion here is 100% independent.
+
+Before anything gets published, I run it through a fact-checking pass —
+checking names, dates, award records, and box office numbers against
+sources like KOFIC, Netflix's official pages, Soompi, and Wikipedia.
+If I can't confirm something, I say so, or I leave it out. I'd rather
+post less than post something wrong.
+
+My personal top 3 K-dramas of all time, if you're curious: **Goblin**,
+**My Mister**, and **Signal**. You'll probably notice that bias
+showing up here and there.
 
 ---
 
