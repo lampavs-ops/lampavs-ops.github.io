@@ -30,6 +30,18 @@ A quick note: a couple of these names are common enough in Korea that search eng
 
 ---
 
+## 🎭 Preparing for a Role That Mattered
+
+Park Eun-bin was already a well-regarded actress in Korea before this role, with a career going back to child acting roles. Playing Woo Young-woo, a lawyer on the autism spectrum, meant taking on a character type Korean television had rarely centered a lead role around before. Interviews around the show's release described a careful, research-heavy preparation process, aimed at portraying Young-woo's specific mannerisms, speech patterns, and way of processing the world with respect rather than caricature.
+
+The show's popularity opened up a wider public conversation in Korea about autism and workplace accommodation, well beyond what most legal dramas manage to do. Park Eun-bin's performance won her both a Baeksang Arts Award and international recognition, cementing her as one of the leading actresses of her generation.
+
+## 🐋 Whales, Kimbap, and a Very Specific Character Detail
+
+One small but memorable detail that came directly from the writing: Young-woo's love of whales and her habit of talking about them in almost any conversation became one of the show's most quoted running traits. Small, specific character details like this — a favorite food, a repeated phrase, a particular interest — are a big part of why the character felt like a real person to viewers rather than a symbol standing in for a diagnosis.
+
+---
+
 ## Catch Up on the Series
 
 - **Part 1 — Spoiler-Free Intro:** → *[Read Part 1](/posts/extraordinary-attorney-woo-part1/)*

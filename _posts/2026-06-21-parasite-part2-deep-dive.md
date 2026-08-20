@@ -52,8 +52,8 @@ The editor's view: the true center of Parasite is not class. It is **the line be
 
 Bong Joon-ho draws this line literally. Throughout the film, frames are constructed around a single visible boundary: a window frame, a glass partition, a doorway threshold, a staircase edge. And every character's relationship to that line tells you exactly where they stand.
 
-> 🎬 [**▶ Watch the full 'Line' mise-en-scène analysis on YouTube**](https://www.youtube.com/watch?v=yb0pA7o-msg)
-> *(Korean language — English summary below)*
+> 🎬 [**▶ Search for 'Parasite mise-en-scène line analysis' on YouTube**](https://www.youtube.com/results?search_query=Parasite+mise-en-scene+line+analysis)
+> *(Several Korean-language video essays cover this in depth — English summary below)*
 
 ### Part 1 — Those Who Guard the Line vs. Those Who Enforce It
 

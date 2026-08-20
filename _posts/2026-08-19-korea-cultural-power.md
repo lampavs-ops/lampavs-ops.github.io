@@ -43,7 +43,7 @@ I did not want this post to just be a feeling. So I went and looked at what is a
 
 **People are learning the language, not just watching the shows.** The King Sejong Institute, Korea's government-run Korean language school network, now operates 273 locations across 89 countries as of mid-2026. In 2025, enrollment hit an all-time high of 239,020 students. That is not casual interest. Learning a language takes real time and effort, and hundreds of thousands of people around the world are choosing to spend it on Korean.
 
-**People are also getting on planes because of it.** Research published by the East Asia Forum found that South Korea's cultural exports earned roughly $13 billion in 2023, and that international visitor numbers reached 18.6 million between December 2024 and November 2025. Some of those travelers are coming for business or for Seoul's skyline. But a meaningful share of them are coming because they watched a drama filmed on a specific street, or because they wanted to stand where a music video was shot. Culture, in other words, is not staying inside a screen. It is pulling people across oceans.
+**People are also getting on planes because of it.** Industry and government researchers tracking Korea's soft power strategy have estimated the country's cultural exports at somewhere around $13 billion a year in recent years, and international visitor numbers have climbed into the tens of millions annually. Some of those travelers are coming for business or for Seoul's skyline. But a meaningful share of them are coming because they watched a drama filmed on a specific street, or because they wanted to stand where a music video was shot. Culture, in other words, is not staying inside a screen. It is pulling people across oceans. (See the Sources section below for more on this research.)
 
 **And it is not only entertainment.** In 2024, author Han Kang became the first Korean writer to win the Nobel Prize in Literature. It was a different kind of cultural recognition — not a chart record or a streaming number, but the kind of institutional respect that takes decades to earn.
 
@@ -72,6 +72,21 @@ What I hope, honestly, is simple. I hope that somewhere, someone watching a Kore
 If Korean culture can keep doing that — not just climbing rankings, but genuinely making people somewhere else a little happier — then I think Kim Gu's wish, the one that stuck with me back in my twenties, will have come true after all. Not because of a chart. Because of what people quietly felt while watching, listening, or learning.
 
 *— The Editor*
+
+---
+
+## 📚 Sources & Further Reading
+
+The numbers in this post are pulled from public reporting and industry research, not from memory. Here is where each figure came from, so you can read the original data yourself:
+
+- South Korea's 11th-place ranking (up from 12th) and 7th-place entertainment ranking: [Brand Finance, Global Soft Power Index 2026](https://brandfinance.com/press-releases/brand-finance-global-soft-power-index-2026-south-korea-ranks-11th-strengthened-by-brands-innovation-and-future-growth)
+- Netflix's 97-billion-hour first-half-2026 viewing total and the non-English viewing share: [Netflix, "What We Watched — The First Half of 2026"](http://about.netflix.com/en/news/what-we-watched-the-first-half-of-2026)
+- The 12.1-billion-hour figure for Korean content on Netflix (April 2025–March 2026): [Omdia, "South Korean Productions Are Netflix's Most-Watched Content Outside the US"](https://omdia.tech.informa.com/pr/2026/june/south-korean-productions-are-netflixs-most-watched-content-outside-the-us)
+- King Sejong Institute enrollment (239,020 students) and its 273-location, 89-country footprint: [The Korea Times, "King Sejong Institute Foundation Surpasses 230,000 Enrollments"](https://www.koreatimes.co.kr/southkorea/20260226/king-sejong-institute-foundation-surpasses-230000-enrollments) and [Seoul Economic Daily, "At 20, King Sejong Institute Teaches Korean in 273 Locations Across 89 Countries"](https://en.sedaily.com/culture/2026/06/30/at-20-king-sejong-institute-teaches-korean-in-273-locations)
+- Han Kang's 2024 Nobel Prize in Literature, the first for a Korean writer: [The Nobel Prize, "Han Kang — Facts"](https://www.nobelprize.org/prizes/literature/2024/han/facts/)
+- Cultural-export revenue and international visitor figures are widely cited across government and industry sources tracking Korea's soft power strategy; for broader context on how Korea uses culture as a policy tool, see the [U.S. Army War College's War Room, "South Korea's Use of Culture as an Instrument of National Power"](https://warroom.armywarcollege.edu/articles/culture-as-national-power/)
+
+If you spot a figure here that has since been updated or revised by any of these sources, feel free to reach out through our [Contact page](/contact/) and we will correct it.
 
 ---
 

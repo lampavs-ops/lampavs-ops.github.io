@@ -26,6 +26,22 @@ The director and cast profiles for Squid Game Season 1, including full filmograp
 
 ---
 
+## ✍️ The Script That Waited 10 Years
+
+Here is a fact that makes Squid Game's success feel even bigger. Hwang Dong-hyuk wrote the very first version of this script back in 2009. He shopped it around to Korean studios and production companies for years. Everyone said no. It was too strange, too violent, and too expensive for a story nobody thought would sell.
+
+Hwang has said in interviews that the years of rejection took a real physical toll on him. He has talked about losing several teeth during that stressful stretch of his career, a small but telling detail about how much this project weighed on him before it ever got made. He kept the script in a drawer and worked on other films instead, including Silenced and Miss Granny, both well-regarded Korean movies in their own right.
+
+By the time Netflix finally said yes, more than ten years after that first draft, the world had changed. Streaming meant a Korean-language show could reach almost every country at once. The idea that once seemed "too strange to sell" became one of the most-watched shows in Netflix's history.
+
+## 🌟 From the Runway to the Screen
+
+Jung Ho-yeon's casting is one of the more unusual stories in the show. Before Squid Game, she was already a well-known international fashion model, walking runways for major luxury brands. She had almost no formal acting background when she auditioned for the role of Kang Sae-byeok. Her performance went on to win a Screen Actors Guild Award, an outcome almost nobody in the fashion world would have predicted from a first major acting role.
+
+Lee Jung-jae's win at the Emmy Awards carries its own historic weight. He became the first Asian actor ever to win the Emmy for Lead Actor in a Drama Series, a milestone that mattered far beyond just one show or one country.
+
+---
+
 ## 👉 More in This Series
 
 - [**Part 1 — Spoiler-Free Introduction →**]({{ site.baseurl }}/posts/squid-game-s1-part1-intro/)

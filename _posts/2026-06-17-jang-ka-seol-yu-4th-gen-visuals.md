@@ -31,7 +31,7 @@ Let's meet them one by one. 👇
 ---
 
 > 🎬 **Want the full video explanation first?**
-> [**▶ Watch: What is 장카설유 (Jang Ka Seol Yu)? on YouTube**](https://youtu.be/4arzSZtmraw?si=Tv1KqHBMpCgpO7D2)
+> [**▶ Search for "What is 장카설유 (Jang Ka Seol Yu)?" on YouTube**](https://www.youtube.com/results?search_query=%EC%9E%A5%EC%B9%B4%EC%84%A4%EC%9C%A0+%EC%84%A4%EB%AA%85)
 
 ---
 
@@ -268,7 +268,7 @@ It is not random. These four got grouped together because:
 
 > [**▶ 장카설유 무대 모음 — Watch their stages together on YouTube**](https://www.youtube.com/results?search_query=%EC%9E%A5%EC%B9%B4%EC%84%A4%EC%9C%A0+무대)
 
-> [**▶ Watch the original 장카설유 explanation video**](https://youtu.be/4arzSZtmraw?si=Tv1KqHBMpCgpO7D2)
+> [**▶ Search for more 장카설유 explanation videos on YouTube**](https://www.youtube.com/results?search_query=%EC%9E%A5%EC%B9%B4%EC%84%A4%EC%9C%A0+%EC%84%A4%EB%AA%85)
 
 ---
 

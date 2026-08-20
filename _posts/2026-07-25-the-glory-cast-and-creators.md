@@ -27,4 +27,14 @@ Here is the quick-scan version for anyone who just needs names and roles fast.
 
 For the full story — who these people are, their other work, and why the casting worked so well — read [Part 2]({{ site.baseurl }}/posts/the-glory-part2-deep-dive/). If you have not started the series yet, [Part 1]({{ site.baseurl }}/posts/the-glory-part1-intro/) is spoiler-free.
 
+---
+
+## ✍️ A Writer Known for Going Big
+
+Kim Eun-sook has one of the most recognizable names in Korean television writing. Before The Glory, she wrote Descendants of the Sun, a military romance that became a massive regional hit across Asia, and Goblin, a fantasy romance widely considered one of the most beloved K-dramas of its decade. Both of those shows lean warm and romantic. The Glory is almost the opposite: cold, patient, and built around a slow-burn revenge plot instead of a love story. Seeing the same writer succeed at both extremes is part of why she is considered one of the most versatile names working in Korean television today.
+
+## 🌟 The Villain Everyone Talked About
+
+Lim Ji-yeon's performance as Park Yeon-jin became a genuine breakout moment. Playing a character audiences are supposed to despise is a difficult balancing act — too cartoonish and nobody takes the threat seriously, too subtle and the character's cruelty does not land. Lim found a middle ground that made Park Yeon-jin feel unsettlingly real, and her Best Supporting Actress win at the Baeksang Arts Awards, alongside Song Hye-kyo's Best Actress win for the same show, meant the two lead performances were recognized together at Korean television's biggest awards ceremony.
+
 *— The Editor*

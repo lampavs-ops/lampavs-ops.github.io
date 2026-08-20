@@ -61,6 +61,18 @@ Any post that discusses plot details beyond the first episode or so is clearly l
 
 ---
 
+## 7. Content Licensing & Third-Party Material
+
+This site's theme displays a Creative Commons BY 4.0 notice in the footer. That license applies only to K-Unpacked's own original written commentary, analysis, and editorial text — the words we wrote ourselves. It does not extend to, and does not grant any rights over, third-party material that appears in or is referenced by our posts, including:
+
+- Show titles, character names, artist names, and other trademarks or brand names owned by their respective studios, agencies, and rights holders
+- Any quoted dialogue, lyrics, or excerpted text from a film, drama, song, or book, which remains the property of its original creators and is used here only briefly, for the purpose of commentary and critique
+- Photographs, promotional stills, posters, or video from any studio, network, streaming platform, or news outlet — none of which appear on this site (see Section 4, Images, above)
+
+If you are a rights holder and have a concern about how your material is referenced or quoted on K-Unpacked, please [contact us](/contact/) and we will address it promptly.
+
+---
+
 ## Questions?
 
 If you have questions about how we research, correct, or fund this site, [reach out through our Contact page](/contact/).

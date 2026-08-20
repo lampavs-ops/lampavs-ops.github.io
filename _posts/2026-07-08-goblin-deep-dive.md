@@ -79,23 +79,11 @@ No dialogue. He just looks at her. And then the narration begins.
 
 ---
 
-*The size of mass is not proportional to volume.*
+The narration that plays underneath the scene comes from a real poem, "The Physics of Love" by Kim In-yuk. It opens with a line comparing love to gravity itself:
 
-*That violet-like tiny girl,*
-*That petal-like swaying girl,*
-*Pulls me in with a gravity larger than the Earth.*
+*"The size of mass is not proportional to volume... [she] pulls me in with a gravity larger than the Earth."*
 
-*In that instant, I —*
-*Like Newton's apple —*
-*Rolled toward her without mercy.*
-*With a thud. With a thud-thud.*
-
-*My heart*
-*Continued its dizzying pendulum motion*
-*From sky to earth.*
-*It was first love.*
-
-— Kim In-yuk, "The Physics of Love"
+From there, the poem describes falling for her the way Newton's apple fell — helpless, sudden, pulled straight down — and his heart swinging back and forth between sky and earth like a pendulum that will not settle. He ends on two words: it was first love.
 
 ---
 

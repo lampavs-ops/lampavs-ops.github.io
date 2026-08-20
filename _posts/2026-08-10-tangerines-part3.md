@@ -40,4 +40,14 @@ IU also won **Best Actress** at the 4th Blue Dragon Series Awards (July 2025) fo
 
 For the full story — who these people are, what else they've been in, and why the casting works so well — read [Part 1]({{ site.baseurl }}/posts/tangerines-part1/). For the emotional deep dive on the show's biggest moments, see [Part 2]({{ site.baseurl }}/posts/tangerines-part2/).
 
+---
+
+## 🎭 One Character, Two Actresses, One Performance
+
+Playing the same character at two very different ages is one of the hardest jobs in television, because two different actors have to feel like the same person without ever having filmed a scene together. IU played Oh Ae-sun in her younger years, while veteran actress Moon So-ri picked up the role for the character's older chapters. Critics and viewers widely praised how consistent small mannerisms and speech patterns felt across the handoff, which is exactly what makes an audience believe they are watching one life instead of two performances stitched together. IU's award wins for this role specifically recognized her work in both timelines, including scenes where she plays a second character, Ae-sun's daughter Geum-myeong, adding a further layer of range to the same performance.
+
+## 🎬 A Director Returning to Familiar Emotional Ground
+
+Director Kim Won-seok has built a career on quiet, character-driven Korean dramas that favor patience over plot twists. Fans of [My Mister]({{ site.baseurl }}/posts/my-mister-deep-dive/), another slow, emotionally rich drama praised for similar restraint, will recognize his fingerprints here: long silences, small gestures carrying big emotional weight, and a refusal to rush toward easy resolutions. That same sensibility is a big part of why Tangerines resonated so strongly with award voters and everyday viewers alike.
+
 *— The Editor*

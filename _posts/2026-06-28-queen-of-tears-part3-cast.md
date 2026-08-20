@@ -26,6 +26,18 @@ The writer, director, and cast profiles for Queen of Tears, including full filmo
 
 ---
 
+## ✍️ The Writer Behind Two Back-to-Back Records
+
+Park Ji-eun is one of the most trusted names in Korean television writing, and Queen of Tears is a good example of why. Before this drama, she wrote Crash Landing on You, a romance that became one of tvN's biggest ratings hits ever. Then, with Queen of Tears, she did something rare: she wrote another drama for the same network that broke that very same rating record. Two shows from one writer, setting the network's all-time high back to back, is not something most writers ever manage even once.
+
+Part of her signature style is mixing a big, almost fantasy-sized premise (a stranded pilot, an amnesia storyline, a family conglomerate) with very grounded, relatable marriage and family conflict underneath. Queen of Tears follows that same formula: a couple on the edge of divorce, forced back together by a medical crisis, is a soap-opera setup told with real emotional patience.
+
+## 🎭 A Second Act for Kim Soo-hyun
+
+Kim Soo-hyun had already been one of Korea's most bankable leading men for over a decade before this role, going back to My Love from the Star. Taking on Baek Hyun-woo, a mild-mannered, put-upon husband rather than a flashy hero, was a different kind of role for him, and it became one of the most talked-about performances of his career. Kim Ji-won, meanwhile, built on the goodwill she earned in earlier ensemble dramas to lead a series entirely on her own for the first time at this scale, playing both the icy heiress side and the vulnerable side of Hong Hae-in.
+
+---
+
 ## 👉 More in This Series
 
 - [**Part 1 — Spoiler-Free Introduction →**]({{ site.baseurl }}/posts/queen-of-tears-part1-intro/)
