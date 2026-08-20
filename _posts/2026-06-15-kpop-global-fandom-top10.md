@@ -248,11 +248,17 @@ Spotify numbers measure listening. They do not measure how differently fandom ac
 
 None of this makes one style of fandom "better." It just means a Spotify chart and a Korean entertainment news cycle are often telling two different stories about the same group, on the same day.
 
+## 📚 Sources & Further Reading
+
+The listener and sales figures in this post are estimates built from public chart-tracking sites, not exact label-reported numbers — treat them as directional, not precise. Where we pulled from:
+
+- Monthly Spotify listener trends: [kworb.net's Spotify charts](https://kworb.net/spotify/country/kr_daily.html), a widely used independent tracker of public Spotify streaming data, and [Spotify's own K-Pop ON! newsroom coverage](https://newsroom.spotify.com/?p=17096)
+- Chart performance and album sales records: [Billboard's chart archive](https://www.billboard.com/charts/) and [Hanteo Chart](https://hanteochart.com/), South Korea's official physical and digital album sales tracker
+- Fandom culture and Korean Wave industry trends: [KOFICE (Korea Foundation for International Cultural Exchange) Hallyu reports](http://eng.kofice.or.kr/resource/resource_1.asp), which publishes an annual survey on global Korean Wave audiences
+
+Numbers are rounded and can shift as new chart data comes in — if you spot one that looks outdated, [let us know](/contact/).
+
 ## 🔗 Read More
 
 - [K-Pop Industry — Deep Dive →]({{ site.baseurl }}/categories/deep-dive/)
 - [See all K-Pop posts →]({{ site.baseurl }}/categories/k-pop/)
-
----
-
-*Data: Spotify · Billboard · Hanteo Chart · 2025 Korean Wave Report. Numbers are for reference only and may change.*

@@ -263,11 +263,17 @@ Spotify numbers tell you who's popular. They don't tell you *how* fandom actuall
 
 ---
 
+## 📚 Sources & Further Reading
+
+The listener and sales figures above are estimates built from public chart-tracking sites, not exact label-reported numbers — treat them as directional, not precise. Where we pulled from:
+
+- Monthly Spotify listener trends: [kworb.net's Spotify charts](https://kworb.net/spotify/country/kr_daily.html), a widely used independent tracker of public Spotify streaming data, and [Spotify's own K-Pop ON! newsroom coverage](https://newsroom.spotify.com/?p=17096)
+- Chart performance and album sales records: [Billboard's chart archive](https://www.billboard.com/charts/) and [Hanteo Chart](https://hanteochart.com/), South Korea's official physical and digital album sales tracker
+- Fandom culture and Korean Wave industry trends: [KOFICE (Korea Foundation for International Cultural Exchange) Hallyu reports](http://eng.kofice.or.kr/resource/resource_1.asp), which publishes an annual survey on global Korean Wave audiences
+
+Numbers are rounded and can shift as new chart data comes in — if you spot one that looks outdated, [let us know](/contact/).
+
 ## 🔗 Read More
 
 - [K-Pop Boy Groups — TOP 10 Fandoms in 2026 →]({{ site.baseurl }}/posts/kpop-global-fandom-top10/)
 - [See all K-Pop posts →]({{ site.baseurl }}/categories/k-pop/)
-
----
-
-*Data: Spotify · Billboard · Hanteo Chart · 2025 Korean Wave Report. Numbers are for reference only and may change.*
