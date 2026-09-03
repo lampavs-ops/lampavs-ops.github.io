@@ -1,53 +1,21 @@
 ---
-title: "When Life Gives You Tangerines: Full Cast Quick Reference"
+title: "When Life Gives You Tangerines: Full Cast — Now Part of Our Guide"
 date: 2026-08-10
-categories: [K-Drama]
-tags: [when-life-gives-you-tangerines, iu, park-bo-gum, moon-so-ri, kim-won-seok, "2025"]
-description: "A quick-scan cast and awards reference for When Life Gives You Tangerines — full profiles now live in Part 1."
+description: "This page has moved. The full cast and awards profiles for When Life Gives You Tangerines now live inside our spoiler-free Part 1 guide."
 image: /assets/img/posts/tangerines-part1-thumbnail.jpg
 featured: false
+canonical_url: "https://kunpacked.com/posts/tangerines-part1/"
+sitemap: false
 ---
 
-Looking for the full story on the cast and crew behind **When Life Gives You Tangerines**? We folded those complete profiles — director Kim Won-seok, writer Lim Sang-choon, and every major cast member — into our [spoiler-free Part 1 guide]({{ site.baseurl }}/posts/tangerines-part1/), so you get the whole picture in one place.
+<script>window.location.replace("{{ site.url }}/posts/tangerines-part1/");</script>
 
-Here is the quick-scan version for anyone who just needs names and roles fast.
+**This page has moved.** We folded the full cast and awards profiles for *When Life Gives You Tangerines* — director Kim Won-seok, writer Lim Sang-choon, IU, Park Bo-gum, Moon So-ri, and the rest of the cast — into our [spoiler-free Part 1 guide]({{ site.baseurl }}/posts/tangerines-part1/). That is the page to bookmark from now on.
 
-## Cast at a Glance
+You should be redirected there automatically in a moment. If not, use the link below.
 
-| Actor | Character |
-|---|---|
-| IU | Oh Ae-sun / Yang Geum-myeong |
-| Park Bo-gum | Yang Gwan-sik (younger) |
-| Moon So-ri | Oh Ae-sun (older) |
-| Park Hae-joon | Yang Gwan-sik (older) |
-| Yeom Hye-ran | Jeon Gwang-rye |
-| Choi Dae-hoon | Bu Sang-gil |
-| Kim Seon-ho | Park Chung-seob (special appearance) |
+👉 **[Continue to When Life Gives You Tangerines Part 1: Cast, Awards & Spoiler-Free Guide →]({{ site.baseurl }}/posts/tangerines-part1/)**
 
-## 61st Baeksang Arts Awards (2025)
-
-| Award | Winner |
-|---|---|
-| Best Drama | *When Life Gives You Tangerines* |
-| Best Screenplay | Lim Sang-choon |
-| Best Actress | IU |
-| Best Supporting Actress | Yeom Hye-ran |
-| Best Supporting Actor | Choi Dae-hoon |
-
-IU also won **Best Actress** at the 4th Blue Dragon Series Awards (July 2025) for her dual performance as Ae-sun and Geum-myeong.
-
----
-
-For the full story — who these people are, what else they've been in, and why the casting works so well — read [Part 1]({{ site.baseurl }}/posts/tangerines-part1/). For the emotional deep dive on the show's biggest moments, see [Part 2]({{ site.baseurl }}/posts/tangerines-part2/).
-
----
-
-## 🎭 One Character, Two Actresses, One Performance
-
-Playing the same character at two very different ages is one of the hardest jobs in television, because two different actors have to feel like the same person without ever having filmed a scene together. IU played Oh Ae-sun in her younger years, while veteran actress Moon So-ri picked up the role for the character's older chapters. Critics and viewers widely praised how consistent small mannerisms and speech patterns felt across the handoff, which is exactly what makes an audience believe they are watching one life instead of two performances stitched together. IU's award wins for this role specifically recognized her work in both timelines, including scenes where she plays a second character, Ae-sun's daughter Geum-myeong, adding a further layer of range to the same performance.
-
-## 🎬 A Director Returning to Familiar Emotional Ground
-
-Director Kim Won-seok has built a career on quiet, character-driven Korean dramas that favor patience over plot twists. Fans of [My Mister]({{ site.baseurl }}/posts/my-mister-deep-dive/), another slow, emotionally rich drama praised for similar restraint, will recognize his fingerprints here: long silences, small gestures carrying big emotional weight, and a refusal to rush toward easy resolutions. That same sensibility is a big part of why Tangerines resonated so strongly with award voters and everyday viewers alike.
+For the full spoiler breakdown of the show's biggest moments, see [Part 2]({{ site.baseurl }}/posts/tangerines-part2/).
 
 *— The Editor*

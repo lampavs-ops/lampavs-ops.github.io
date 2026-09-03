@@ -62,6 +62,8 @@ Lim Sang-choon wrote the series, drawing on the same gift for warmth and humor i
 | Choi Dae-hoon | Bu Sang-gil | Grew up alongside Gwan-sik in Jeju. Won Best Supporting Actor at the same ceremony. |
 | Kim Seon-ho | Park Chung-seob | A special appearance as the artist who eventually becomes Geum-myeong's husband. Known for *Start-Up* and *Hometown Cha-Cha-Cha*. |
 
+Playing the same character at two very different ages is one of the hardest jobs in television, because two different actors have to feel like the same person without ever having filmed a scene together. Critics and viewers widely praised how consistent Ae-sun's small mannerisms and speech patterns felt across the handoff from IU to Moon So-ri, which is exactly what makes an audience believe they are watching one life instead of two performances stitched together.
+
 ---
 
 ## A Hit at Home and Abroad

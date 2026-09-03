@@ -170,7 +170,7 @@ He has also said that the red dye Gi-hun puts in his hair at the end symbolizes 
 
 Hwang Dong-hyuk first wrote the Squid Game script in **2009**, while genuinely broke — he couldn't even afford to rent comic books from a manga café. Everyone he pitched it to said no ("too weird," "not commercial"), and the script sat in a drawer for 12 years until Netflix said yes. It became the most-watched piece of television content in human history.
 
-The stress of writing and directing every episode himself was so extreme he reported losing several teeth during production. He's also been candid about money: paid a flat production fee rather than a share of Squid Game's profits, he initially said he wouldn't make a Season 2 — then made one anyway, explaining plainly, "to earn money."
+While the script sat in that drawer, Hwang kept working on other films, including *Silenced* and *Miss Granny*, both well-regarded Korean movies in their own right. The stress of writing and directing every episode himself was so extreme he reported losing several teeth during production. He's also been candid about money: paid a flat production fee rather than a share of Squid Game's profits, he initially said he wouldn't make a Season 2 — then made one anyway, explaining plainly, "to earn money."
 
 | | |
 |--|--|

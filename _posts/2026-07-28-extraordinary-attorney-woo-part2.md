@@ -137,13 +137,19 @@ The hackberry tree case is the show's best hour, and the Soo-mi reveal is the be
 
 **Jin Kyung — Tae Soo-mi.** Plays Young-woo's biological mother with real range — ambitious and cold in the courtroom, quietly devastated the moment her daughter's identity becomes real to her.
 
-👉 Want the full cast list, including Ha Yoon-kyung, Joo Jong-hyuk, Joo Hyun-young, Jeon Bae-soo, and Baek Ji-won, with official social links? See the [**Full Cast & Creators Quick Reference →**](/posts/extraordinary-attorney-woo-part3/).
+### Supporting Cast
+
+A few more familiar faces from Hanbada and beyond, with official social links where we could independently confirm them (a couple of these names are common enough in Korea that search engines will surface the wrong person's account, so where we couldn't confirm one, we've said so instead of guessing):
+
+- **Ha Yoon-kyung as Choi Soo-yeon** — [@hayoonkie](https://www.instagram.com/hayoonkie/)
+- **Joo Jong-hyuk as Kwon Min-woo** — [@joojong_](https://www.instagram.com/joojong_/)
+- **Joo Hyun-young as Dong Geu-ra-mi** — [@2ruka__](https://www.instagram.com/2ruka__/)
+- **Jeon Bae-soo as Woo Gwang-ho** — [@baesooaa](https://www.instagram.com/baesooaa/)
+- **Baek Ji-won as Han Seon-young** — not confirmed; see the agency's official channels
 
 ---
 
 ## Coming Up in This Series
-
-- **Full Cast & Creators Quick Reference:** the complete cast list with official SNS links. → *[Read it here](/posts/extraordinary-attorney-woo-part3/)*
 
 **Catch up:**
 - **Part 1 — Spoiler-Free Intro:** → *[Read Part 1](/posts/extraordinary-attorney-woo-part1/)*

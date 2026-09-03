@@ -197,6 +197,8 @@ At the Oscars, accepting Best Director, he paraphrased a line he says he carved 
 
 > 💡 **Fun fact:** In his early twenties, Bong Joon-ho worked as a private tutor for a wealthy family's child — the seed that grew into Parasite, where Ki-woo also enters the Park household as a tutor.
 
+**A director who films class vertically.** Bong Joon-ho did not invent the "class" theme, but he found a visual language for it that nobody else uses quite the same way. Watch any Bong Joon-ho film closely and stairs, floors, and levels show up again and again. In Snowpiercer, an entire movie takes place inside a single train, and the whole plot is about pushing forward from the poor cars in the back to the rich cars at the front. Parasite folds that same idea into one house instead of one train — the Kim family low in their semi-basement, the Park family high on a hill with a long staircase leading up to their door. It is part of why critics call his films "vertical": the story moves up and down almost as much as it moves forward.
+
 ### The Cast
 
 **Song Kang-ho (송강호) — Ki-taek.** The living legend of Korean cinema, and Bong's most frequent collaborator across four features. Ki-taek is not a simple villain — he's a human being audiences understand, which is exactly what makes the ending hit so hard. Song won **Best Actor at Cannes** in 2022 for *Broker*.

@@ -138,7 +138,7 @@ Kim Hee-won (*Vincenzo*, *Little Women*) is known for a visually striking style 
 
 **Kwak Dong-yeon (곽동연) — Hong Soo-cheol.** The show's biggest surprise — Hae-in's younger brother, constantly failing to be powerful in the most entertaining ways possible. Widely praised as a standout comic presence.
 
-**Park Sung-hoon (박성훈) — Yoon Eun-sung.** A former Wall Street analyst obsessively connected to Hae-in's past. Park drew attention for his intensity playing a bully in *The Glory*, and brings a similarly sharp edge here — though the show gradually complicates any simple read of him as pure villain.
+**Park Sung-hoon (박성훈) — Yoon Eun-sung.** A former Wall Street analyst obsessively connected to Hae-in's past. Park drew attention for his intensity playing a bully in *The Glory*, and brings a similarly sharp edge here — though the show gradually complicates any simple read of him as pure villain. He went on to build on that momentum with a role in *Squid Game* Season 2.
 
 > 💡 **The "Two Kims" chemistry:** This was actually Kim Soo-hyun and Kim Ji-won's first time appearing together on screen — Kim Soo-hyun had worked with writer Park Ji-eun before, but on *My Love from the Star*, opposite Jun Ji-hyun.
 

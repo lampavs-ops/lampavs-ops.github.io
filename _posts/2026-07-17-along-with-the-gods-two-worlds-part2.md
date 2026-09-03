@@ -97,7 +97,7 @@ The visual world-building was already impressive in Part 1. Knowing the full sto
 
 **Ha Jung-woo as Gang-rim**, the sharp, guarded leader of the three grim reapers. One of Korea's most consistently bankable leading men (*The Chaser*, *The Handmaiden*) and also an active painter with his own solo exhibitions. [Instagram @__hajungwoo](https://www.instagram.com/__hajungwoo/)
 
-**Cha Tae-hyun as Kim Ja-hong**, the firefighter whose entire afterlife hinges on the secret above. A familiar face in Korean film and variety TV for decades (*My Sassy Girl*, *2 Days & 1 Night*).
+**Cha Tae-hyun as Kim Ja-hong**, the firefighter whose entire afterlife hinges on the secret above. A familiar face in Korean film and variety TV for decades (*My Sassy Girl*, *2 Days & 1 Night*). Ha Jung-woo and Cha Tae-hyun had appeared together in lighter, more comedic Korean films earlier in their careers, so putting them at the emotional center of a story about death, guilt, and forgiveness was a real shift in tone for both actors — part of why their scenes together carry so much weight.
 
 **Ju Ji-hoon as Hae Won-maek**, the sword-skilled, sharp-tongued reaper, known for a wide-ranging career including the zombie period drama *Kingdom*. [Instagram @_jujihoon](https://www.instagram.com/_jujihoon/)
 
