@@ -2,7 +2,7 @@
 title: "IVE Part 2 — Eleven Was Just the Beginning: The Breakthrough Year"
 date: 2026-07-03
 categories: [K-Pop]
-tags: [k-pop, ive, dive, eleven, love-dive, after-like, daesang, melon, mama, golden-disc, breakthrough]
+tags: [k-pop, ive, dive]
 description: "Between December 2021 and August 2022, IVE released three consecutive hits — two of them reaching #1 in Korea. Then they swept year-end daesangs with a song from their first year as a group. This is how IVE became one of the defining girl groups of the 4th generation."
 image: /assets/img/posts/ive-part2-title.jpg
 featured: false

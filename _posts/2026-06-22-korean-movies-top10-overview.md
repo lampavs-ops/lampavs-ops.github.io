@@ -2,7 +2,7 @@
 title: "Korean Movies TOP 10: The Biggest K-Films You Can Watch Right Now"
 date: 2026-06-22
 categories: [K-Movie]
-tags: [k-movie, korean-film, box-office, extreme-job, along-with-the-gods, veteran, parasite, train-to-busan, masterpiece]
+tags: [k-movie, korean-film, box-office, extreme-job, along-with-the-gods, veteran, parasite, masterpiece]
 description: "No history class required. Here are the 10 most-watched Korean movies ever — action, comedy, fantasy, horror, and thriller. All available to stream right now."
 image: /assets/img/posts/kmovie-top10-title.jpg
 featured: false

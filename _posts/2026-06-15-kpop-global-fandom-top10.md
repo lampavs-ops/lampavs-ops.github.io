@@ -2,7 +2,7 @@
 title: "K-Pop's Biggest Fan Groups in 2026 — TOP 10 List"
 date: 2026-06-15 09:00:00 +0900
 categories: [K-Pop]
-tags: [k-pop, bts, blackpink, fandom, spotify, girl-group, boy-group, kpop-ranking]
+tags: [k-pop, bts, blackpink, fandom, girl-group]
 description: "Which K-Pop groups have the most fans in 2026? We picked the top 10 boy groups and girl groups using Spotify, album sales, and world tour data."
 image:
   path: /assets/img/posts/kpop-fandom-top10-cover.jpg

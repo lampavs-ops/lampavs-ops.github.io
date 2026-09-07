@@ -2,7 +2,7 @@
 title: "Stray Kids Part 3: Their 2026 Comeback, World Tour, and Full Record Book"
 date: 2026-08-07
 categories: [K-Pop]
-tags: [stray-kids, jyp-entertainment, "2026", world-tour, k-masterpiece]
+tags: [stray-kids, jyp-entertainment, world-tour, k-masterpiece]
 description: "Stray Kids wrap up our series with their brand-new 2026 comeback, a look at their ongoing world tour, the military question fans are watching, and a full rundown of their biggest records."
 image: /assets/img/posts/stray-kids-part3-thumbnail.jpg
 featured: false

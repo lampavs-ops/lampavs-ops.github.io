@@ -2,7 +2,7 @@
 title: "Editor's Masterpiece Walk — My Mister (나의 아저씨): More Beautiful Because It Is Not Love"
 date: 2026-07-06 09:00:00 +0900
 categories: [Deep Dive]
-tags: [k-drama, my-mister, iu, lee-sun-kyun, deep-dive, spoiler, editor-pick, masterpiece, "2018"]
+tags: [k-drama, iu, deep-dive, spoiler, masterpiece]
 description: "My Mister is not a love story. It is about two broken people who simply see each other. That is why it stays with you so long after it ends."
 image:
   path: /assets/img/posts/my-mister-cover.jpg

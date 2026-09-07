@@ -2,7 +2,7 @@
 title: "Korea & Cultural Power: What a 1947 Memoir Says About 2026"
 date: 2026-08-19
 categories: [Deep Dive]
-tags: [korea, soft-power, hallyu, k-culture, netflix, kim-gu]
+tags: [netflix]
 description: "Kim Gu once wrote that he wanted Korea to be known for the power of its culture, not its wealth or weapons. In 2026, the data suggests Korea may be closer to that dream than ever."
 image: /assets/img/posts/korea-cultural-power-thumbnail.jpg
 featured: false

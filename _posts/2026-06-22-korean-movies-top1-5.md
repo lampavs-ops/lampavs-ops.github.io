@@ -2,7 +2,7 @@
 title: "Korean Movies TOP 1–5: Why These Films Broke Every Record"
 date: 2026-06-22
 categories: [K-Movie]
-tags: [k-movie, korean-film, box-office, extreme-job, along-with-the-gods, veteran, the-host, the-thieves]
+tags: [k-movie, korean-film, box-office, extreme-job, along-with-the-gods, veteran]
 description: "A deep dive into Korea's top 5 most-watched films of all time. Extreme Job, Along with the Gods, Veteran, The Host, and The Thieves — what made each one a phenomenon?"
 image: /assets/img/posts/kmovie-top1-5-title.jpg
 featured: false

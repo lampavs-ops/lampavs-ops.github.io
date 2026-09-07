@@ -2,7 +2,7 @@
 title: "Extraordinary Attorney Woo (Part 1): The Drama That Started at 0.9% and Ended at 17.5%"
 date: 2026-07-27
 categories: [K-Drama]
-tags: [extraordinary-attorney-woo, park-eun-bin, kang-tae-oh, kang-ki-young, k-drama, spoiler-free, legal-drama, netflix, "2022"]
+tags: [extraordinary-attorney-woo, k-drama, spoiler-free, netflix, "2022"]
 description: "A spoiler-free guide to Extraordinary Attorney Woo, the K-drama that opened at 0.9% ratings and closed at 17.5%. Meet Woo Young-woo, whales and all."
 image: /assets/img/posts/kdrama-attorney-woo.jpg
 featured: false

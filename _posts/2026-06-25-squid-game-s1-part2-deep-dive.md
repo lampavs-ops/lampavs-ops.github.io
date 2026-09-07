@@ -2,7 +2,7 @@
 title: "Squid Game S1 Deep Dive: Every Game, Every Death, Every Hidden Meaning ⚠️ Spoilers"
 date: 2026-06-25
 categories: [K-Drama]
-tags: [k-drama, squid-game, deep-dive, spoiler, ending-explained, symbolism, red-light-green-light, dalgona, marbles]
+tags: [k-drama, squid-game, deep-dive, spoiler, ending-explained, symbolism]
 description: "Full spoiler breakdown of Squid Game Season 1 — all 6 games analyzed, the Oh Il-nam twist, the ending explained, and why Korean and global audiences reacted so differently."
 image:
   path: /assets/img/posts/squid-s1-part2-cover.jpg

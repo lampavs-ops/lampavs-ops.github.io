@@ -2,7 +2,7 @@
 title: "Five K-Dramas That Broke Real Netflix Records"
 date: 2026-06-19 10:00:00 +0900
 categories: [K-Drama]
-tags: [k-drama, netflix, squid-game, queen-of-tears, all-of-us-are-dead, the-glory, extraordinary-attorney-woo, most-watched]
+tags: [k-drama, netflix, squid-game, queen-of-tears, the-glory, extraordinary-attorney-woo, most-watched]
 description: "Squid Game, Queen of Tears, All of Us Are Dead, The Glory, and Extraordinary Attorney Woo, five K-dramas that each broke a real, Netflix-confirmed viewing record."
 image:
   path: /assets/img/posts/kdrama-top5-cover.jpg

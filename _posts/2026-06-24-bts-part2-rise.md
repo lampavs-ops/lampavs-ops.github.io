@@ -2,7 +2,7 @@
 title: "BTS Part 2 — How Seven Boys Moved the World: The Rise"
 date: 2026-06-24
 categories: [K-Pop]
-tags: [k-pop, bts, army, billboard, wings, love-yourself, dynamite, grammy, rise, global]
+tags: [k-pop, bts, army, billboard, global]
 description: "From a struggling Seoul label to the world's biggest stages — the complete story of how BTS broke every barrier in global music, milestone by milestone."
 image: /assets/img/posts/bts-part2-title.jpg
 featured: false

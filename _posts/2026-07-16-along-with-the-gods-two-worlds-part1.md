@@ -2,7 +2,7 @@
 title: "Along with the Gods: The Two Worlds — A Firefighter's Journey Through Seven Hells (Spoiler-Free)"
 date: 2026-07-16
 categories: [K-Movie]
-tags: [along-with-the-gods, korean-fantasy-film, ha-jung-woo, cha-tae-hyun, spoiler-free, "2017"]
+tags: [along-with-the-gods, spoiler-free]
 description: "A spoiler-free guide to Along with the Gods: The Two Worlds, the Korean fantasy film that became one of the biggest box office hits in Korean history."
 image: /assets/img/posts/along-with-the-gods-two-worlds-thumbnail.jpg
 featured: false

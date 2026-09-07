@@ -2,7 +2,7 @@
 title: "Now Hot in Korea: RESCENE, the Rookie Group Everyone Suddenly Wants to Root For"
 date: 2026-07-14
 categories: [K-Pop]
-tags: [k-pop, rescene, woni, minami, liv, may, zena, the-muze-entertainment, rookie-girl-group, korean-youtube, gyaru, para-para]
+tags: [k-pop]
 description: "How RESCENE became one of Korea's most talked-about rookie girl groups through Woni's viral YouTube channel, Minami's gyaru character, regional dialects, and an unexpectedly wholesome underdog story."
 image: /assets/img/posts/rescene-playground.jpg
 featured: false

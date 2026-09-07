@@ -2,7 +2,7 @@
 title: "Editor's Masterpiece Walk — Goblin (도깨비): All Days Were Brilliant"
 date: 2026-07-08 09:00:00 +0900
 categories: [Deep Dive]
-tags: [k-drama, goblin, gong-yoo, kim-go-eun, lee-dong-wook, yoo-in-na, deep-dive, spoiler, editor-pick, masterpiece, "2016"]
+tags: [k-drama, deep-dive, spoiler, masterpiece]
 description: "A goblin who lived 935 years met a 19-year-old girl. And every single day was brilliant. The #1 in my personal K-Drama Top 3."
 image:
   path: /assets/img/posts/goblin-cover.jpg

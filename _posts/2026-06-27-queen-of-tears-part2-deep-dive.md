@@ -2,7 +2,7 @@
 title: "Queen of Tears Deep Dive: Ending Explained & Every Scene That Made You Cry ⚠️ Spoilers"
 date: 2026-06-27
 categories: [K-Drama]
-tags: [k-drama, queen-of-tears, deep-dive, spoiler, ending-explained, kim-soo-hyun, kim-ji-won]
+tags: [k-drama, queen-of-tears, deep-dive, spoiler, ending-explained]
 description: "Full spoiler breakdown of Queen of Tears — the brain tumor twist, the lavender garden in Germany, the memory-loss arc, the ending explained, and what critics and fans said."
 image:
   path: /assets/img/posts/qot-part2-cover.jpg

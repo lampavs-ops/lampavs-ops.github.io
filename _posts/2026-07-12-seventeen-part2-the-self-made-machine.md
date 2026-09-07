@@ -2,7 +2,7 @@
 title: "SEVENTEEN Part 2 — The Self-Made Machine: How Thirteen Members Built Their Own Sound"
 date: 2026-07-11
 categories: [K-Pop]
-tags: [k-pop, seventeen, carat, self-producing-idol, woozi, hoshi, pretty-u, very-nice, dont-wanna-cry, an-ode]
+tags: [k-pop, seventeen, carat]
 description: "How SEVENTEEN turned a crowded 13-member lineup into a creative system — writing songs, building choreography, winning their first music show trophy, and growing into one of K-pop's most reliable performance groups."
 image: /assets/img/posts/seventeen-part2-title.jpg
 featured: false

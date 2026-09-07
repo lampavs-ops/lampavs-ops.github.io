@@ -2,7 +2,7 @@
 title: "Squid Game Season 1: The Show That Broke Netflix — Spoiler-Free Guide"
 date: 2026-06-25
 categories: [K-Drama]
-tags: [k-drama, squid-game, netflix, hwang-dong-hyuk, lee-jung-jae, survival-thriller, spoiler-free]
+tags: [k-drama, squid-game, netflix, spoiler-free]
 description: "Number 1 in 94 countries at the same time. The most-watched show in Netflix history. Here is everything you need to know before watching Squid Game Season 1."
 image:
   path: /assets/img/posts/squid-s1-part1-cover.jpg

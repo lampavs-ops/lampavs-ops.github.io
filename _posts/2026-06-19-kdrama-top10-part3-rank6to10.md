@@ -2,7 +2,7 @@
 title: "Five More K-Dramas That Became Global Netflix Phenomena"
 date: 2026-06-19 11:00:00 +0900
 categories: [K-Drama]
-tags: [k-drama, netflix, crash-landing-on-you, squid-game-s2, when-life-gives-you-tangerines, my-demon, vincenzo, most-watched]
+tags: [k-drama, netflix, crash-landing-on-you, when-life-gives-you-tangerines, most-watched]
 description: "Crash Landing on You, Squid Game S2, When Life Gives You Tangerines, My Demon, and Vincenzo, five more K-dramas that broke real Netflix records, each on its own terms."
 image:
   path: /assets/img/posts/kdrama-top10-part3-cover.jpg

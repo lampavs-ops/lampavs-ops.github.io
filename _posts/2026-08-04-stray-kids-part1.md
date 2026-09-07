@@ -2,7 +2,7 @@
 title: "Stray Kids Part 1: How Nine Trainees Became a Global K-Pop Group"
 date: 2026-08-04
 categories: [K-Pop]
-tags: [stray-kids, jyp-entertainment, bang-chan, hyunjin, "2018", k-masterpiece]
+tags: [stray-kids, jyp-entertainment, k-masterpiece]
 description: "Meet Stray Kids from the very beginning: the survival show that formed them, what their name really means, and how a nine-member trainee team debuted and later continued as an eight-member group."
 image: /assets/img/posts/stray-kids-part1-thumbnail.jpg
 featured: false

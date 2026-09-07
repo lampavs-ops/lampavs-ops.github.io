@@ -2,7 +2,7 @@
 title: "What is 'Jang Ka Seol Yu'? Every Korean Knows These 4 Names"
 date: 2026-06-17 09:00:00 +0900
 categories: [K-Pop]
-tags: [k-pop, jang-wonyoung, karina, sullyoon, yuna, ive, aespa, nmixx, itzy, 4th-gen, visual, kpop-slang, small-talk]
+tags: [k-pop, ive]
 description: "장카설유 — Jang, Ka, Seol, Yu. Four names every Korean K-pop fan knows by heart. Meet the four visual queens of 4th gen K-pop in 2026."
 image:
   path: /assets/img/posts/jang-ka-seol-yu-cover.jpg

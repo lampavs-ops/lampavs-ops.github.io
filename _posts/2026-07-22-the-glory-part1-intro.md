@@ -2,7 +2,7 @@
 title: "The Glory Part 1: Why Song Hye-kyo's Netflix Revenge Drama Became a Global Hit"
 date: 2026-07-22
 categories: [K-Drama, Series Reviews]
-tags: [the-glory, song-hye-kyo, netflix, revenge-drama, spoiler-free, "2022"]
+tags: [the-glory, netflix, spoiler-free, "2022"]
 description: "A spoiler-free look at The Glory, the Netflix K-drama that turned beloved actress Song Hye-kyo into a cold, calculating avenger."
 image: /assets/img/posts/the-glory-part1-thumbnail.jpg
 featured: false

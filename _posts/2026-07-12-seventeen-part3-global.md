@@ -2,7 +2,7 @@
 title: "SEVENTEEN Part 3 — Going Global: The Slow Climb That Became a Record-Breaking Run"
 date: 2026-07-12
 categories: [K-Pop]
-tags: [k-pop, seventeen, carat, going-seventeen, henggarae, face-the-sun, fml, god-of-music, mama-awards, unesco]
+tags: [k-pop, seventeen, carat]
 description: "How SEVENTEEN turned a canceled tour into a new global chapter — crossing one million first-week sales, expanding through GOING SEVENTEEN, reaching the US market, and selling the world's biggest album of 2023."
 image: /assets/img/posts/seventeen-part3-title.jpg
 featured: false

@@ -2,7 +2,7 @@
 title: "One Fine Spring Day: The Scenes and Lines Everyone Remembers"
 date: 2026-08-14
 categories: [Deep Dive]
-tags: [one-fine-spring-day, hur-jin-ho, yoo-ji-tae, lee-young-ae, deep-dive, "2001"]
+tags: [hur-jin-ho, deep-dive]
 description: "A full spoiler dive into One Fine Spring Day's most unforgettable scenes and lines, from 'Do you want to eat ramyeon?' to the film's devastating final goodbye."
 image: /assets/img/posts/spring-day-part2-thumbnail.jpg
 featured: false

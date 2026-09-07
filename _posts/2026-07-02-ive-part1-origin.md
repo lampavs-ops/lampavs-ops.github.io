@@ -2,7 +2,7 @@
 title: "IVE Part 1 — I Have Everything: The Origin Story"
 date: 2026-07-02
 categories: [K-Pop]
-tags: [k-pop, ive, dive, starship-entertainment, debut, wonyoung, yujin, gaeul, rei, liz, leeseo, iz-one, origin]
+tags: [k-pop, ive, dive, debut, origin]
 description: "How six girls — including two IZ*ONE alumni — came together to form IVE, the girl group that debuted as if they'd been doing it for years. The casting stories, the meaning behind the name, and the debut that shocked everyone."
 image: /assets/img/posts/ive-part1-title.jpg
 featured: false

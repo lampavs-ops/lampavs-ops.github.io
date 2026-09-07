@@ -2,7 +2,7 @@
 title: "BTS Part 4: How New Media Turned Fans Into Family — The V Live Story"
 date: 2026-07-16
 categories: [K-Pop]
-tags: [bts, v-live, kpop-fandom, new-media, deep-dive]
+tags: [bts, deep-dive]
 description: "How BTS used V Live to turn fans into real friends. A deep look at daily livestreams, no-agenda broadcasts, and the fan translation culture that built a global army."
 image: /assets/img/posts/bts-part4-new-media-fandom-thumbnail.jpg
 featured: false

@@ -2,7 +2,7 @@
 title: "K-Pop Boy Group Fandom TOP 5: BTS to ENHYPEN — Who Are They Really?"
 date: 2026-06-18
 categories: [K-Pop]
-tags: [k-pop, bts, army, stray-kids, stay, seventeen, carat, txt, moa, enhypen, engene, boy-group, fandom]
+tags: [k-pop, bts, army, stray-kids, seventeen, carat, fandom]
 description: "A close look at the 5 biggest K-Pop boy group fandoms in 2026 — ARMY, STAY, CARAT, MOA, and ENGENE. What makes each group special, and why do their fans never leave?"
 image: /assets/img/posts/kpop-boygroup-top5-cover.jpg
 featured: false
@@ -41,11 +41,11 @@ ARMY stands for *Adorable Representative M.C. for Youth*. But the name matters l
 
 ARMY is not a fan club. It is a **global movement** with members in 195 countries. ARMY translates content into dozens of languages. They run charity projects in BTS's name. They organize streaming parties that push songs to #1 within hours. They show up — for the music, for each other, and for the world.
 
-### Why Is ARMY Still #1 — Even During Military Service?
+### Why Did ARMY Stay #1 Through Military Service?
 
-Several BTS members are currently serving in the South Korean military — a mandatory duty for Korean men. During this period, they release no new group music and do no tours.
+Every member of BTS completed mandatory military service by June 2025 — a duty required of all able-bodied Korean men. During that stretch, the group released no new group music and did no tours.
 
-And yet: **24.9 million monthly Spotify listeners.** Still the highest of any K-Pop boy group. ARMY keeps streaming. ARMY keeps showing up.
+And yet: even through the entire hiatus, BTS held **24.9 million monthly Spotify listeners** — still the highest of any K-Pop boy group, with no new music to drive it. ARMY kept streaming. ARMY kept showing up. Now that every member has been discharged and the group has reunited, that loyalty is exactly what a full-group comeback gets to build on.
 
 That's not fandom. That's devotion.
 
@@ -273,7 +273,7 @@ ENGENE skews young — a lot of 4th-generation K-Pop fans found ENHYPEN as their
 
 Streaming numbers are one story. What Korean fandom communities argue about internally is a different, more interesting one.
 
-**Military service is the single biggest fandom conversation in Korea, full stop.** Every able-bodied Korean man must serve roughly 18–21 months, usually before age 30, and idols are not exempt. ARMY's steady 24.9M listeners *during* BTS's enlistment period isn't just international loyalty — inside Korea, there's genuine cultural respect for artists who serve on schedule rather than seeking exemptions, and it's a recurring news topic every time a member's enlistment date approaches. Overseas fans sometimes see it as an inconvenient pause in content; Korean fans generally see it as simply part of being Korean.
+**Military service is the single biggest fandom conversation in Korea, full stop.** Every able-bodied Korean man must serve roughly 18–21 months, usually before age 30, and idols are not exempt. ARMY's steady 24.9M listeners *through* BTS's enlistment period, which wrapped up for every member by June 2025, wasn't just international loyalty — inside Korea, there's genuine cultural respect for artists who serve on schedule rather than seeking exemptions, and it was a recurring news topic every time a member's enlistment date approached. Overseas fans sometimes saw it as an inconvenient pause in content; Korean fans generally saw it as simply part of being Korean.
 
 **"Self-producing" is a real status marker, not just marketing.** When this post calls out Stray Kids' 3RACHA or SEVENTEEN's in-house writing units, that distinction carries real weight in Korean fan discourse — idols who write and compose their own material are seen as artists first, idols second, and that shapes how seriously Korean music critics and award shows treat them versus a purely vocal-and-dance act.
 

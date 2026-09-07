@@ -2,7 +2,7 @@
 title: "Stray Kids Part 2: From Rookie Rebels to Billboard Record-Breakers"
 date: 2026-08-05
 categories: [K-Pop]
-tags: [stray-kids, jyp-entertainment, billboard, world-tour, "2021", "2022"]
+tags: [stray-kids, jyp-entertainment, billboard, world-tour, "2022"]
 description: "How Stray Kids grew from a dark, defiant rookie group into a Billboard-dominating, stadium-filling global act. A look at the hits and moments that built their rise."
 image: /assets/img/posts/stray-kids-part2-thumbnail.jpg
 featured: false

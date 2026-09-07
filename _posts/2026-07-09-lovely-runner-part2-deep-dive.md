@@ -2,7 +2,7 @@
 title: "Lovely Runner: The Perfect Snack Drama — Deep Dive ⚠️ Spoilers"
 date: 2026-07-09
 categories: [K-Drama]
-tags: [k-drama, lovely-runner, byeon-woo-seok, kim-hye-yoon, time-slip, deep-dive, spoiler, "2024"]
+tags: [k-drama, deep-dive, spoiler]
 description: "Is Lovely Runner (선재 업고 튀어) a masterpiece? No. Is it the most enjoyable K-drama binge of 2024? Absolutely yes. Full spoiler breakdown."
 image:
   path: /assets/img/posts/lovely-runner-part2-cover.jpg
