@@ -40,7 +40,8 @@ social:
   name: Mr. Kunpacked
   email: # change to your email address
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
-  links: []
+  links:
+    - /about/
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username

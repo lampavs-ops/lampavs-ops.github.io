@@ -2,5 +2,6 @@ User-agent: *
 Allow: /
 Disallow: /tags/
 Disallow: /categories/
+Disallow: /archives/
 
 Sitemap: https://kunpacked.com/sitemap.xml
