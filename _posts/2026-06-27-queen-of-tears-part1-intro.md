@@ -3,7 +3,7 @@ title: "Queen of Tears (눈물의 여왕): The K-Drama That Made the Whole World
 date: 2026-06-27
 categories: [K-Drama]
 tags: [k-drama, queen-of-tears, netflix, romance, spoiler-free]
-description: "24.850% final episode rating. The most-watched Korean drama of all time on Netflix. Here is everything you need to know about Queen of Tears — no spoilers."
+description: "24.850% final episode rating. Netflix's most-watched Korean drama of the first half of 2024. Here is everything you need to know about Queen of Tears — no spoilers."
 image:
   path: /assets/img/posts/qot-part1-cover.jpg
   alt: "Queen of Tears 2024 tvN Netflix"
@@ -24,9 +24,9 @@ featured: true
 | Channel | tvN · Netflix (international) · TVING (Korea) |
 | Episodes | 16 |
 | Final episode rating | **24.850%** — all-time tvN record (nationwide average) |
-| Netflix hours watched | **689,500,000 hours** (Netflix's official "What We Watched: First Half of 2024" report) |
-| Netflix views | **29 million+ views** |
-| Netflix ranking | Netflix's most-watched Asian series of the first half of 2024 |
+| Netflix hours watched | **682,600,000 hours** ([CJ ENM newsroom](https://front.cjenm.com/en/news/cj-enm-tops-2024-kdrama-rankings/), citing Netflix's H1 2024 engagement data) |
+| Netflix views | **29.2 million views** |
+| Netflix ranking | Netflix's most-watched Korean drama of the first half of 2024 |
 | Writer | Park Ji-eun (same writer as Crash Landing on You) |
 | Directors | Kim Hee-won (Vincenzo) · Jang Young-woo |
 
@@ -126,7 +126,7 @@ Can two people who forgot how to love each other find their way back?
 | Category | Record |
 |----------|--------|
 | tvN peak rating | **24.850%** final episode — all-time tvN drama record |
-| Netflix | Most-watched Asian series of H1 2024 — 689.5M hours, 29M+ views (Netflix Engagement Report) |
+| Netflix | Most-watched Korean drama of H1 2024 — 682.6M hours, 29.2M views ([CJ ENM newsroom](https://front.cjenm.com/en/news/cj-enm-tops-2024-kdrama-rankings/), citing Netflix data) |
 | 2024 Baeksang Arts Awards | Kim Soo-hyun nominated for Best Actor · won Popularity Award |
 | 2024 Seoul International Drama Awards | Outstanding Korean Drama |
 | 2024 Asian Academy Creative Awards | Best Direction — Kim Hee-won & Jang Young-woo |
@@ -155,4 +155,4 @@ This show is for you if:
 
 ---
 
-*Data: Nielsen Korea · Netflix Engagement Report · Baeksang Arts Awards official*
+*Data: Nielsen Korea · [Netflix "What We Watched: First Half of 2024"](https://about.netflix.com/en/news/what-we-watched-the-first-half-of-2024) · [CJ ENM newsroom](https://front.cjenm.com/en/news/cj-enm-tops-2024-kdrama-rankings/) · Baeksang Arts Awards official*

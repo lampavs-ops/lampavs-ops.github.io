@@ -71,12 +71,12 @@ But watching adults play them for their lives — with real desperation, real lo
 
 > 🎬 [**▶ Watch 'Queen of Tears' Official Trailer on YouTube**](https://www.youtube.com/results?search_query=Queen+of+Tears+Official+Trailer+Netflix)
 
-### 📊 689,500,000 hours watched in the first half of 2024
+### 📊 682,600,000 hours watched in the first half of 2024
 
-In the first half of 2024, Queen of Tears was Netflix's **most-watched Asian series worldwide** — outranking almost every other non-English show on the platform and landing at #14 on Netflix's overall global Top 25 for the period.
+In the first half of 2024, Queen of Tears was Netflix's **most-watched Korean drama worldwide** — 682.6 million hours watched and 29.2 million views, according to [CJ ENM's newsroom](https://front.cjenm.com/en/news/cj-enm-tops-2024-kdrama-rankings/), citing Netflix's own H1 2024 engagement data.
 
 It also broke two major records:
-- **Most-watched K-drama ever on Netflix** (surpassing Crash Landing on You)
+- **Netflix's most-watched Korean drama of the first half of 2024**
 - **Highest-rated drama in tvN history** — peaking at 24.9% nationwide ratings
 
 The twist that made it work? It starts where most K-dramas end. The couple is already married — and about to divorce. Baek Hyun-woo is done. But then his wife Hong Hae-in is diagnosed with a terminal illness. And suddenly, everything he thought he felt gets complicated.
@@ -90,7 +90,7 @@ The twist that made it work? It starts where most K-dramas end. The couple is al
 | **Genre** | Romance, Comedy-Drama |
 | **Director** | Kim Hee-won, Jang Young-woo |
 | **Cast** | Kim Soo-hyun, Kim Ji-won |
-| **Netflix Hours** | **689,500,000 hrs** (H1 2024, Netflix Engagement Report) |
+| **Netflix Hours** | **682,600,000 hrs** (H1 2024, [CJ ENM newsroom](https://front.cjenm.com/en/news/cj-enm-tops-2024-kdrama-rankings/), citing Netflix data) |
 | **Peak Rating** | 24.9% — tvN all-time record |
 | **Writer** | Park Ji-eun (also wrote Crash Landing on You) |
 

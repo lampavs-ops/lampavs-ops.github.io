@@ -5,8 +5,6 @@ permalink: /about/
 layout: page
 ---
 
-# About K-Unpacked
-
 **Korean culture, unpacked.**
 
 K-Pop, K-Drama, K-Movie — Korean culture is taking over the world.
