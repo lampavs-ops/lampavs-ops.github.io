@@ -2,7 +2,7 @@
 title: "IVE Part 4 — Rebel Heart: The Empire Builds"
 date: 2026-07-05
 categories: [K-Pop]
-tags: [k-pop, ive, dive]
+tags: [k-pop, ive]
 description: "2025 was IVE's year of total domination — Rebel Heart swept year-end honors, and 2026 brought Revive+, a sixth Perfect All-Kill, a second world tour, and an empire still growing. This is IVE at full power."
 image: /assets/img/posts/ive-part4-title.jpg
 featured: false

@@ -2,7 +2,7 @@
 title: "Parasite: Ending Explained & Every Hidden Symbol ⚠️ Full Spoilers"
 date: 2026-06-21
 categories: [K-Movie]
-tags: [k-movie, parasite, deep-dive, spoiler, ending-explained, symbolism]
+tags: [k-movie, deep-dive, spoiler]
 description: "Full spoiler breakdown of Parasite — the garden party explosion, the rock, the smell, the stairs, the ending, and why Korean and global audiences reacted so differently."
 image:
   path: /assets/img/posts/parasite-part2-cover.jpg

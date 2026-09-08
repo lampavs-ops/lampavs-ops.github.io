@@ -8,6 +8,7 @@ image:
 featured: false
 canonical_url: "https://kunpacked.com/posts/kdrama-top10-part1-rankings/"
 sitemap: false
+published: false
 ---
 
 <script>window.location.replace("{{ site.url }}/posts/kdrama-top10-part1-rankings/");</script>

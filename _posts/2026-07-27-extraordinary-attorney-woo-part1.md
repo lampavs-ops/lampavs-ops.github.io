@@ -2,7 +2,7 @@
 title: "Extraordinary Attorney Woo (Part 1): The Drama That Started at 0.9% and Ended at 17.5%"
 date: 2026-07-27
 categories: [K-Drama]
-tags: [extraordinary-attorney-woo, k-drama, spoiler-free, netflix, "2022"]
+tags: [k-drama, spoiler-free, netflix]
 description: "A spoiler-free guide to Extraordinary Attorney Woo, the K-drama that opened at 0.9% ratings and closed at 17.5%. Meet Woo Young-woo, whales and all."
 image: /assets/img/posts/kdrama-attorney-woo.jpg
 featured: false
@@ -203,8 +203,7 @@ A drama that had every excuse to be small and became enormous instead. The whale
 
 ## Coming Up in This Series
 
-- **Part 2 — Deep Dive (⚠️ full spoilers):** the village tree case, the mother question, what Kwon Min-woo actually represents, the whale as visual language, and the ending. → *[Read Part 2](/posts/extraordinary-attorney-woo-part2/)*
-- **Part 3 — Cast & Creators:** Yoo In-shik, Moon Ji-won, and the actors, with official SNS links. → *[Read Part 3](/posts/extraordinary-attorney-woo-part3/)*
+- **Part 2 — Deep Dive (⚠️ full spoilers):** the village tree case, the mother question, what Kwon Min-woo actually represents, the whale as visual language, the ending, and full cast & creator profiles. → *[Read Part 2](/posts/extraordinary-attorney-woo-part2/)*
 
 **More K-Drama on K-Unpacked:**
 - [Queen of Tears — Part 1](/posts/queen-of-tears-part1/)

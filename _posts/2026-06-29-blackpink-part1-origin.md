@@ -2,7 +2,7 @@
 title: "BLACKPINK Part 1 — Four Strangers, One Dream: The Origin Story"
 date: 2026-06-29
 categories: [K-Pop]
-tags: [k-pop, blackpink, blink, debut, origin]
+tags: [k-pop, blackpink]
 description: "How four girls from South Korea, Thailand, New Zealand, and Australia ended up in the same YG dormitory — and became BLACKPINK. The casting stories, the 6-year training, and the debut that changed K-pop girl groups forever."
 image: /assets/img/posts/blackpink-part1-title.jpg
 featured: false

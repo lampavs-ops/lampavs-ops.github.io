@@ -2,7 +2,7 @@
 title: "K-Pop Boy Group Fandom TOP 5: BTS to ENHYPEN — Who Are They Really?"
 date: 2026-06-18
 categories: [K-Pop]
-tags: [k-pop, bts, army, stray-kids, seventeen, carat, fandom]
+tags: [k-pop, bts]
 description: "A close look at the 5 biggest K-Pop boy group fandoms in 2026 — ARMY, STAY, CARAT, MOA, and ENGENE. What makes each group special, and why do their fans never leave?"
 image: /assets/img/posts/kpop-boygroup-top5-cover.jpg
 featured: false

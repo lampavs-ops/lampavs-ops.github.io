@@ -2,7 +2,7 @@
 title: "10 Korean Dramas That Became Global Netflix Phenomena"
 date: 2026-06-16
 categories: [K-Drama]
-tags: [k-drama, netflix, squid-game, queen-of-tears, most-watched, global, crash-landing-on-you, when-life-gives-you-tangerines]
+tags: [k-drama, netflix]
 description: "Ten K-dramas that broke real Netflix viewing records, each measured on its own terms. What the numbers actually mean, why we stopped forcing them into one ranking, and the full story behind every show."
 image:
   path: /assets/img/posts/kdrama-top10-cover.jpg

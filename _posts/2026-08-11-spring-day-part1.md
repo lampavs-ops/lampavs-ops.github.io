@@ -2,7 +2,7 @@
 title: "One Fine Spring Day: The Korean Classic That Defines Heartbreak"
 date: 2026-08-11
 categories: [Deep Dive]
-tags: [hur-jin-ho, spoiler-free, k-masterpiece]
+tags: [spoiler-free]
 description: "Meet One Fine Spring Day (Bomnaleun Ganda), the 2001 Korean classic about love, seasons, and heartbreak. A spoiler-free introduction to one of Korea's most beloved films."
 image: /assets/img/posts/spring-day-part1-thumbnail.jpg
 featured: false

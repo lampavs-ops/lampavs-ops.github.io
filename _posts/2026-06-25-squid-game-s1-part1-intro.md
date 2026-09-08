@@ -2,7 +2,7 @@
 title: "Squid Game Season 1: The Show That Broke Netflix — Spoiler-Free Guide"
 date: 2026-06-25
 categories: [K-Drama]
-tags: [k-drama, squid-game, netflix, spoiler-free]
+tags: [k-drama, netflix, spoiler-free]
 description: "Number 1 in 94 countries at the same time. The most-watched show in Netflix history. Here is everything you need to know before watching Squid Game Season 1."
 image:
   path: /assets/img/posts/squid-s1-part1-cover.jpg
@@ -10,9 +10,8 @@ image:
 featured: true
 ---
 
-> 👉 **This is Part 1 of a 3-part series on Squid Game Season 1.**
-> - [**Part 2 — Every Game Analyzed & Full Spoiler Deep Dive →**]({{ site.baseurl }}/posts/squid-game-s1-part2-deep-dive/)
-> - [**Part 3 — Director Hwang Dong-hyuk & Cast Profiles →**]({{ site.baseurl }}/posts/squid-game-s1-part3-director-cast/)
+> 👉 **This is Part 1 of a 2-part series on Squid Game Season 1.**
+> - [**Part 2 — Every Game Analyzed, Full Spoiler Deep Dive & Cast Profiles →**]({{ site.baseurl }}/posts/squid-game-s1-part2-deep-dive/)
 
 ---
 
@@ -164,9 +163,8 @@ Neither audience is watching a "wrong" version of the show. But it's worth knowi
 
 ## 🔗 Read More
 
-- [**Part 2 — Every Game Analyzed & Full Spoiler Deep Dive →**]({{ site.baseurl }}/posts/squid-game-s1-part2-deep-dive/)
-- [**Part 3 — Director Hwang Dong-hyuk & Cast →**]({{ site.baseurl }}/posts/squid-game-s1-part3-director-cast/)
-- [Most Watched K-Dramas of All Time — Top 10 →]({{ site.baseurl }}/posts/kdrama-top10-part1-rankings/)
+- [**Part 2 — Every Game Analyzed, Full Spoiler Deep Dive & Cast Profiles →**]({{ site.baseurl }}/posts/squid-game-s1-part2-deep-dive/)
+- [10 Korean Dramas That Became Global Netflix Phenomena →]({{ site.baseurl }}/posts/kdrama-top10-part1-rankings/)
 - [Parasite — The Korean Film That Won the Oscars →]({{ site.baseurl }}/posts/parasite-part1-intro/)
 - [See all K-Drama posts →]({{ site.baseurl }}/categories/k-drama/)
 

@@ -2,7 +2,7 @@
 title: "The Glory Part 2: Ending Explained, Hidden Symbols, and Why the World Couldn't Stop Watching"
 date: 2026-07-23
 categories: [K-Drama, Series Reviews]
-tags: [the-glory, netflix, deep-dive]
+tags: [netflix, deep-dive]
 description: "A deep dive into The Glory's ending, its biggest twists, and how a dark revenge story became one of Netflix's most-watched Korean dramas ever."
 image: /assets/img/posts/the-glory-part2-thumbnail.jpg
 featured: false

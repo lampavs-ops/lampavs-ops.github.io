@@ -6,6 +6,7 @@ image: /assets/img/posts/kmovie-top1-5-title.jpg
 featured: false
 canonical_url: "https://kunpacked.com/posts/korean-movies-top10-overview/"
 sitemap: false
+published: false
 ---
 
 <script>window.location.replace("{{ site.url }}/posts/korean-movies-top10-overview/");</script>

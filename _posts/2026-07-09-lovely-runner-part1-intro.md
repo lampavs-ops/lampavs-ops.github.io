@@ -2,7 +2,7 @@
 title: "Lovely Runner (선재 업고 튀어): The Drama That Wouldn't Let Me Stop Watching — Spoiler-Free"
 date: 2026-07-09
 categories: [K-Drama]
-tags: [k-drama, romance, spoiler-free]
+tags: [k-drama, spoiler-free]
 description: "A fan travels back in time to save the idol she loves. Lovely Runner started quietly and ended as one of the biggest K-drama phenomena of 2024."
 image:
   path: /assets/img/posts/lovely-runner-part1-cover.jpg

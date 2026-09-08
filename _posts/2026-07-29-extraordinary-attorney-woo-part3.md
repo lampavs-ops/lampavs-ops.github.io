@@ -6,6 +6,7 @@ image: /assets/img/posts/extraordinary-attorney-woo-part1-thumbnail.jpg
 featured: false
 canonical_url: "https://kunpacked.com/posts/extraordinary-attorney-woo-part2/"
 sitemap: false
+published: false
 ---
 
 <script>window.location.replace("{{ site.url }}/posts/extraordinary-attorney-woo-part2/");</script>

@@ -2,7 +2,7 @@
 title: "Editor's Pick: Christmas in August, the Quiet Film That Changed Korean Romance"
 date: 2026-07-26
 categories: [Deep Dive]
-tags: [hur-jin-ho, deep-dive]
+tags: [deep-dive]
 description: "A personal walk through Christmas in August (1998), the understated Hur Jin-ho debut the Editor calls a true turning point for Korean romance."
 image: /assets/img/posts/christmas-in-august-thumbnail.jpg
 featured: false

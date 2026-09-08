@@ -2,7 +2,7 @@
 title: "TWICE Part 3: How Nine Girls Conquered Stadiums Around the World"
 date: 2026-07-20
 categories: [K-Pop, Artist & Album Reviews]
-tags: [twice, billboard, world-tour, k-pop-history, girl-group]
+tags: [billboard, girl-group]
 description: "From Fancy to sold-out stadiums in the US, Japan, and beyond, here is how TWICE became one of the biggest touring girl groups on the planet."
 image: /assets/img/posts/twice-part3-thumbnail.jpg
 featured: false

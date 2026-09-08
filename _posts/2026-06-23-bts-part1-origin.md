@@ -2,7 +2,7 @@
 title: "BTS Part 1 — Seven Strangers, One Stage: The Origin Story"
 date: 2026-06-23
 categories: [K-Pop]
-tags: [k-pop, bts, army, debut, origin]
+tags: [k-pop, bts]
 description: "How seven boys from across South Korea became BTS. The casting stories, the meaning behind the name, the grueling trainee years — and the debut nobody expected to matter."
 image: /assets/img/posts/bts-part1-title.jpg
 featured: false

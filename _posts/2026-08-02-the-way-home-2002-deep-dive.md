@@ -2,7 +2,7 @@
 title: "The Way Home (2002): The Silent Grandmother Who Made All of Korea Cry"
 date: 2026-08-02
 categories: [Deep Dive]
-tags: [deep-dive, k-masterpiece]
+tags: [deep-dive]
 description: "A deep dive into The Way Home (2002), the quiet Korean classic about a mute grandmother and her spoiled grandson that became a surprise box office hit."
 image: /assets/img/posts/the-way-home-2002-thumbnail.jpg
 featured: false

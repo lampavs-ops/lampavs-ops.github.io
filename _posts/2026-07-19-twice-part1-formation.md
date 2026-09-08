@@ -2,7 +2,7 @@
 title: "TWICE Part 1: How Nine Trainees Became One K-Pop Sensation"
 date: 2026-07-19
 categories: [K-Pop, Artist & Album Reviews]
-tags: [twice, jyp-entertainment, k-pop-history, girl-group, "2015"]
+tags: [girl-group]
 description: "The real story of how TWICE was born on a tough survival show, and why nine very different girls became one unstoppable group."
 image: /assets/img/posts/twice-part1-thumbnail.jpg
 featured: false

@@ -2,7 +2,7 @@
 title: "When Life Gives You Tangerines: The 2025 K-Drama That Stayed With Everyone"
 date: 2026-08-08
 categories: [K-Drama]
-tags: [when-life-gives-you-tangerines, iu, spoiler-free]
+tags: [spoiler-free]
 description: "Meet When Life Gives You Tangerines, the Netflix K-drama starring IU and Park Bo-gum that became one of 2025's most talked-about series. A spoiler-free guide before you watch."
 image: /assets/img/posts/tangerines-part1-thumbnail.jpg
 featured: false

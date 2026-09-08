@@ -2,7 +2,7 @@
 title: "IVE Part 3 — I Am Who I Am: The Artist Era"
 date: 2026-07-04
 categories: [K-Pop]
-tags: [k-pop, ive, dive, world-tour]
+tags: [k-pop, ive]
 description: "IVE's first studio album. Their first world tour. Lollapalooza. A David Guetta collab. The 'I Am' era wasn't just bigger music — it was IVE deciding, in public, exactly who they were going to be."
 image: /assets/img/posts/ive-part3-title.jpg
 featured: false

@@ -2,7 +2,7 @@
 title: "Parasite (기생충): The Korean Movie That Changed Everything — Spoiler-Free"
 date: 2026-06-20
 categories: [K-Movie]
-tags: [k-movie, parasite, korean-film, spoiler-free]
+tags: [k-movie, spoiler-free]
 description: "Cannes Palme d'Or. Four Oscars. The first non-English film to win Best Picture. Here's everything you need to know before watching Parasite — no spoilers."
 image:
   path: /assets/img/posts/parasite-part1-cover.jpg
@@ -10,9 +10,8 @@ image:
 featured: true
 ---
 
-> 👉 **This is Part 1 of a 3-part series on Parasite.**
-> - [**Part 2 — Ending Explained & Full Spoiler Deep Dive →**]({{ site.baseurl }}/posts/parasite-part2-deep-dive/)
-> - [**Part 3 — Director Bong Joon-ho & Cast Profiles →**]({{ site.baseurl }}/posts/parasite-part3-director-cast/)
+> 👉 **This is Part 1 of a 2-part series on Parasite.**
+> - [**Part 2 — Ending Explained, Full Spoiler Deep Dive & Cast Profiles →**]({{ site.baseurl }}/posts/parasite-part2-deep-dive/)
 
 ---
 
@@ -147,8 +146,7 @@ That gap — between what a film means to the culture it's from and what it mean
 
 ## 🔗 Read More
 
-- [**Part 2 — Ending Explained & Full Spoiler Deep Dive →**]({{ site.baseurl }}/posts/parasite-part2-deep-dive/)
-- [**Part 3 — Director Bong Joon-ho & Cast →**]({{ site.baseurl }}/posts/parasite-part3-director-cast/)
+- [**Part 2 — Ending Explained, Full Spoiler Deep Dive & Cast Profiles →**]({{ site.baseurl }}/posts/parasite-part2-deep-dive/)
 - [Extreme Job — Korea's #2 All-Time Comedy →]({{ site.baseurl }}/posts/extreme-job-part1-intro/)
 - [Most Watched K-Dramas of All Time →]({{ site.baseurl }}/posts/kdrama-top10-part1-rankings/)
 - [See all K-Movie posts →]({{ site.baseurl }}/categories/k-movie/)

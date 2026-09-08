@@ -6,6 +6,7 @@ image: /assets/img/posts/tangerines-part1-thumbnail.jpg
 featured: false
 canonical_url: "https://kunpacked.com/posts/tangerines-part1/"
 sitemap: false
+published: false
 ---
 
 <script>window.location.replace("{{ site.url }}/posts/tangerines-part1/");</script>

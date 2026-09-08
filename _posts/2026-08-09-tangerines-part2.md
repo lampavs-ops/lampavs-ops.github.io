@@ -2,7 +2,7 @@
 title: "When Life Gives You Tangerines: The Scenes That Wrecked Everyone"
 date: 2026-08-09
 categories: [K-Drama]
-tags: [when-life-gives-you-tangerines, iu, deep-dive]
+tags: [deep-dive]
 description: "A full spoiler breakdown of When Life Gives You Tangerines, including the loss of Ae-sun and Gwan-sik's youngest son and Geum-myeong's heartbreaking choice between two very different loves."
 image: /assets/img/posts/tangerines-part2-thumbnail.jpg
 featured: false

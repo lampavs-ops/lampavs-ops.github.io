@@ -2,7 +2,7 @@
 title: "Extreme Job — Director & Cast: The People Behind Korea's Funniest Movie"
 date: 2026-06-30
 categories: [K-Movie]
-tags: [k-movie, extreme-job, ryu-seung-ryong, jin-sun-kyu]
+tags: [k-movie]
 description: "Meet the director and five leads of Extreme Job (극한직업) — their careers, surprising backgrounds, and what they've done since the movie that broke Korean box office records."
 image:
   path: /assets/img/posts/extreme-job-part3-cover.jpg
@@ -297,7 +297,7 @@ The ensemble works because no one tries to dominate. Director Lee Byeong-heon bu
 
 - [**Part 1 — Spoiler-Free Introduction →**]({{ site.baseurl }}/posts/extreme-job-part1-intro/)
 - [**Part 2 — Deep Dive & Spoilers →**]({{ site.baseurl }}/posts/extreme-job-part2-deep-dive/)
-- [Parasite — Director & Cast →]({{ site.baseurl }}/posts/parasite-part3-director-cast/)
+- [Parasite — Ending Explained & Full Cast →]({{ site.baseurl }}/posts/parasite-part2-deep-dive/)
 - [See all K-Movie posts →]({{ site.baseurl }}/categories/k-movie/)
 
 ---

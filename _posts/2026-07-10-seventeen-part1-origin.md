@@ -2,7 +2,7 @@
 title: "SEVENTEEN Part 1 — Thirteen Strangers, One Vision: The Origin Story"
 date: 2026-07-10
 categories: [K-Pop]
-tags: [k-pop, seventeen, carat, debut, origin]
+tags: [k-pop]
 description: "How 13 boys from across Korea, the US, and China were found on streets, at dance competitions, and online — and became SEVENTEEN. The casting stories, the meaning behind the name, and the debut nobody saw coming."
 image: /assets/img/posts/seventeen-part1-title.jpg
 featured: false

@@ -2,7 +2,7 @@
 title: "Queen of Tears (눈물의 여왕): The K-Drama That Made the Whole World Cry — Spoiler-Free"
 date: 2026-06-27
 categories: [K-Drama]
-tags: [k-drama, queen-of-tears, netflix, romance, spoiler-free]
+tags: [k-drama, netflix, spoiler-free]
 description: "24.850% final episode rating. Netflix's most-watched Korean drama of the first half of 2024. Here is everything you need to know about Queen of Tears — no spoilers."
 image:
   path: /assets/img/posts/qot-part1-cover.jpg
@@ -10,9 +10,8 @@ image:
 featured: true
 ---
 
-> 👉 **This is Part 1 of a 3-part series on Queen of Tears.**
-> - [**Part 2 — Ending Explained & Full Spoiler Deep Dive →**]({{ site.baseurl }}/posts/queen-of-tears-part2-deep-dive/)
-> - [**Part 3 — Writer, Directors & Cast Profiles →**]({{ site.baseurl }}/posts/queen-of-tears-part3-cast/)
+> 👉 **This is Part 1 of a 2-part series on Queen of Tears.**
+> - [**Part 2 — Ending Explained, Full Spoiler Deep Dive & Cast Profiles →**]({{ site.baseurl }}/posts/queen-of-tears-part2-deep-dive/)
 
 ---
 

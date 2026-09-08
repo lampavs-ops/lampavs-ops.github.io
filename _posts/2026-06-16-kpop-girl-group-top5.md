@@ -2,7 +2,7 @@
 title: "K-Pop's Biggest Girl Group Fandoms in 2026 — TOP 5 List"
 date: 2026-06-16 09:00:00 +0900
 categories: [K-Pop]
-tags: [k-pop, blackpink, twice, fandom, girl-group]
+tags: [k-pop, blackpink, girl-group]
 description: "BLACKPINK, TWICE, NewJeans and more — who has the biggest girl group fandom in 2026? We ranked the top 5 using Spotify, album sales, and world tour data."
 image:
   path: /assets/img/posts/kpop-girlgroup-top5-cover.jpg

@@ -8,6 +8,7 @@ image:
 featured: false
 canonical_url: "https://kunpacked.com/posts/queen-of-tears-part2-deep-dive/"
 sitemap: false
+published: false
 ---
 
 <script>window.location.replace("{{ site.url }}/posts/queen-of-tears-part2-deep-dive/");</script>

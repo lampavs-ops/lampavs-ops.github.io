@@ -2,7 +2,7 @@
 title: "[Hidden Gems] Drama | Hello Ghost (2010) — The Movie That Made My Emotionless Wife Cry"
 date: 2026-07-07 09:00:00 +0900
 categories: [K-Movie]
-tags: [k-movie, korean-comedy, spoiler]
+tags: [k-movie, spoiler]
 description: "Hello Ghost is a quiet little movie. But the last 15 minutes hit you somewhere you did not expect. A hidden gem that made remakes in 3 countries."
 image:
   path: /assets/img/posts/hello-ghost-cover.jpg

@@ -8,6 +8,7 @@ image:
 featured: false
 canonical_url: "https://kunpacked.com/posts/parasite-part2-deep-dive/"
 sitemap: false
+published: false
 ---
 
 <script>window.location.replace("{{ site.url }}/posts/parasite-part2-deep-dive/");</script>

@@ -2,7 +2,7 @@
 title: "Extraordinary Attorney Woo (Part 2): The Ending, the Whale, and the Mother Who Left"
 date: 2026-07-28
 categories: [K-Drama]
-tags: [extraordinary-attorney-woo, k-drama, deep-dive, netflix, "2022"]
+tags: [k-drama, deep-dive, netflix]
 description: "A full spoiler deep dive into Extraordinary Attorney Woo: the hackberry tree case, Tae Soo-mi's secret, Kwon Min-woo's arc, the whale symbolism, and the finale."
 image: /assets/img/posts/extraordinary-attorney-woo-part2-thumbnail.jpg
 featured: false

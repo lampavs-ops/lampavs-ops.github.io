@@ -2,7 +2,7 @@
 title: "BLACKPINK Part 2 — How Four Girls Conquered the World: The Rise"
 date: 2026-06-29
 categories: [K-Pop]
-tags: [k-pop, blackpink, blink, billboard, global]
+tags: [k-pop, blackpink, billboard]
 description: "From the highest K-pop girl group chart position in history to headlining Coachella — the complete story of how BLACKPINK broke every barrier the music industry put in front of them."
 image: /assets/img/posts/blackpink-part2-title.jpg
 featured: false

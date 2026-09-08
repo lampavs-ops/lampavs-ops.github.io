@@ -2,7 +2,7 @@
 title: "Crash Landing on You: Is It Really Worth the Hype?"
 date: 2026-06-17
 categories: [K-Drama]
-tags: [crash-landing-on-you, romance, spoiler-free, masterpiece]
+tags: [spoiler-free, masterpiece]
 description: "Never seen Crash Landing on You? Here's everything you need to know before you hit play, including the real Korean history behind the story, no spoilers, just reasons to watch."
 image: /assets/img/posts/cloy-intro.jpg
 featured: false

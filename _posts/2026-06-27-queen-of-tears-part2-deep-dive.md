@@ -2,7 +2,7 @@
 title: "Queen of Tears Deep Dive: Ending Explained & Every Scene That Made You Cry ⚠️ Spoilers"
 date: 2026-06-27
 categories: [K-Drama]
-tags: [k-drama, queen-of-tears, deep-dive, spoiler, ending-explained]
+tags: [k-drama, deep-dive, spoiler]
 description: "Full spoiler breakdown of Queen of Tears — the brain tumor twist, the lavender garden in Germany, the memory-loss arc, the ending explained, and what critics and fans said."
 image:
   path: /assets/img/posts/qot-part2-cover.jpg
@@ -13,9 +13,8 @@ featured: false
 > ⚠️ **Full spoilers ahead.** Watch the show first.
 > Haven't seen it yet? → [**Part 1: Spoiler-Free Introduction →**]({{ site.baseurl }}/posts/queen-of-tears-part1-intro/)
 
-> 👉 **This is Part 2 of a 3-part series.**
+> 👉 **This is Part 2 of a 2-part series** — the ending, full spoiler deep dive, and the writer & cast profiles below.
 > - [**Part 1 — Spoiler-Free Introduction →**]({{ site.baseurl }}/posts/queen-of-tears-part1-intro/)
-> - [**Part 3 — Writer & Cast →**]({{ site.baseurl }}/posts/queen-of-tears-part3-cast/)
 
 ---
 
@@ -141,8 +140,6 @@ Kim Hee-won (*Vincenzo*, *Little Women*) is known for a visually striking style 
 **Park Sung-hoon (박성훈) — Yoon Eun-sung.** A former Wall Street analyst obsessively connected to Hae-in's past. Park drew attention for his intensity playing a bully in *The Glory*, and brings a similarly sharp edge here — though the show gradually complicates any simple read of him as pure villain. He went on to build on that momentum with a role in *Squid Game* Season 2.
 
 > 💡 **The "Two Kims" chemistry:** This was actually Kim Soo-hyun and Kim Ji-won's first time appearing together on screen — Kim Soo-hyun had worked with writer Park Ji-eun before, but on *My Love from the Star*, opposite Jun Ji-hyun.
-
-👉 Want the full profiles, filmographies, and where-are-they-now details? See the [**Queen of Tears Writer & Cast Quick Reference →**]({{ site.baseurl }}/posts/queen-of-tears-part3-cast/).
 
 ---
 

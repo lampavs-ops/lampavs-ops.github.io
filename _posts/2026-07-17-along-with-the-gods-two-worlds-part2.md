@@ -2,7 +2,7 @@
 title: "Along with the Gods: The Two Worlds — Ending Explained & The Meaning Behind the Seven Hells"
 date: 2026-07-17
 categories: [K-Movie]
-tags: [along-with-the-gods, deep-dive]
+tags: [deep-dive]
 description: "A full spoiler breakdown of Along with the Gods: The Two Worlds — the seven hells explained, the twist behind Soo-hong, and what the ending really means."
 image: /assets/img/posts/along-with-the-gods-seven-hells-thumbnail.jpg
 featured: false

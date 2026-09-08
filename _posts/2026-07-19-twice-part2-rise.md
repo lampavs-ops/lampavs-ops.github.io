@@ -2,7 +2,7 @@
 title: "TWICE Part 2: Cheer Up, TT, and the Rise of a K-Pop Powerhouse"
 date: 2026-07-19
 categories: [K-Pop, Artist & Album Reviews]
-tags: [twice, k-pop-history, girl-group]
+tags: [girl-group]
 description: "How TWICE went from promising rookies to record-breaking superstars with Cheer Up, TT, and one unforgettable dance craze."
 image: /assets/img/posts/twice-part2-thumbnail.jpg
 featured: false
