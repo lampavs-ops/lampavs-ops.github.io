@@ -149,8 +149,7 @@ Kim Hee-won (*Vincenzo*, *Little Women*) is known for a visually striking style 
 ## 👉 Continue Reading
 
 - [**Part 1 — Spoiler-Free Introduction →**]({{ site.baseurl }}/posts/queen-of-tears-part1-intro/)
-- [**Full Writer & Cast Quick Reference →**]({{ site.baseurl }}/posts/queen-of-tears-part3-cast/)
-- [Crash Landing on You Deep Dive →]({{ site.baseurl }}/posts/kdrama-top10-part3-rank6to10/)
+- [Crash Landing on You Deep Dive →]({{ site.baseurl }}/posts/crash-landing-on-you-deep-dive/)
 - [See all K-Drama posts →]({{ site.baseurl }}/categories/k-drama/)
 
 ---

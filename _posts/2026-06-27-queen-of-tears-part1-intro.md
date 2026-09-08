@@ -147,10 +147,9 @@ This show is for you if:
 
 ## 🔗 Read More
 
-- [**Part 2 — Ending Explained & Spoiler Deep Dive →**]({{ site.baseurl }}/posts/queen-of-tears-part2-deep-dive/)
-- [**Part 3 — Writer Park Ji-eun & Cast Profiles →**]({{ site.baseurl }}/posts/queen-of-tears-part3-cast/)
-- [Crash Landing on You — Park Ji-eun's previous tvN #1 →]({{ site.baseurl }}/posts/kdrama-top10-part3-rank6to10/)
-- [Most Watched K-Dramas of All Time →]({{ site.baseurl }}/posts/kdrama-top10-part1-rankings/)
+- [**Part 2 — Ending Explained, Writer & Cast Profiles →**]({{ site.baseurl }}/posts/queen-of-tears-part2-deep-dive/)
+- [Crash Landing on You — Park Ji-eun's previous tvN #1 →]({{ site.baseurl }}/posts/crash-landing-on-you-deep-dive/)
+- [10 Korean Dramas That Became Global Netflix Phenomena →]({{ site.baseurl }}/posts/kdrama-top10-part1-rankings/)
 - [See all K-Drama posts →]({{ site.baseurl }}/categories/k-drama/)
 
 ---

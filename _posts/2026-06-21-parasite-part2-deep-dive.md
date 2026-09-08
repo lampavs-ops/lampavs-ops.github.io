@@ -13,9 +13,8 @@ featured: false
 > ⚠️ **FULL SPOILERS AHEAD.** Watch the movie first.
 > Haven't seen it yet? → [**Part 1: Spoiler-Free Introduction →**]({{ site.baseurl }}/posts/parasite-part1-intro/)
 
-> 👉 **This is Part 2 of a 3-part series.**
+> 👉 **This is Part 2 of a 2-part series** — the ending, full symbolism breakdown, and the director & cast profiles below.
 > - [**Part 1 — Spoiler-Free Introduction →**]({{ site.baseurl }}/posts/parasite-part1-intro/)
-> - [**Part 3 — Director & Cast →**]({{ site.baseurl }}/posts/parasite-part3-director-cast/)
 
 ---
 
@@ -213,14 +212,11 @@ At the Oscars, accepting Best Director, he paraphrased a line he says he carved 
 
 > 💡 **Why the ensemble worked:** No single actor dominates. Song Kang-ho holds the center, Choi Woo-shik drives the story forward, Park So-dam adds danger, and Lee Sun-kyun and Jo Yeo-jeong create the contrast that makes the class divide visible on screen.
 
-👉 Want the full profiles, filmographies, and where-are-they-now details? See the [**Parasite Cast & Creators Quick Reference →**]({{ site.baseurl }}/posts/parasite-part3-director-cast/).
-
 ---
 
 ## 👉 Continue Reading
 
 - [**Part 1 — Spoiler-Free Introduction →**]({{ site.baseurl }}/posts/parasite-part1-intro/)
-- [**Full Cast & Creators Quick Reference →**]({{ site.baseurl }}/posts/parasite-part3-director-cast/)
 - [Extreme Job Deep Dive →]({{ site.baseurl }}/posts/extreme-job-part2-deep-dive/)
 - [See all K-Movie posts →]({{ site.baseurl }}/categories/k-movie/)
 

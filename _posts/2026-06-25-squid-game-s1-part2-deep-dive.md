@@ -13,9 +13,8 @@ featured: false
 > ⚠️ **Full spoilers ahead.** Watch Season 1 first.
 > Not seen it yet? → [**Part 1: Spoiler-Free Introduction →**]({{ site.baseurl }}/posts/squid-game-s1-part1-intro/)
 
-> 👉 **This is Part 2 of a 3-part series.**
+> 👉 **This is Part 2 of a 2-part series** — the full game breakdown, ending, and the director & cast profiles below.
 > - [**Part 1 — Spoiler-Free Introduction →**]({{ site.baseurl }}/posts/squid-game-s1-part1-intro/)
-> - [**Part 3 — Director & Cast →**]({{ site.baseurl }}/posts/squid-game-s1-part3-director-cast/)
 
 ---
 
@@ -197,14 +196,11 @@ While the script sat in that drawer, Hwang kept working on other films, includin
 
 > 💡 **Why the ensemble worked:** Squid Game isn't built around one star — it's built around six people whose desperation each represents something different: personal failure, ambition gone wrong, systemic exclusion, exploitation of the vulnerable, and what happens at the very top of the system.
 
-👉 Want the full profiles, filmographies, and where-are-they-now details? See the [**Squid Game S1 Cast & Creators Quick Reference →**]({{ site.baseurl }}/posts/squid-game-s1-part3-director-cast/).
-
 ---
 
 ## 👉 Continue Reading
 
 - [**Part 1 — Spoiler-Free Introduction →**]({{ site.baseurl }}/posts/squid-game-s1-part1-intro/)
-- [**Full Cast & Creators Quick Reference →**]({{ site.baseurl }}/posts/squid-game-s1-part3-director-cast/)
 - [Parasite Deep Dive — Symbolism & Ending →]({{ site.baseurl }}/posts/parasite-part2-deep-dive/)
 - [Most Watched K-Dramas of All Time →]({{ site.baseurl }}/posts/kdrama-top10-part1-rankings/)
 - [See all K-Drama posts →]({{ site.baseurl }}/categories/k-drama/)
