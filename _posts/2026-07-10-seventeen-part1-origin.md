@@ -34,6 +34,8 @@ That is what SEVENTEEN does. That is the kind of fandom they build — quietly, 
 
 This is where the story starts.
 
+**K-Unpacked's take:** Ana's story is not really a story about how good SEVENTEEN's music is — plenty of great music doesn't send a teenager down the road of self-taught fluency in a foreign language. What it points to instead is a specific kind of parasocial motivation that self-producing idol groups tend to generate more of than typical acts: the desire to understand the artist directly, unfiltered, rather than through a translated caption or a dubbed interview. SEVENTEEN's thirteen members write, compose, and choreograph a large share of their own material (the group's defining trait, covered later in this series) which means their interviews and behind-the-scenes content carry more of the members' actual voice than a heavily managed act's would. That is a small, structural reason why a fan in Jakarta with no Korean family and no exchange program might decide the songs were worth learning a language for.
+
 > 📌 **This is Part 1 of a 4-part SEVENTEEN series.**
 > - **Part 1 — Thirteen Strangers, One Vision** ← you are here
 > - [Part 2 — The Self-Made Machine](/posts/seventeen-part2-selfmade/)

@@ -26,6 +26,8 @@ Pledis Entertainment was asking the public to trust thirteen unfamiliar young me
 
 This is how the machine began to work.
 
+**K-Unpacked's take:** It's worth being precise about why "self-producing" was a genuine gamble in 2015 rather than just an appealing marketing line. A company the size of Pledis could not fall back on a Big Three label's insulation if the bet failed — no deep bench of proven producers to quietly fix a weak song, no guaranteed broadcast slots to cushion a cold reception. Handing thirteen unproven trainees real creative authority meant that if the music was mediocre, there was no one else to blame and no safety net underneath it. The fact that it worked is part of why "self-producing idol" later became a status marker other groups actively adopted (Stray Kids' 3RACHA is the clearest parallel on this site) rather than staying a one-off experiment — SEVENTEEN essentially proved the model was viable for a mid-sized company, not just a fluke of thirteen unusually talented individuals.
+
 > 📌 **This is Part 2 of a 4-part SEVENTEEN series.**
 >
 > * Part 1 — Thirteen Strangers, One Vision

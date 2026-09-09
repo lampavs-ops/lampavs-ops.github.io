@@ -20,6 +20,8 @@ Then they completed South Korea's mandatory military service — after years of 
 
 This is what an empire looks like.
 
+**K-Unpacked's take:** The record book below is easy to skim past as just a wall of "first Korean act to..." headlines. The more interesting pattern is what happened around the records, not the records themselves. Most pop acts treat a mandatory two-to-three-year gap as a career risk to be managed. BTS's management essentially let it happen in public, with seven separate solo careers running simultaneously instead of the group going quiet — and the fact that "Take Two" still crossed 200 million Spotify streams with zero full-group promotion is the real data point here, not the ARIRANG comeback numbers. It says the fandom BTS built by 2020 was durable enough to survive three years with almost nothing new from the group itself. That is a much harder thing to engineer than a Hot 100 debut.
+
 > 📌 **This is Part 3 of a 3-part BTS series.**
 > - [Part 1 — Seven Strangers, One Stage](/posts/bts-part1-origin/) ← the beginning
 > - [Part 2 — How Seven Boys Moved the World](/posts/bts-part2-rise/) ← the rise

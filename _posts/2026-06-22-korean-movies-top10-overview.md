@@ -548,6 +548,12 @@ Neither reaction is "more correct" than the other. But it's a good reminder that
 
 ---
 
+## 💭 Why We Built the List This Way
+
+A generic "top Korean movies" roundup usually stops at the admissions table — pull the KOBIS numbers, rank them, done. We started there too, but the ranking itself was the easy part. The reason this page runs long is everything after it: the release-timing patterns, the *ipsomun* and *N차 관람* habits that actually explain how a film reaches 10 million tickets in a country of 51 million, and the cases (*Exhuma*, *Parasite*) where the domestic and international reaction genuinely diverged. That is context a box-office database cannot give you on its own, and it is the part of this page an aggregator scraping the same KOBIS numbers would have no way to reproduce.
+
+---
+
 ## 🔗 Related Reading
 
 - [Parasite: Spoiler-Free Guide →]({{ site.baseurl }}/posts/parasite-part1-intro/)

@@ -20,6 +20,8 @@ Then each of them went solo — and dominated that too.
 
 This is what BLACKPINK at full power looks like.
 
+**K-Unpacked's take:** The most telling record in this part is not the tour gross or the Billboard #1 — it's that all four members' solo careers took off at genuinely different scales and in genuinely different directions (Jennie's hip-hop-leaning solo work, Rosé's pop crossover, Lisa's acting and Western pop features, Jisoo's acting-forward path) without the group's own brand collapsing under the weight of it. In most girl groups, a strong solo era for one member tends to quietly reset the group's center of gravity around that person. BLACKPINK's four solo lanes stayed distinct enough that none of them became "the BLACKPINK member," which is a harder balance to hold than the individual solo numbers suggest on their own.
+
 > 📌 **This is Part 3 of a 3-part BLACKPINK series.**
 > - [Part 1 — Four Strangers, One Dream](/posts/blackpink-part1-origin/) ← the beginning
 > - [Part 2 — How Four Girls Conquered the World](/posts/blackpink-part2-rise/) ← the rise

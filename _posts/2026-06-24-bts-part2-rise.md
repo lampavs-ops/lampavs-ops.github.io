@@ -20,6 +20,8 @@ That was the moment the world started paying attention.
 
 But the story of *how* they got there started years earlier, in a cramped practice room in Seoul, with a group of teenagers who were told they'd never make it.
 
+**K-Unpacked's take:** Before BTS, "K-pop breaking through in America" almost always meant one song, one moment — PSY's "Gangnam Style" is the obvious case: a genuine phenomenon, but one built around a single viral clip rather than an ongoing relationship with an audience. What actually made BTS's rise structurally different, and much harder for another act to simply replicate, is that almost none of the milestones below are about one song going viral. They stack: a Twitter presence built years before anyone in the US industry was paying attention, a fandom infrastructure (ARMY) that had already learned to organize and vote as a bloc before the BBMA win, and a catalogue deep enough that a first-time listener in 2017 had four years of material to fall into instead of one clip to rewatch. Virality gets you a week of attention. What BTS built gets you seven straight years of milestones that compound on each other.
+
 > 📌 **This is Part 2 of a 3-part BTS series.**
 > - [Part 1 — Seven Strangers, One Stage](/posts/bts-part1-origin/) ← where it began
 > - **Part 2 — How Seven Boys Moved the World** ← you are here

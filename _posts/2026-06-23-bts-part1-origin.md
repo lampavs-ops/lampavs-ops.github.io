@@ -16,6 +16,8 @@ What Bang wanted next was different: a hip-hop group that was raw, real, and sai
 
 He started making calls. What came back would change music forever.
 
+**K-Unpacked's take:** The detail that gets lost in most BTS origin retellings is how much of a gamble the casting itself was, not just the company's small budget. Look at the roster Big Hit actually assembled: a street-cast acting student with zero singing experience (Jin), a member discovered by accident while accompanying a friend (V), and an underground rapper who thought he'd signed up to be a producer, not a performer, and jokes to this day that he was "tricked" into dancing (Suga). A Big Three label in 2010 was casting for a known formula — visuals, vocal ability, dance precision, proven trainee pedigree. Big Hit, with none of that formula's resources, ended up casting for something else almost by necessity: raw, specific personalities who could write and mean the confrontational lyrics Bang Si-hyuk wanted. That was not a marketing decision made in a boardroom. It was what happens when a company too small to compete on polish has to compete on something else instead.
+
 > 📌 **This is Part 1 of a 3-part BTS series.**
 > - **Part 1 — Seven Strangers, One Stage** ← you are here
 > - [Part 2 — How Seven Boys Moved the World](/posts/bts-part2-rise/)

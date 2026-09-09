@@ -5,16 +5,11 @@ permalink: /about/
 layout: page
 ---
 
-**Korean culture, unpacked.**
+**Korean culture, explained from Seoul.**
 
-K-Pop, K-Drama, K-Movie — Korean culture is taking over the world.
+K-Unpacked is written by someone who actually lives here — not aggregated from press releases, not written from a time zone that has never seen a Korean music show air live.
 
-But most content out there stays on the surface.
-"This drama is so good!" and nothing more.
-
-Real fans want more than that.
-They want context. Analysis. Hidden details.
-That's why K-Unpacked exists.
+Most K-Pop, K-Drama, and K-Movie coverage online stays on the surface: "this drama is so good!" and not much else, or a recap of facts you could find in five other places. Real fans want more than that. They want the context international coverage tends to miss — why a plot point lands differently for a Korean audience, why a fandom tradition exists, why a scene that reads as ordinary from Seoul reads as revelatory from abroad. That's the gap K-Unpacked tries to fill.
 
 ---
 
@@ -46,6 +41,17 @@ The cultural context every K-Culture fan should know.
 - Spoiler warnings. Always. No exceptions.
 - Copyright-safe content. We play by the rules.
 - Readers first. Always.
+
+---
+
+## Why Trust K-Unpacked?
+
+- **Based in Seoul.** Not a content farm writing about Korea from somewhere else — the person behind this blog lives here, watches these shows as they air, and follows this industry as a resident, not a tourist.
+- **First-hand Korean context.** Where it's relevant, posts explain how something actually plays domestically — a fandom tradition, a cultural reference, a reaction that differs from the international one — not just what happened.
+- **Sources for factual claims.** Chart numbers, box office figures, and streaming records are checked against named sources (KOFIC, Netflix's official reporting, Hanteo, Billboard, Soompi, Wikipedia) and linked wherever possible. If something can't be confirmed, it gets left out or flagged as an estimate.
+- **Independent editorial opinions.** Ratings, rankings, and analysis are this editor's own judgment — never paid placement, never a studio or agency's talking points.
+- **A corrections policy.** Mistakes get fixed, not buried. See the [Editorial Policy page](/editorial-policy/) for how that works.
+- **No studio, label, or agency affiliation.** Nobody here has ever been paid by an entertainment company to cover their artist or show.
 
 ---
 

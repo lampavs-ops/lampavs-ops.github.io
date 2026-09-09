@@ -6,6 +6,7 @@ tags: [bts, deep-dive]
 description: "How BTS used V Live to turn fans into real friends. A deep look at daily livestreams, no-agenda broadcasts, and the fan translation culture that built a global army."
 image: /assets/img/posts/bts-part4-new-media-fandom-thumbnail.jpg
 featured: false
+pin: true
 ---
 
 When people talk about BTS's success, they think of Billboard number ones, Grammy nods, or a speech at the United Nations. But ask an ARMY member why they first fell for BTS, and you often get a much smaller answer.

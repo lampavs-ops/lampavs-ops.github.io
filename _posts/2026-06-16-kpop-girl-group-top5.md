@@ -27,6 +27,14 @@ Here are the **2026 results**.
 
 ---
 
+## 🧮 How We Ranked This
+
+We sort by Spotify monthly listeners as the primary number, on purpose. It is the one metric here that is measured identically for every group and updated in real time, instead of being self-reported by an agency's PR team. Album sales, tour reach, and social following all matter too, and we bring them into each group's write-up below — but we do not fold them into one blended "score," because that would mean quietly picking our own weights and calling it objective. We would rather be upfront about exactly what "TOP 5" means here: reach, not a verdict on artistry or "who deserves it more."
+
+One honest limitation this list makes obvious: TWICE's real strength is undersold by where they land purely on 2025's snapshot number, because their fandom (ONCE) skews toward heavy album buying and stadium tour attendance over passive streaming — a pattern we dig into further in our [full boy-and-girl group ranking]({{ site.baseurl }}/posts/kpop-global-fandom-top10/). Numbers below reflect June 2026 data collection and will drift as new chart data comes in.
+
+---
+
 ## 🩷 Girl Groups — TOP 5 at a Glance
 
 *Sorted by Spotify monthly listeners in 2025*

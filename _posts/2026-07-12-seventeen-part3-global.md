@@ -29,6 +29,8 @@ Then COVID-19 closed concert venues around the world.
 For many artists, that period became a pause.
 For SEVENTEEN, it became an unexpected turning point.
 
+**K-Unpacked's take:** The "staircase, not explosion" framing above is the real thesis worth sitting with, because it cuts against how global K-pop breakthroughs usually get told — one viral single, one award-show moment, one before-and-after line on a timeline. SEVENTEEN's version of going global has no single clip you could point to as the turning point, which is exactly why the group is a useful counter-example to the idea that a K-pop act needs one enormous viral moment to cross over internationally. Steady catalogue-building, consistent touring, and a content strategy (GOING SEVENTEEN, mentioned below) that rewards fans for sticking around rather than fans discovering them through one clip, compounds slower but arguably more durably. It is a less dramatic story to tell than a Coachella debut or a Hot 100 #1. It is not a less effective one.
+
 The stages disappeared.
 The audience kept growing.
 

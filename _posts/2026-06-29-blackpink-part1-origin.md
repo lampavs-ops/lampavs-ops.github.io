@@ -18,6 +18,8 @@ Rosé later recalled that the connection among the four of them felt immediate a
 
 That night in the kitchen might be the real beginning of BLACKPINK.
 
+**K-Unpacked's take:** The number that stands out most in BLACKPINK's origin story is not the training years any one member logged individually — it's the seven-year gap YG let sit between 2NE1's 2009 debut and BLACKPINK's 2016 launch. Most labels, YG included in later years, treat a multi-year gap between girl-group debuts as a real financial and market risk: trainees age out, trends shift, and a rival label can simply fill the space first. YG let the lineup itself keep changing instead — reportedly cycling through proposals from five to nine members before settling on four — rather than debuting on a schedule. Whether that patience was strategy or simply repeated indecision is genuinely debatable. But the result was a group whose four members had already spent years learning each other's rhythms before a stage ever asked them to perform together, which is a very different foundation than a lineup assembled in the final months before debut.
+
 > 📌 **This is Part 1 of a 3-part BLACKPINK series.**
 > - **Part 1 — Four Strangers, One Dream** ← you are here
 > - [Part 2 — How Four Girls Conquered the World](/posts/blackpink-part2-rise/)

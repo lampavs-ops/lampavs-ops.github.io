@@ -18,6 +18,8 @@ It was their first studio album. Released just 16 months after their debut. And 
 
 The night was a statement: IVE wasn't just a singles machine. They were artists building something.
 
+**K-Unpacked's take:** The "artist era" pivot is a well-worn phase in K-pop career arcs, but the timing here is the interesting part. Most girl groups reach for an "I am who I am" studio-album statement two to three years into their catalogue, once the debut concept has run its course and diversification feels overdue. IVE did it at 16 months, while "Love Dive" and "After Like" were still fresh in rotation. That is a genuinely different sequencing choice, and it only works if the group's underlying identity from Part 1 was strong enough to survive being complicated this early. A weaker rookie concept would have made the pivot look like reinvention out of necessity. For IVE, it read as confirmation of a plan already in motion.
+
 > 📌 **This is Part 3 of a 4-part IVE series.**
 > - [Part 1 — I Have Everything: The Origin Story](/posts/ive-part1-origin/)
 > - [Part 2 — Eleven Was Just the Beginning](/posts/ive-part2-rise/)

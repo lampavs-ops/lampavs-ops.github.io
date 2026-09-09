@@ -14,6 +14,8 @@ No Korean girl group had ever performed at the festival before. Jennie, Lisa, Ji
 
 It had taken them three years to get there. But the story of *how* they got there starts in 2016, with two songs that nobody expected to hit the way they did.
 
+**K-Unpacked's take:** What's easy to miss in a milestone-by-milestone recap is how unusually fast BLACKPINK's specific path was compared to the rest of K-pop's global rise up to that point. Most of the acts that had made real inroads in the West before them — including, in a different lane, BTS — built their overseas audience gradually, over several album cycles, through direct fan communication and years of touring. BLACKPINK's international breakthrough compressed a lot of that timeline: two immediate chart-topping debut singles, a Coachella booking within three years, without the same multi-year grassroots-community build BTS relied on. That is not a knock on either group — it reflects two different bets. YG leaned on maximalist, immediately catchy singles and a "girl crush" visual identity built for instant impact, where Big Hit leaned on depth and slow-burn loyalty. Both worked. They are worth understanding as different strategies, not just different outcomes.
+
 > 📌 **This is Part 2 of a 3-part BLACKPINK series.**
 > - [Part 1 — Four Strangers, One Dream](/posts/blackpink-part1-origin/) ← where it began
 > - **Part 2 — How Four Girls Conquered the World** ← you are here

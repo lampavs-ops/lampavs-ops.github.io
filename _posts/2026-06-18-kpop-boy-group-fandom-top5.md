@@ -18,6 +18,8 @@ We already covered the full boy group and girl group rankings in our [K-Pop Glob
 
 > 📊 **Sources:** Spotify · Billboard · Hanteo Chart · 2025 Korean Wave Report.
 
+**How we ranked this:** Spotify monthly listeners is the primary sort — the one number here measured the same way for every group, in real time, without an agency's PR filter. It is a "reach" number, not a verdict on who deserves the fandom more; album sales, tour scale, and self-production credibility all factor into how we write about each group below, but we do not blend them into one opaque score. Data collected June 2026.
+
 ---
 
 ## 🥇 #1 — BTS · Fandom: ARMY | 24.9M Monthly Listeners

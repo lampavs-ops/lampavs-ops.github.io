@@ -31,6 +31,18 @@ Here are the **2026 results**.
 
 ---
 
+## 🧮 How We Actually Ranked This List
+
+A lot of "biggest fandom" rankings quietly blend a handful of numbers into one score and never explain how. We are doing the opposite: being upfront about exactly what we measured, why, and where it falls short.
+
+**The primary sort is Spotify monthly listeners.** We picked this as the backbone number for one honest reason: it is the only metric on this list that is measured the exact same way for every single group, updated constantly, and publicly visible without an agency's PR team filtering it first. Album sales, tour attendance, and social follower counts are all real signals of fandom strength, and we bring them into the write-up for each group below — but they are reported inconsistently (some agencies disclose exact sell-through numbers, others do not), so folding them into one blended score would let us quietly hide our assumptions inside made-up weights. We would rather show our work.
+
+**What this ranking is not measuring:** cultural impact, chart longevity, critical reception, or "who deserves it more." A group with a smaller but hyper-engaged fandom (heavy album buying, sold-out tours, low streaming) can be genuinely more commercially powerful than its Spotify number alone suggests — TWICE and Stray Kids are good examples we call out directly below. Read the number as "reach," not as a verdict.
+
+**Data collected:** June 2026, from the sources listed at the bottom of this post. Streaming numbers move week to week — treat every figure here as a snapshot, not a permanent scoreboard.
+
+---
+
 ## 🟢 Boy Groups — TOP 10
 
 *Sorted by Spotify monthly listeners in 2025*

@@ -18,6 +18,8 @@ At the end of that year, IVE stood at a podium at the Melon Music Awards and acc
 
 It was the third fastest a girl group had ever won a Daesang after debut. And they weren't done.
 
+**K-Unpacked's take:** A Daesang inside a group's first year is genuinely rare, and it's worth being precise about why it happened for IVE rather than treating it as simple proof of talent. Korean music awards weigh a mix of digital points, physical sales, and a jury/critic component, and jury voters in particular tend to reward songs that feel like a statement of identity, not just a catchy single. "Love Dive" landed at exactly the moment IVE's "confident from day one" positioning (the whole subject of Part 1) needed a song to prove it wasn't just packaging. A song and a persona validating each other in the same year is a much harder thing to manufacture than either one alone — most groups get one or the other in year one, rarely both at once.
+
 > 📌 **This is Part 2 of a 4-part IVE series.**
 > - [Part 1 — I Have Everything: The Origin Story](/posts/ive-part1-origin/)
 > - **Part 2 — Eleven Was Just the Beginning** ← you are here

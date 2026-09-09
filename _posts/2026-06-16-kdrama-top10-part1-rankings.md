@@ -79,6 +79,14 @@ Romance and thriller dominate. But the surprise? A quiet legal drama about a law
 
 ---
 
+## 💭 Why This List Looks Different From a Generic "Best K-Drama" Roundup
+
+Most sites that rank K-dramas by viewership just copy the same Netflix press-release numbers into a listicle and call it a ranking, even when those numbers were not measured the same way. We would rather show the seams than paper over them, which is why the "Measured" column above exists at all — most competing lists do not bother distinguishing a first-28-days record from a six-month engagement total, because acknowledging the difference makes for a messier, less clickable table. We think the messier, honest version is more useful.
+
+The other thing a generic roundup cannot give you is what comes after the number. This editor has watched all ten of these shows, several of them more than once, and every title below links out to a full spoiler-free introduction and a spoiler deep dive written from that actual watch — ending explained, hidden symbolism, and where relevant, how the Korean domestic reaction differed from the international one. That is the part a Netflix hours figure never tells you: not how big a show got, but why it actually landed the way it did.
+
+---
+
 ## 📅 By Year — The K-Drama Timeline
 
 | Year | Biggest Hit | Global Impact |
